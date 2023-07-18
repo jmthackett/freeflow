@@ -71,10 +71,12 @@ function love.keypressed(key, scancode, isRepeat)
     else
 
     if key == "up" then
+      vely = vely + dy * 20
       posy = posy+1
     end
 
     if key == "down" then
+       vely = vely + dy * 20
       posy = posy-1
     end
 	  field:keypressed(key, isRepeat)
@@ -117,5 +119,5 @@ function love.draw()
 
   love.graphics.setBackgroundColor( 0,0,0, 0 )
   love.graphics.setColor(1, 1, 1, 1)
-  love.graphics.printf(headline:content().."\n\n"..standfirst:content().."\n\n"..byline:content().."\n\n"..content, padding_left, posy, padding_right, "left")
+  love.graphics.printf(headline:content().."\n\n"..standfirst:content().."\n\n"..byline:content().."\n\n"..content, padding_left, vely, padding_right, "left")
 end
