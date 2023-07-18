@@ -1,0 +1,3 @@
+[submodule "suit"]
+	path = suit
+	url = git@github.com:vrld/suit.git

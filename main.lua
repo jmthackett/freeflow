@@ -6,9 +6,13 @@ local lpeg = require("lpeg")
 local re = require("re")
 local InputField = require("InputField")
 local inspect = require("inspect")
+local yui = require("lib.yui")
+local T = require("lib.moonspeak")
 
 local url = "https://www.theguardian.com/education/2023/jul/14/rishi-sunak-force-english-universities-cap-low-value-degrees"
 local field      = InputField(url)
+
+content = "zzz"
 
 function fetch_and_build(url) 
   local page, code, headers, status = https.request(url)
@@ -37,19 +41,6 @@ function fetch_and_build(url)
   return headline, standfirst, byline, content
 end
 
-local x, y, w, h = love.window.getSafeArea( )
-
-local padding_left = ((w / 100)*10)
-local padding_right = w - ((w / 100)*10)
-
-posx = nil
-posy = nil
-
-function love.load()
-	love.window.setMode(800, 600, {resizable=true, vsync=0, minwidth=400, minheight=300})
-    posx, posy = love.graphics.getWidth() * 0.5, love.graphics.getHeight() * 0.5
-    velx, vely = 0, 0
-end
 
 --local headline = love.graphics.newText(font, headline_h1:content())
 --local body = love.graphics.newText(font, standfirst_paragraph:content().."\n\n"..byline_paragraph:content().."\n\n"..processed_content)
@@ -59,65 +50,44 @@ local fieldY = 1
 
 headline, standfirst, byline, content = fetch_and_build(field.text)
 
-love.keyboard.setKeyRepeat(true)
+function love.load()
+	love.window.setMode(800, 600, {resizable=true, vsync=0, minwidth=400, minheight=300})
+    local w, h = love.graphics.getWidth(), love.graphics.getHeight()
+    local x = math.floor(love.graphics.getWidth())
+    local y = math.floor(love.graphics.getHeight())
 
-function enterkey()
-  
+    ui = yui.Ui:new {
+        x = 10, y = 10,
+
+        yui.Rows {
+            yui.Label {
+                align = "left",
+                w = w-20, h = 10,
+                text = headline:content()
+            },
+            yui.Label {
+                align = "left",
+                w = w-20, h = 40,
+                text = standfirst:content()
+            },
+            yui.Label {
+                align = "left",
+                w = w-20, h = 90,
+                text = byline:content()
+            },
+            yui.Label {
+                align = "left",
+                w = w-20, h = 120,
+                text = content
+            },
+        }
+    }
 end
 
-function love.keypressed(key, scancode, isRepeat)
-    if key == "return" then
-      headline, standfirst, byline, content = fetch_and_build(field.text)
-    else
-
-    if key == "up" then
-      vely = vely + dy * 20
-      posy = posy+1
-    end
-
-    if key == "down" then
-       vely = vely + dy * 20
-      posy = posy-1
-    end
-	  field:keypressed(key, isRepeat)
-	end
-end
-
-function love.textinput(text)
-	field:textinput(text)
-end
-
-function love.mousepressed(mx, my, mbutton, pressCount)
-	field:mousepressed(mx-fieldX, my-fieldY, mbutton, pressCount)
-end
-function love.mousemoved(mx, my)
-	field:mousemoved(mx-fieldX, my-fieldY)
-end
-function love.mousereleased(mx, my, mbutton)
-	field:mousereleased(mx-fieldX, my-fieldY, mbutton)
-end
-function love.wheelmoved(dx, dy)
---	field:wheelmoved(dx, dy) -- is this necessary?
-    velx = velx + dx * 20
-    vely = vely + dy * 20
+function love.update(dt)
+    ui:update(dt)
 end
 
 function love.draw()
-
-  love.graphics.setColor(0, 0, 1)
-  for _, x, y, w, h in field:eachSelection() do
-	love.graphics.rectangle("fill", fieldX+x, fieldY+y, w, h)
-  end
-
-  love.graphics.setColor(1, 1, 1)
-  for _, text, x, y in field:eachVisibleLine() do
-	love.graphics.print(text, fieldX+x, fieldY+y)
-  end
-
-  local x, y, h = field:getCursorLayout()
-  love.graphics.rectangle("fill", fieldX+x, fieldY+y, 1, h)
-
-  love.graphics.setBackgroundColor( 0,0,0, 0 )
-  love.graphics.setColor(1, 1, 1, 1)
-  love.graphics.printf(headline:content().."\n\n"..standfirst:content().."\n\n"..byline:content().."\n\n"..content, padding_left, vely, padding_right, "left")
+    ui:draw()
 end
