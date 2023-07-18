@@ -42,8 +42,13 @@ local x, y, w, h = love.window.getSafeArea( )
 local padding_left = ((w / 100)*10)
 local padding_right = w - ((w / 100)*10)
 
+posx = nil
+posy = nil
+
 function love.load()
 	love.window.setMode(800, 600, {resizable=true, vsync=0, minwidth=400, minheight=300})
+    posx, posy = love.graphics.getWidth() * 0.5, love.graphics.getHeight() * 0.5
+    velx, vely = 0, 0
 end
 
 --local headline = love.graphics.newText(font, headline_h1:content())
@@ -64,6 +69,14 @@ function love.keypressed(key, scancode, isRepeat)
     if key == "return" then
       headline, standfirst, byline, content = fetch_and_build(field.text)
     else
+
+    if key == "up" then
+      posy = posy+1
+    end
+
+    if key == "down" then
+      posy = posy-1
+    end
 	  field:keypressed(key, isRepeat)
 	end
 end
@@ -82,7 +95,9 @@ function love.mousereleased(mx, my, mbutton)
 	field:mousereleased(mx-fieldX, my-fieldY, mbutton)
 end
 function love.wheelmoved(dx, dy)
-	field:wheelmoved(dx, dy)
+--	field:wheelmoved(dx, dy) -- is this necessary?
+    velx = velx + dx * 20
+    vely = vely + dy * 20
 end
 
 function love.draw()
@@ -102,5 +117,5 @@ function love.draw()
 
   love.graphics.setBackgroundColor( 0,0,0, 0 )
   love.graphics.setColor(1, 1, 1, 1)
-  love.graphics.printf(headline:content().."\n\n"..standfirst:content().."\n\n"..byline:content().."\n\n"..content, padding_left, 30, padding_right, "left")
+  love.graphics.printf(headline:content().."\n\n"..standfirst:content().."\n\n"..byline:content().."\n\n"..content, padding_left, posy, padding_right, "left")
 end
