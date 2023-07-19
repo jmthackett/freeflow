@@ -18,6 +18,8 @@ byline = ""
 standfirst = ""
 content = "This is the Freeflow home page"
 
+font_size=12
+
 w = 600
 h = 600
 --text = content
@@ -155,7 +157,7 @@ function love.keypressed(key, scancode, isRepeat)
 	    textInputs[2].field.text = ""..headline.."\n\n"..standfirst.."\n\n"..byline.."\n\n"..content..""
 
     elseif key == "lctrl" and textInputs[2] then
-         textInputs[2].font_size = textInputs[2].font_size+2
+         font_size = font_size+1
 
 	-- Then handle focused InputField (if there is one).
 	elseif focusedTextInput and focusedTextInput.field:keypressed(key, isRepeat) then
@@ -223,20 +225,19 @@ function love.update(dt)
 	end
 end
 
-
-local extraFont = LG.newFont(12)
-
-
 function love.draw()
   x, y, w, h = love.window.getSafeArea( )
+
+  local extraFont = LG.newFont(18)
+
   textInputs[1].x = 1
   textInputs[1].y = 1
   textInputs[1].width = w
   textInputs[1].height = 30
 
-  textInputs[2].x = 30
+  textInputs[2].x = (w / 100) * 15
   textInputs[2].y = 31
-  textInputs[2].width = w - 60
+  textInputs[2].width = (w / 100) * 70
   textInputs[2].height = h - 30
   textInputs[2].field:setEditable(false)
   love.graphics.setBackgroundColor( 0,0,0, 1 )
