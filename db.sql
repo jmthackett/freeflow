@@ -11,7 +11,7 @@ CREATE TABLE uri (
 
 CREATE INDEX IF NOT EXISTS sites ON uri(host);
 
-INSERT INTO uri(name, protocol, host, path, query, map) 
+INSERT INTO uri(name, protocol, host, path, query, map, layout) 
   VALUES(
   'The Guardian, article content', 
   'https', 
@@ -22,18 +22,18 @@ INSERT INTO uri(name, protocol, host, path, query, map)
   'article_content'
 );
 
-INSERT INTO uri(name, protocol, host, path, query, map) 
+INSERT INTO uri(name, protocol, host, path, query, map, layout) 
   VALUES(
   'The Guardian, front page', 
   'https', 
   'www.theguardian.com', 
   '/uk',
   '//div[contains(@id,"container")]//a[@href]/@href | //div[contains(@id,"container")]//a[@aria-label]/@aria-label',
-  json('{"link": 1, "link_text": 2, "authors": nil}'),
+  json('{"link": 1, "link_text": 2, "authors": null}'),
   'site_index'
 );
 
-INSERT INTO uri(name, protocol, host, path, query, map) 
+INSERT INTO uri(name, protocol, host, path, query, map, layout) 
   VALUES(
   'London Review of Books, front page', 
   'https', 
