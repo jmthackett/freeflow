@@ -1,3 +1,4 @@
+
 local stringx = require("pl.stringx")
 local tablex = require("pl.tablex")
 local luacs = require("luacs")
@@ -8,11 +9,79 @@ local re = require("re")
 local InputField = require("InputField")
 local inspect = require("inspect")
 local math = require("math")
+local glove = require("glove")
+local url_parser = require("net.url")
+local sqlite = require("lsqlite3complete")
+
+local fonts = Glove.fonts
+local pprint = require "glove/pprint"
 
 stringx.import()
 
+local db = "sites.db" 
+
+-- freeflow functions
+function fetch_and_build(url,db) 
+  print("Fetching url:"..url)
+  local page, code, headers, status = https.request(url)
+  local doc = xmlua.HTML.parse(page)
+  local query, _, _ = find_query(url,db)
+  local content = doc:root():search(query)
+  local result_content = ""
+  local result_xml = ""
+  local buttons = {}
+  
+  local length = 0
+  local qlength = stringx.split(query,'|')
+  for i, t in ipairs(qlength) do -- there must be a better way to get the number of elements in a table, surely?
+    length = i
+  end
+  
+  for i, t in ipairs(content) do
+    if math.fmod(i,length) == 0 then
+      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n-----------\n\n"
+    else
+      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n"
+    end
+  end
+  
+  for i, t in ipairs(content) do
+    if content[i].to_html == nil then
+      -- print("Skipped converting to html due to error")
+    else
+      result_xml = result_xml .. content[i]:path() .. "\n\n" .. content[i]:to_html() .. "\n\n"
+    end
+  end
+  
+  return result_content, result_xml
+end
+
+function find_query(url, db)
+  handle = sqlite3.open(db)
+  u = url_parser.parse(url)
+  for path,query,map,layout in handle:urows("SELECT path,query,map,layout FROM uri WHERE host='"..u.host.."';") do
+    print(u.path)
+    if u.path:match(path) then
+      print("PATH MATCHES")
+      print(path,query,map,layout)
+      return query
+    else
+--      print("PATH DOES NOT MATCH")
+--      print(path,query,map,layout) 
+    end
+  end
+  return nil
+end
+--end freeflow functions
+
+
+
+
+
 local LG = love.graphics
 local LK = love.keyboard
+
+local windowWidth, windowHeight = love.graphics.getDimensions()
 
 local page_xml = "<example>This is the XML pane</example>"
 local query = "//div[@role='main']//h2/a[@href]/@href | //div[@role='main']//h2/a[@href]/text() | //div[@role='main']//div[@aria-hidden='true']/p | //div[@role='main']//h3/a[@href]/text()"
@@ -20,6 +89,8 @@ local url = "https://www.theguardian.com/education/2023/jul/14/rishi-sunak-force
 local url = "https://www.theguardian.com/politics/2023/jul/19/sunak-braverman-and-city-regulator-wade-into-farage-banking-row"
 local url = "https://www.lrb.co.uk/"
 local content = "This is the Freeflow home page"
+
+find_query(url,db)
 
 font_size=12
 
@@ -36,7 +107,6 @@ local ENABLE_CJK              = false
 local COMPOSITION_BOX_PADDING = 3
 
 local theFont = ENABLE_CJK and LG.newFont("unifont-14.0.02.ttf", 16) or LG.newFont(16)
-
 
 local textInputs = {
 	{
@@ -105,43 +175,7 @@ local function getTextInputAtCoords(x, y)
 	return nil -- No text input at coords.
 end
 
-function fetch_and_build(url, query) 
-  print("Fetching url:"..url)
-  local page, code, headers, status = https.request(url)
-  local doc = xmlua.HTML.parse(page)
-  local content = doc:root():search(query)
-  print(content:paths())
-  print(content:content())
---  print(type(content))
---  print(inspect(content))
---  print(inspect(content:paths()))
-  local result_content = ""
-  local result_xml = ""
-  
-  local length = 0
-  local qlength = stringx.split(query,'|')
-  for i, t in ipairs(qlength) do -- there must be a better way to get the number of elements in a table, surely?
-    length = i
-  end
-  
-  for i, t in ipairs(content) do
-    if math.fmod(i,length) == 0 then
-      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n-----------\n\n"
-    else
-      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n"
-    end
-  end
-  
-  for i, t in ipairs(content) do
-    if content[i].to_html == nil then
-      print("Skipped converting to html due to error")
-    else
-      result_xml = result_xml .. content[i]:path() .. "\n\n" .. content[i]:to_html() .. "\n\n"
-    end
-  end
-  
-  return result_content, result_xml
-end
+
 
 local x, y, w, h = love.window.getSafeArea( )
 
@@ -189,9 +223,9 @@ function love.keypressed(key, scancode, isRepeat)
 		focusedTextInput.field:resetBlinking()
 	elseif key == "return" and textInputs[1] then 
 	    if textInputs[4].field.text == "" then
-	      page_content, page_xml = fetch_and_build(textInputs[1].field.text,"//body")
+	      page_content, page_xml = fetch_and_build(textInputs[1].field.text,db)
 	    else
-	      page_content, page_xml = fetch_and_build(textInputs[1].field.text,textInputs[4].field.text)
+	      page_content, page_xml = fetch_and_build(textInputs[1].field.text,db)
 	    end
 	    textInputs[2].field.text = page_content
 	    textInputs[3].field.text = page_xml
@@ -265,11 +299,9 @@ function love.update(dt)
     if dt < 1/4 then
         love.timer.sleep(1/4 - dt)
     end
-    print("Update running - dt: " .. dt)
-    print("Dumping x: "..x..", y:"..y..", w:"..w..", h:"..h.."")
+    --print("Update running - dt: " .. dt)
+    --print("Dumping x: "..x..", y:"..y..", w:"..w..", h:"..h.."")
 end
-
-
 
 function love.draw()
 
@@ -303,6 +335,7 @@ function love.draw()
   love.graphics.setBackgroundColor( 0,0,0, 0.8 )
   love.graphics.setColor(1, 1, 1, 0.5)
   LG = love.graphics
+  
      for i, textInput in ipairs(textInputs) do
 		--
 		-- Input field.
