@@ -4,11 +4,19 @@ local sqlite = require("lsqlite3complete")
 local xmlua = require("xmlua")
 local https = require("ssl.https")
 
+local url = "https://www.lrb.co.uk/"
 local db = "sites.db" 
 
-function fetch_and_build(url) 
+local PageHandler = {}
+
+PageHandler.new = function()
+  local self = {}
+  return self
+end
+
+
+function fetch_and_build(url,db) 
   print("Fetching url:"..url)
-  local db = "sites.db" 
   local page, code, headers, status = https.request(url)
   local doc = xmlua.HTML.parse(page)
   local query, _, _ = find_query(url,db)
@@ -57,3 +65,4 @@ function find_query(url, db)
   return nil
 end
 
+print(fetch_and_build(url,db))

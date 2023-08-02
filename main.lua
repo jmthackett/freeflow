@@ -12,19 +12,18 @@ local math = require("math")
 local glove = require("glove")
 local url_parser = require("net.url")
 local sqlite = require("lsqlite3complete")
-local colors = require "glove/colors"
+local colors = require("glove/colors")
 local fonts = Glove.fonts
-local pprint = require "glove/pprint"
+local pprint = require("glove/pprint")
 
 local fieldX = 80
 local fieldY = 50
 
 stringx.import()
 
-local db = "sites.db" 
-
 -- freeflow functions
-function fetch_and_build(url,db) 
+function fetch_and_build(url) 
+  local db = "sites.db"
   print("Fetching url:"..url)
   local page, code, headers, status = https.request(url)
   local doc = xmlua.HTML.parse(page)
@@ -42,9 +41,9 @@ function fetch_and_build(url,db)
   
   for i, t in ipairs(content) do
     if math.fmod(i,length) == 0 then
-      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n-----------\n\n"
+      result_content = result_content .. content[i]:content() .. "\n\n"
     else
-      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n"
+      result_content = result_content .. content[i]:content() .. "\n\n"
     end
   end
   
@@ -52,7 +51,7 @@ function fetch_and_build(url,db)
     if content[i].to_html == nil then
       -- print("Skipped converting to html due to error")
     else
-      result_xml = result_xml .. content[i]:path() .. "\n\n" .. content[i]:to_html() .. "\n\n"
+      result_xml = result_xml .. content[i]:to_html() .. "\n\n"
     end
   end
   
@@ -159,16 +158,17 @@ local function createUI()
     end
   })
 
-  container = Glove.VStack(
+  container = Glove.VStack({
       { width = Glove.getAvailableWidth() },
       InputFieldWrapperWidget(Glove.getAvailableWidth()-10, 20, field),
-      button
+      button}
     )
 end
 
 function love.load()
   createUI()
 end
+
 zzz = 0
 
 function love.update(dt)
@@ -205,7 +205,15 @@ end
 
 love.keyboard.setKeyRepeat(true)
 
+text = ""
+
 function love.keypressed(key, scancode, isRepeat)
+    if key == "return" then
+      result_content, result_xml = fetch_and_build(field.text)
+      print(result_content)
+      --print(result_content)
+      --print(result_xml)
+    end
 	field:keypressed(key, isRepeat)
 end
 
@@ -222,6 +230,7 @@ function love.mousemoved(mx, my)
 end
 
 function love.mousereleased(mx, my, mbutton)
+    w, h = field:getDimensions()
 	field:mousereleased(mx-fieldX, my-fieldY, mbutton)
 end
 

@@ -1,12 +1,19 @@
+#!/usr/bin/env luajit
+
 local luacs = require("luacs")
 local xmlua = require("xmlua")
 local https = require("ssl.https")
 local inspect = require("inspect")
 
-local page, code, headers, status = https.request("https://www.lrb.co.uk/feeds/rss")
+local page, code, headers, status = https.request(arg[1])
+local doc = xmlua.HTML.parse(page)
+local docsearch = doc:search("//link[contains(@type,'application/rss+xml')]")
+print(docsearch[1]:get_attribute("href"))
+
 local doc = xmlua.HTML.parse(page)
 local docsearch = doc:search("//item")
 print(type(docsearch))
+print(docsearch[1])
 
 for i, t in ipairs(docsearch) do
   print(i)
@@ -19,3 +26,5 @@ for i, t in ipairs(docsearch) do
   end
   print("\n\n\n")
 end
+
+return 0
