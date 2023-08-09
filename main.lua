@@ -54,11 +54,12 @@ function fetch_and_build(url)
   end
   
   for i, t in ipairs(content) do
-    if math.fmod(i,length) == 0 then
-      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n-----------\n\n"
-    else
-      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n"
-    end
+    --if math.fmod(i,length) == 0 then
+    --  result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n-----------\n\n"
+    --else
+    --  result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n"
+    --end
+    result_content = result_content .. "\n" .. content[i]:content() .. "\n"
   end
   
   for i, t in ipairs(content) do
@@ -135,7 +136,7 @@ function freeflowUIBar(width, height, objzzz)
       --love.graphics.setScissor()
     end,
 
-    setDimensions = function(self, h, w) return obj:setDimensions(h, w) end,
+    setDimensions = function(self, h, w) obj:setDimensions(h, w) end,
     getX = function(self) return obj.x end,
     getY = function(self) return obj.y end,
     getHeight = function(self) return obj.height end,
