@@ -32,6 +32,61 @@ updateEvent = true
 local urlWidget = InputField(default_url)
 local contentWidget = InputField("hello\nworld","multiwrap")
 
+-- page builder functions
+
+local db = "sites.db" 
+
+function fetch_and_build(url) 
+  print("Fetching url:"..url)
+  local db = "sites.db" 
+  local page, code, headers, status = https.request(url)
+  local doc = xmlua.HTML.parse(page)
+  local query, _, _ = find_query(url,db)
+  local content = doc:root():search(query)
+  local result_content = ""
+  local result_xml = ""
+  local buttons = {}
+  
+  local length = 0
+  local qlength = stringx.split(query,'|')
+  for i, t in ipairs(qlength) do -- there must be a better way to get the number of elements in a table, surely?
+    length = i
+  end
+  
+  for i, t in ipairs(content) do
+    if math.fmod(i,length) == 0 then
+      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n-----------\n\n"
+    else
+      result_content = result_content .. content[i]:path() .. "\n\n" .. content[i]:content() .. "\n\n"
+    end
+  end
+  
+  for i, t in ipairs(content) do
+    if content[i].to_html == nil then
+      -- print("Skipped converting to html due to error")
+    else
+      result_xml = result_xml .. content[i]:path() .. "\n\n" .. content[i]:to_html() .. "\n\n"
+    end
+  end
+  
+  return result_content, result_xml
+end
+
+function find_query(url, db)
+  handle = sqlite3.open(db)
+  u = url_parser.parse(url)
+  for path,query,map,layout in handle:urows("SELECT path,query,map,layout FROM uri WHERE host='"..u.host.."';") do
+    print(u.path)
+    if u.path:match(path) then
+      print("PATH MATCHES")
+      print(path,query,map,layout)
+      return query
+    end
+  end
+  -- if we're here, no paths have matched: this needs a sane default
+  return nil
+end
+
 -- widget wrappers
 function freeflowUIBar(width, height, objzzz)
   local width = width or 50
@@ -53,9 +108,10 @@ function freeflowUIBar(width, height, objzzz)
 --      parentY = parentY or 1
       obj.x = parentX or obj.x
       obj.y = parentY or obj.y
-      
+
       obj.width = width
       obj.height = height
+      
       obj.alignment = "left"
       obj.font_size = 18
       obj.setEditable = true
@@ -115,6 +171,7 @@ function freeflowContentWidget(width, height, objzzz)
 
       obj.width = width
       obj.height = height
+      
       obj.alignment = "left"
       obj.font_size = 18
       obj.setEditable = true
@@ -154,14 +211,17 @@ function freeflowContentWidget(width, height, objzzz)
     textInput = function(self, text) return obj:textinput(text) end,
     isBusy = function(self) return obj:isBusy() end,
     hasFocus = function(self) return true end,
-    getText = function(self) return obj:getText() end
+    getText = function(self) return obj:getText() end,
+    setText = function(self, text) return obj:setText(text) end
   }
 end
 
 local width, height = love.graphics.getDimensions( )
 print("widget widths:" .. width .. "")
 print("widget heights:" .. height .. "")
-  
+
+-- define UI elements: this will need to be dynamic later as it currently assumes the layout and page type
+
 local freeflow = freeflowUIBar(width, 30 , urlWidget)
 --print("freeflow object" .. inspect(freeflow) .. "")
 local nav = {}
@@ -195,59 +255,57 @@ end
 
 -- initial widget focus
 local focusedWidget = nil
+local focusedWidgetName = "freeflow" -- defaulting to ui
 
 -- love2d callbacks
-
 function love.load()
   love.window.setMode(800, 800, {resizable=true, vsync=0, minwidth=400, minheight=300})
-  local offsetX = 1
-  local offsetY = 1
-  for k,v in layout:iter() do
-    v:draw(offsetX, offsetY)
-    --offsetX = offsetX + v:getWidth()
-    offsetY = offsetY + v:getHeight()
-  end
+  updateEvent = true
 end
 
 function love.resize()
-    local offsetX = 1
-    local offsetY = 1
-    for k,v in layout:iter() do
-      v:draw(offsetX, offsetY)
-      offsetY = offsetY + v:getHeight()
-    end
+  updateEvent = true
 end
 
 function love.draw()
--- TODO: wtf
+--  local width, height = love.graphics.getDimensions( )
+  x, y, w, h = love.window.getSafeArea( )
+  print("widget widths:" .. width .. "")
+  print("widget heights:" .. height .. "")
     local offsetX = 1
     local offsetY = 1
     for k,v in layout:iter() do
-      v:draw(offsetX, offsetY)
-      offsetY = offsetY + v:getHeight()
+    	v:setDimensions(width, v:getHeight()) -- TODO: why doesn't this prompt a redraw? weird
+    	v:draw(offsetX, offsetY)
+    	offsetY = offsetY + v:getHeight()
     end
 end
 
-dtotal = 0
 function love.update(dt)
---  if focusedWidget and updateEvent then
---  if updateEvent then
---    dtotal = dtotal + dt
---    print(acc)
---    if (dtotal >= 1) then
---    print("i:" .. i .. "")
---      focusedWidget:draw()
---      local offsetX = 1
---      local offsetY = 1
---      for k,v in layout:iter() do
---        v:draw(offsetX, offsetY)
---        offsetY = offsetY + v:getHeight()
---      end
---      updateEvent = false
---      dtotal = dtotal - 1
---    end
---    i = i + 1
---  end
+local width, height = love.graphics.getDimensions( )
+print("widget widths:" .. width .. "")
+print("widget heights:" .. height .. "")
+
+-- define UI elements: this will need to be dynamic later as it currently assumes the layout and page type
+
+local freeflow = freeflowUIBar(width, 30 , urlWidget)
+--print("freeflow object" .. inspect(freeflow) .. "")
+local nav = {}
+local title = {}
+local images = {}
+local content = freeflowContentWidget(width, height, contentWidget)
+local links = {}
+
+local layout = omap()
+layout:set("freeflow",freeflow)
+--layout:set("nav",nav)
+--layout:set("title",title)
+--layout:set("images",images)
+
+layout:set("content",content) -- TODO: check if this is iterable and adjust layout accordingly?
+--layout:set("links",links)
+
+
 end
 
 -- handle mouse stuff
@@ -261,6 +319,7 @@ function love.mousepressed(mx, my, mbutton, pressCount)
         
 		if hoveredWidget then
 			focusedWidget = hoveredWidget
+			focusedWidgetName = hoveredWidgetName
 			updateEvent = true
 
 			isPressing         = true
@@ -328,6 +387,11 @@ function love.keypressed(key, scancode, isRepeat)
 	elseif focusedWidget and focusedWidget:keyPressed(key, isRepeat) then
 		-- Event was handled.
 	elseif focusedWidget and key == "return" then
+	    if focusedWidgetName == "freeflow" then
+	    	local content, xml = fetch_and_build(focusedWidget:getText())
+	    	layout.content:setText(content)
+			updateEvent = true
+	    end
         print(focusedWidget:getText())
 	-- Lastly handle keys for when no InputField has focus or the key wasn't handled by the library.
 	elseif key == "escape" and not fieldIsBusy then
