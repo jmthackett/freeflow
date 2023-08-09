@@ -378,12 +378,11 @@ function love.run()
 			if love.draw and updateEvent then 
 				love.draw()
 				updateEvent = false
-				love.graphics.present()
+				love.graphics.present() -- only update our outputs when we have an updateEvent to work with
 			end
-
-			
+	
 		end
 
-		if love.timer then love.timer.sleep(0.1) end
+		if love.timer then love.timer.sleep(0.001) end
 	end
 end
