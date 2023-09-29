@@ -10,6 +10,10 @@ Most sites are well structured enough to lend themselves to parsing. We do thing
 * Grab all paragraphs nested within an <article> tag
 * Fall back to site-specific xpath queries if there's nothing else
 
+Some of the techniques Freeflow uses piggyback on technology the ad companies demand. In particular, sitemaps and opengraph. These give us very easy to parse metadata that allows us to move from reader mode only on pages which present a single article, to displaying the entirety of the sitemap (or RSS feed) as the site's index. In this way, we can standardise navigation and discovery as well as content display.
+
+For everything else, XML isn't too hellish to parse, fortunately.
+
 # Why?
 
 The internet sucks. There, I said it.
@@ -18,7 +22,6 @@ The modern internet is a hellscape of modals, advertising, subtle tracking trick
 
 Solving this can't be done by playing the same game as those companies. Users can't coordinate well enough or invest deeply enough to produce a truly user friendly browser. So instead, Freeflow sets out to dispense with everything the user isn't looking for. 
 
-Some of the techniques Freeflow uses piggyback on technology the ad companies demand. In particular, sitemaps and opengraph. These give us very easy to parse metadata that allows us to move from reader mode only on pages which present a single article, to displaying the entirety of the sitemap (or RSS feed) as the site's index. In this way, we can standardise navigation and discovery as well as content display.
 
 # Status
 
