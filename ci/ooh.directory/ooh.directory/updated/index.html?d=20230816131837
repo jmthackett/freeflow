@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Blogs that published new posts recently"><meta name="keywords" content="blogs, weblogs"><title>Recently updated blogs, from 2023-08-16 13:18:37 (ooh.directory)</title><meta property="og:title" content="Recently updated blogs, from 2023-08-16 13:18:37 (ooh.directory)"><meta property="og:url" content="https://ooh.directory/updated/?d=20230816131837"><meta property="og:description" content="Blogs that published new posts recently"><meta property="og:image" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta property="og:image:secure_url" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Recently updated blogs, from 2023-08-16 13:18:37 (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/updated/?d=20230816131837"><meta name="twitter:description" content="Blogs that published new posts recently"><meta name="twitter:image" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Recently updated blogs</span>
+</span>
+<meta itemprop="position" content="1" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead">
+<h1 class="pagehead__title">Recently updated blogs</h1>
+<p class="pagehead__nav">
+Or see
+<a href="/added/">recently <em>added</em> blogs</a>
+</p>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_f">
+Show blogs with
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_f" name="f">
+<option value selected>any update frequency</option>
+<option value="3">fewer than one post per day</option>
+<option value="2">fewer than one post per week</option>
+<option value="1">fewer than one post per month</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+</div>
+<nav aria-label="Pagination navigation">
+<ul class="pagination pagination--time">
+<li class="pagination__item">
+<a class="pagination__link" href="/updated/?d=20230816123804"><span aria-hidden="true">&larr;</span> Older</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="/updated/?d=20230816135257">Newer <span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+<ol class="websites websites--posts">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://theplaysthethinguk.com/">The Play&#x27;s The Thing UK</a>,
+<time class="js-timeago" datetime="2023-08-16T13:13:03.103427+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://theplaysthethinguk.com/2023/08/16/paines-plough-roundabout-edinburgh-festival-fringe/">Paines Plough Roundabout, Edinburgh Festival Fringe</a>
+</figcaption>
+<blockquote cite="https://theplaysthethinguk.com/2023/08/16/paines-plough-roundabout-edinburgh-festival-fringe/">
+by Laura Kressly After several hard years, Paines Plough’s popup theatre’s programme seems to know that our fractured, individualistic society needs some love and care. Six of this year’s shows reflect this: characters feeling lost, adrift or unfulfilled are desperately searching for someone or something to cling onto and give them purpose, or to help them feel less alone. Solo show Bullring Techno Makeout Jamz and mostly-solo Lady Dealer each …
+</blockquote>
+<footer>
+<small>
+By laurakressly, 817 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“British Theatre &amp; Performance Criticism.”
+By Laura Kressly.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://theplaysthethinguk.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2015-02-23">2015</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/theatre/">
+<span itemprop="name">Theatre</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.scottericpetersen.com/writing/">s c o t t e r i c p e t e r s e n - Writing</a>,
+<time class="js-timeago" datetime="2023-08-16T13:12:49.130100+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.scottericpetersen.com/multichannel-audio-devices-and-linux-not-a-love-story/">Multichannel Audio Devices and Linux (not a love story)</a>
+</figcaption>
+<blockquote cite="https://www.scottericpetersen.com/multichannel-audio-devices-and-linux-not-a-love-story/">
+Something has been bothering me for some time since moving to PipeWire on my Linux boxes, and that is the way multichannel audio devices are handled. As we all know (and loath), Linux audio is complicated and terrible, but the upshot is that it gives us a lot of control and the possibility of extremely low latency — critical to realtime audio recording, processing, programming, etc. The post Multichannel Audio …
+</blockquote>
+<footer>
+<small>
+By Scott Petersen, 106 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+By Scott Petersen.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.scottericpetersen.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per year.
+Started in <time datetime="2005-06-30">2005</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/musical-instruments/">
+<span itemprop="name">Musical instruments</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/development/">
+<span itemprop="name">Development</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://atomicjunkshop.com/">Atomic Junk Shop</a>,
+<time class="js-timeago" datetime="2023-08-16T13:08:19.375849+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://atomicjunkshop.com/a-new-life-for-hal-jordan-insurance-adjuster/">Want a life of peril and adventure? Become an insurance adjuster!</a>
+</figcaption>
+<blockquote cite="https://atomicjunkshop.com/a-new-life-for-hal-jordan-insurance-adjuster/">
+In Green Lantern #49, John Broome and Gil Kane shook up the series by having Hal Jordan lose Carol Ferris forever, quit his job and split from Coast City. From … The post Want a life of peril and adventure? Become an insurance adjuster! appeared first on Atomic Junk Shop.
+</blockquote>
+<footer>
+<small>
+By frasersherman, 61 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Celebrating the Unpopular Arts.”
+<span class="text-nobr">
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://atomicjunkshop.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per day.
+Started in <time datetime="2016-10-26">2016</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/" title="Books and literature">
+<span itemprop="name">Books</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/comics/">
+<span itemprop="name">Comics</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.cabbieblog.com">CabbieBlog</a>,
+<time class="js-timeago" datetime="2023-08-16T13:08:04.625044+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://cabbieblog.com/2023/08/16/johnsons-london-dictionary-london-bridge/">Johnson’s London Dictionary: London Bridge</a>
+</figcaption>
+<blockquote cite="https://cabbieblog.com/2023/08/16/johnsons-london-dictionary-london-bridge/">
+LONDON BRIDGE (n.) Strukture spanning the Great River used to prove Freemen may for no apparent purpose cross whilst shepherding sheep. Dr. Johnson’s London Dictionary for publick consumption in the twenty-first century avail yourself on Twitter @JohnsonsLondon
+</blockquote>
+<footer>
+<small>
+By Gibson Square, 42 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Taxi Talk Without Tipping.”
+By Gibson Square.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://cabbieblog.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per day.
+Started in <time datetime="2009-02-23">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/">
+<span itemprop="name">Countries, states, towns, etc.</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/uk/" title="United Kingdom">
+<span itemprop="name">UK</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/uk/london/">
+<span itemprop="name">London</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://aaronland.info/orthis/">orthis</a>,
+<time class="js-timeago" datetime="2023-08-16T13:08:02.337410+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://aaronland.info/orthis/171/314/908/5/">august 16, 2015 / or this...</a>
+</figcaption>
+<blockquote cite="https://aaronland.info/orthis/171/314/908/5/">
+untitled #1713149085 is dated on or around August 16, 2015 and tagged orthis.
+</blockquote>
+<footer>
+<small>
+19 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“this is aaronland / or this...”
+By Aaron Straup Cope.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://aaronland.info/orthis/feeds/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per day.
+Started in <time datetime="2014-12-31">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/images/">
+<span itemprop="name">Images</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.pogowasright.org/">PogoWasRight.org: Privacy News &amp; Issues</a>,
+<time class="js-timeago" datetime="2023-08-16T13:07:48.585927+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.pogowasright.org/nascar-sued-for-sharing-customer-viewing-history-with-facebook/">NASCAR Sued for Sharing Customer Viewing History With Facebook</a>
+</figcaption>
+<blockquote cite="https://www.pogowasright.org/nascar-sued-for-sharing-customer-viewing-history-with-facebook/">
+Christopher Brown reports: NASCAR improperly disclosed to Meta Platforms Inc. the video-viewing histories of visitors to its website in violation of the Video Privacy Protection Act, a proposed federal class action said. The protection act allows individuals to recoup as much as $2,500 per class member from entities that disclose their video—or similar media—viewing history without express [Read More...]
+</blockquote>
+<footer>
+<small>
+By Dissent, 68 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“My attempt to increase awareness of privacy news and issues.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.pogowasright.org/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per day.
+Started in <time datetime="2009-06-08">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/politics/" title="Government, politics and law">
+<span itemprop="name">Government, politics &amp; law</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/politics/law/">
+<span itemprop="name">Law</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://timapple.com">Tim Apple</a>,
+<time class="js-timeago" datetime="2023-08-16T13:07:47.230230+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://timapple.com/2023/08/16/i-wonder-how.html">2023-08-16 12:53</a>
+</figcaption>
+<blockquote cite="https://timapple.com/2023/08/16/i-wonder-how.html">
+I wonder how much difference this makes - Proton Sentinal
+</blockquote>
+<footer>
+<small>
+10 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Stories, poems, essays, and ramblings.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://timapple.com/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per day.
+Started in <time datetime="2022-08-24">2022</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://jimcarroll.com/blog">Jim Caroll - Blog</a>,
+<time class="js-timeago" datetime="2023-08-16T13:03:12.379552+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://jimcarroll.com/2023/08/daily-inspiration-ai-and-risk-management-the-best-way-to-deal-with-complexity-is-through-simplicity/">Daily Inspiration: AI and Risk Management – “The best way to deal with complexity is through simplicity.”</a>
+</figcaption>
+<blockquote cite="https://jimcarroll.com/2023/08/daily-inspiration-ai-and-risk-management-the-best-way-to-deal-with-complexity-is-through-simplicity/">
+“The best way to deal with complexity is through simplicity” – Futurist Jim Carroll I’m busy putting together some slide decks for a number of upcoming keynotes, particularly around – what else – AI. It’s a complex topic to take on – the art of sharing insight involves developing a narrative to get key points across, emphasize what’s important, avoiding the trivial. It’s a lot of work to build a …
+</blockquote>
+<footer>
+<small>
+By JimCarroll, 739 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Futurist, Author, Innovation Expert &amp; Keynote Speaker!”
+By Jim Carroll.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://jimcarroll.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per week.
+Started in <time datetime="2002-10-26">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/futures/">
+<span itemprop="name">Futures</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.ronjeffries.com/">RonJeffries.com</a>,
+<time class="js-timeago" datetime="2023-08-16T13:02:52.299555+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://ronjeffries.com/articles/-y023/python/-e210/219/">Python 219 - Collision 3</a>
+</figcaption>
+<blockquote cite="https://ronjeffries.com/articles/-y023/python/-e210/219/">
+There&#x27;s reason to believe that there&#x27;s an object in here. Let&#x27;s bring it out. I feel I picked a poor path. How could I know?
+</blockquote>
+<footer>
+<small>
+30 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“The combination of new articles, XProgramming, SameElephant, and perhaps even some new items never before contemplated.”
+By Ron Jeffries.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://ronjeffries.com/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per day.
+Started in <time datetime="1998-03-23">1998</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/development/">
+<span itemprop="name">Development</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.versobooks.com/blogs">Verso</a>,
+<time class="js-timeago" datetime="2023-08-16T12:57:47.598990+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.versobooks.com/en-gb/blogs/news/flash-ebook-sale">Flash Verso ebook sale!</a>
+</figcaption>
+<blockquote cite="https://www.versobooks.com/en-gb/blogs/news/flash-ebook-sale">
+For the next 3 days we have 70% off ALL ebooks! See a selection of our most popular ebooks here. Apologies if you don&#x27;t have an e-reader, but all our print books are 20% off. Please note that if you haven&#x27;t yet reset your existing Verso account then you will need to do that here! See all terms and conditions at the bottom of this post. Reading Lists Curate your …
+</blockquote>
+<footer>
+<small>
+By Jennifer Tighe, 289 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Verso Books is the largest independent, radical publishing house in the English-speaking world.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.versobooks.com/en-gb/blogs/news.atom" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/" title="Books and literature">
+<span itemprop="name">Books</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://gurneyjourney.blogspot.com/">Gurney Journey</a>,
+<time class="js-timeago" datetime="2023-08-16T12:52:58.175869+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://gurneyjourney.blogspot.com/2023/08/portrait-of-robert-bakker.html">Portrait of Robert Bakker</a>
+</figcaption>
+<blockquote cite="http://gurneyjourney.blogspot.com/2023/08/portrait-of-robert-bakker.html">
+I did this portrait of paleontologist Robert Bakker to illustrate an article in a science magazine using oil wash over pencil.Bakker has been a proponent of the hypothesis that dinosaurs were warm-blooded, smart, fast, and adaptable. He published a 1968 paper on dinosaur endothermy and wrote the book, The Dinosaur Heresies in 1986, which helped establish a scientific rationale for both Jurassic Park and Dinotopia.
+</blockquote>
+<footer>
+<small>
+By James Gurney, 68 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“This daily weblog by Dinotopia creator James Gurney is for illustrators, plein-air painters, sketchers, comic artists, animators, art students, and writers.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://gurneyjourney.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per week.
+Started in <time datetime="2007-07-16">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/art/">
+<span itemprop="name">Art</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://minimalistbaker.com/">Minimalist Baker - Simple Recipes That Make You Feel Good</a>,
+<time class="js-timeago" datetime="2023-08-16T12:52:53.079739+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://minimalistbaker.com/magical-vegan-cashew-whipped-cream/">Magical Vegan Cashew Whipped Cream</a>
+</figcaption>
+<blockquote cite="https://minimalistbaker.com/magical-vegan-cashew-whipped-cream/">
+Whipped cream lovers and coconut haters, a very important problem has been solved. Introducing FLUFFY, dairy-free whipped cream that tastes shockingly similar to the real deal (with no coconut taste…at all)! Just 3 ingredients required for this magical vegan whipped cream! Let us show you how it’s done. How to Make Vegan Cashew Whipped Cream Now, before our friends with coconut allergies get too excited, we’re still working on a …
+</blockquote>
+<footer>
+<small>
+By Dana @ Minimalist Baker, 87 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Celebrating simple cooking with recipes that require 10 ingredients or less, 1 bowl, or 30 minute or less to prepare.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://minimalistbaker.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2012-06-22">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/food-and-drink/" title="Food and drink">
+<span itemprop="name">Food &amp; drink</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/food-and-drink/recipes/">
+<span itemprop="name">Recipes</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://853.london/">853</a>,
+<time class="js-timeago" datetime="2023-08-16T12:47:45.625752+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://greenwichwire.co.uk/2023/08/16/ice-cold-in-alex-on-the-bill-as-charlton-woolwich-free-film-festival-returns/">Ice Cold in Alex on the bill as Charlton &amp; Woolwich Free Film Festival returns</a>
+</figcaption>
+<blockquote cite="https://greenwichwire.co.uk/2023/08/16/ice-cold-in-alex-on-the-bill-as-charlton-woolwich-free-film-festival-returns/">
+Classic war movie Ice Cold in Alex is among the highlights of this year’s Charlton &amp; Woolwich Free Film Festival, which starts next month. The 1958 film, starring John Mills and Sylvia Syms, is set in the Western Desert campaign of World War II, and is best known for the legendary scene at the end […] The post Ice Cold in Alex on the bill as Charlton &amp; Woolwich Free …
+</blockquote>
+<footer>
+<small>
+By Darryl Chamberlain, 94 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Public interest news for Greenwich and SE London, funded by you.”
+By Darryl Chamberlain, et al.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://greenwichwire.co.uk/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per day.
+Started in <time datetime="2008-10-26">2008</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/">
+<span itemprop="name">Countries, states, towns, etc.</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/uk/" title="United Kingdom">
+<span itemprop="name">UK</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/uk/london/">
+<span itemprop="name">London</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/uk/london/areas/">
+<span itemprop="name">Areas of London</span>
+</a>
+<meta itemprop="position" content="5" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://oilpressure.com/">Oilpressure</a>,
+<time class="js-timeago" datetime="2023-08-16T12:47:43.330290+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://oilpressure.com/2023/08/16/things-just-got-a-lot-more-silly/">Things Just Got a Lot More Silly</a>
+</figcaption>
+<blockquote cite="https://oilpressure.com/2023/08/16/things-just-got-a-lot-more-silly/">
+I am a little late to the party on this, as we were in Indianapolis over the weekend, when this news first broke. I was focused on the Gallagher Grand Prix, and also wanted to give things a few days to settle down to see if my initial opinion had changed from when I first […]
+</blockquote>
+<footer>
+<small>
+By Oilpressure, 63 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Speed is Life.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://oilpressure.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per week.
+Started in <time datetime="2009-05-27">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/sport/" title="Sport and exercise">
+<span itemprop="name">Sport &amp; exercise</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/vehicles/">
+<span itemprop="name">Vehicles</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/vehicles/cars/">
+<span itemprop="name">Cars</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://petharmonytraining.com/blog/">Pet Harmony</a>,
+<time class="js-timeago" datetime="2023-08-16T12:38:04.058701+00:00" class="text-nobr">2 hours ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://petharmonytraining.com/even-behavior-professionals-need-behavior-professionals/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=even-behavior-professionals-need-behavior-professionals">Even Behavior Professionals Need Behavior Professionals</a>
+</figcaption>
+<blockquote cite="https://petharmonytraining.com/even-behavior-professionals-need-behavior-professionals/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=even-behavior-professionals-need-behavior-professionals">
+I’m going to share something I’m currently going through. This is difficult to talk about, and it may also be difficult to read. As you read this article, pay attention to your emotional responses. This story is long (OMG, SO long, much longer than our typical blog articles) and sad, but – I hope – helpful. Take breaks as needed. Go outside. Touch grass. Love on your pets. Take care …
+</blockquote>
+<footer>
+<small>
+By Emily Strong, 3,946 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Helping you and your pet live harmoniously.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://petharmonytraining.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2019-06-28">2019</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination pagination--time">
+<li class="pagination__item">
+<a class="pagination__link" href="/updated/?d=20230816123804"><span aria-hidden="true">&larr;</span> Older</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="/updated/?d=20230816135257">Newer <span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p>Blogs in order of when their most recent post was found by ooh.directory. This could be a while after the post was published. <a href="https://ooh.directory/blog/2023/recently-fetched-published/">Read more.</a></p>
+<p>Each blog only appears in the list once, with its most recent post.</p>
+</aside>
+<aside class="aside">
+<p>
+Word counts are based on the feeds, so will be low for feeds that don’t include full content.
+</p>
+</aside>
+<aside class="aside">
+<p>
+Update frequencies (e.g. “two posts per month”) are a very rough calculation based on recent activity.
+</p>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+<script>
+      /**
+       * Keep the times ago that each item was updated, udpated.
+       * Tweaked from https://gist.github.com/adactio/ccca5710152e77fb26b4a4df0ea8fc1e
+       * Also see https://adactio.com/journal/20377
+       */
+      (function (win, doc) {
+        'use strict';
+        if (!doc.querySelectorAll || !win.Intl || !win.Intl.RelativeTimeFormat) {
+          // doesn't cut the mustard.
+          return;
+        }
+
+        // Which elements do we want to target?
+        // e.g. "time[datetime]"
+        var selector = ".js-timeago";
+
+        var rtf = new Intl.RelativeTimeFormat('en', {
+          localeMatcher: 'best fit',
+          numeric: 'always',
+          style: 'long'
+        });
+        var units = {
+          'year'      : 1000 * 24 * 60 * 60 * 365,
+          'month'     : 1000 * 24 * 60 * 60 * (365/12),
+          'week'      : 1000 * 24 * 60 * 60 * 7,
+          'day'       : 1000 * 24 * 60 * 60,
+          'hour'      : 1000 * 60 * 60,
+          'minute'    : 1000 * 60,
+          // So that anything under 1 minute is shown as "just now":
+          //'second'    : 1000
+        };
+        var unit, then, now, diff, amount, text;
+        var updateDatetimes = function () {
+          now = Date.now();
+          doc.querySelectorAll(selector).forEach(function(timeElement) {
+            text = 'just now';
+            then = timeElement.getAttribute('datetime');
+            diff = new Date(then) - new Date(now);
+            for (unit in units) {
+              amount = units[unit];
+              if (Math.abs(diff) > amount) {
+                text = rtf.format(Math.round(diff / amount), unit);
+                break;
+              }
+            }
+            timeElement.innerText = text;
+          });
+        };
+        updateDatetimes();
+        // Run the update every 30 seconds
+        setInterval(updateDatetimes, 1000 * 30);
+      }(this, this.document));
+    </script>
+</body>
+</html>

@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Blogs that published new posts recently"><meta name="keywords" content="blogs, weblogs"><title>Recently updated blogs, from 2023-08-16 15:23:23 (ooh.directory)</title><meta property="og:title" content="Recently updated blogs, from 2023-08-16 15:23:23 (ooh.directory)"><meta property="og:url" content="https://ooh.directory/updated/?d=20230816152323"><meta property="og:description" content="Blogs that published new posts recently"><meta property="og:image" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta property="og:image:secure_url" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Recently updated blogs, from 2023-08-16 15:23:23 (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/updated/?d=20230816152323"><meta name="twitter:description" content="Blogs that published new posts recently"><meta name="twitter:image" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Recently updated blogs</span>
+</span>
+<meta itemprop="position" content="1" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead">
+<h1 class="pagehead__title">Recently updated blogs</h1>
+<p class="pagehead__nav">
+Or see
+<a href="/added/">recently <em>added</em> blogs</a>
+</p>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_f">
+Show blogs with
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_f" name="f">
+<option value selected>any update frequency</option>
+<option value="3">fewer than one post per day</option>
+<option value="2">fewer than one post per week</option>
+<option value="1">fewer than one post per month</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+</div>
+<ol class="websites websites--posts">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.somebits.com/linkblog/">Nelson&#x27;s Linkblog</a>,
+<time class="js-timeago" datetime="2023-08-16T15:23:22.971207+00:00" class="text-nobr">3 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.politico.com/news/2023/08/15/special-counsel-obtained-trump-twitter-howell-00111410">Trump Twitter subpoena</a>
+</figcaption>
+<blockquote cite="https://www.politico.com/news/2023/08/15/special-counsel-obtained-trump-twitter-howell-00111410">
+Details of what data was requested from Trump&#x27;s Twitter account, including direct messages, location information, IP addresses, etc
+</blockquote>
+<footer>
+<small>
+21 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Interesting web links, a few a day.”
+By Nelson Minar.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.somebits.com/linkblog/index.atom" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per day.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/uncategorizable/">
+<span itemprop="name">Uncategorizable blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://blog.scoutingmagazine.org/">Aaron on Scouting</a>,
+<time class="js-timeago" datetime="2023-08-16T15:23:18.671795+00:00" class="text-nobr">3 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://blog.scoutingmagazine.org/2023/08/16/philmonts-land-management-symposium-is-next-week-heres-why-its-a-big-deal/">Philmont’s Land Management Symposium is next week. Here’s why it’s a big deal</a>
+</figcaption>
+<blockquote cite="https://blog.scoutingmagazine.org/2023/08/16/philmonts-land-management-symposium-is-next-week-heres-why-its-a-big-deal/">
+Conservation and stewardship of the land has been a central tenet of the BSA since its inception. It makes sense, then, that Philmont Scout Ranch — one of the BSA’s flagship locations — would be hosting a symposium that’s bringing together some of the nation’s leading subject matter experts on the topic. The 2023 Land Management Symposium isn’t like other programs offered at The Philmont Training Center. The event being …
+</blockquote>
+<footer>
+<small>
+By Aaron Derr, 633 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Formerly known as Bryan on Scouting, Aaron on Scouting is the official site of Scouting magazine for all families and BSA volunteers.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://blog.scoutingmagazine.org/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly five posts per week.
+Started in <time datetime="2009-03-16">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://disneyparks.disney.go.com/blog/">Disney Parks Blog</a>,
+<time class="js-timeago" datetime="2023-08-16T15:23:05.146893+00:00" class="text-nobr">3 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://disneyparks.disney.go.com/blog/2023/08/first-look-disney-cruise-line-to-honor-families-with-special-island-display/">First Look: Disney Cruise Line to Honor Families with Special Island Display</a>
+</figcaption>
+<blockquote cite="https://disneyparks.disney.go.com/blog/2023/08/first-look-disney-cruise-line-to-honor-families-with-special-island-display/">
+In honor of the families who have sailed 50 or more times with Disney Cruise Line, a commemorative display will be added to Disney Castaway Cay this fall.
+</blockquote>
+<footer>
+<small>
+By Olivia Odom, 40 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“The official blog for Disneyland Resort, Walt Disney World and Disney Cruise Line.”
+<span class="text-nobr">
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://disneyparks.disney.go.com/blog/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per day.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.patentlyapple.com/">Patently Apple</a>,
+<time class="js-timeago" datetime="2023-08-16T15:22:54.683857+00:00" class="text-nobr">3 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.patentlyapple.com/2023/08/foxconn-india-begins-production-of-the-iphone-15.html">Foxconn India begins Production of the iPhone 15</a>
+</figcaption>
+<blockquote cite="https://www.patentlyapple.com/2023/08/foxconn-india-begins-production-of-the-iphone-15.html">
+Yesterday we reported that Apple would produce 6.6 million iPhone 15 units in Q3 and 25.2 million units in Q4 with Foxconn being the number one supplier with an estimated 58% of the orders. Today we&#x27;re learning that Apple Inc.’s next-generation iPhone 15 is beginning production in India
+</blockquote>
+<footer>
+<small>
+By Jack Purcher, 56 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“An Apple Inc. centric blog focused on dissecting Apple&#x27;s latest Intellectual Property.”
+<span class="text-nobr">
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.patentlyapple.com/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per day.
+Started in <time datetime="2006-09-07">2006</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/apple/">
+<span itemprop="name">Apple</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://daverupert.com/">The Homepage of Dave Rupert - daverupert.com</a>,
+<time class="js-timeago" datetime="2023-08-16T15:17:51.284713+00:00" class="text-nobr">8 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://daverupert.com/2023/08/why-rewrite-with-web-components/">If I’m already using React, why should I rewrite my app with Web Components?</a>
+</figcaption>
+<blockquote cite="https://daverupert.com/2023/08/why-rewrite-with-web-components/">
+In a recent post I answered a general question about Web Components and their lack of widespread adoption. I’m back with what is probably the most frequently asked question about Web Components: “If I’m already using React/Vue/Svelte, why should I rewrite my app with Web Components?” And my answer is “You probably shouldn’t.” Rewrites are painful and expensive. “Because I love web standards” isn’t enough justification for a rewrite. Don’t …
+</blockquote>
+<footer>
+<small>
+410 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Co-founder of Luro, lead developer at Paravel, and co-host of ShopTalk. I&#x27;m married to the drummer of a mid-2000s indie rock band and I&#x27;m a dad to two wonderful kids. I live in Austin, TX.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://daverupert.com/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2009-01-26">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://gomakethings.com/articles/">Daily Developer Tips | Go Make Things</a>,
+<time class="js-timeago" datetime="2023-08-16T15:17:45.624332+00:00" class="text-nobr">9 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://gomakethings.com/spicy-takes/">Spicy takes</a>
+</figcaption>
+<blockquote cite="https://gomakethings.com/spicy-takes/">
+Today, I wanted to share some spicy takes without much context. Let’s dig in… Tabs are superior to spaces in literally every way. JavaScript is generally more readable with semicolons and curly brackets than without. CSS and HTML are programming languages. Type safety in JavaScript is an issue most developers don’t have, and the benefits of Typescript are generally overstated. Gif is pronounced with a soft G (as in, Jif). …
+</blockquote>
+<footer>
+<small>
+158 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Hate the complexity of modern front‑end web development?”
+By Chris Ferdinandi.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://gomakethings.com/feed/index.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2011-01-19">2011</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/development/">
+<span itemprop="name">Development</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/development/web/">
+<span itemprop="name">Web development</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/development/web/front-end/" title="Front-end web development">
+<span itemprop="name">Front-end</span>
+</a>
+<meta itemprop="position" content="5" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://bigthink.com/strange-maps/">Strange Maps - Big Think</a>,
+<time class="js-timeago" datetime="2023-08-16T15:17:37.999565+00:00" class="text-nobr">9 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://bigthink.com/the-past/maya-mercury/">The Maya coveted mercury. It may have hastened their downfall.</a>
+</figcaption>
+<blockquote cite="https://bigthink.com/the-past/maya-mercury/">
+Mercury is a mesmerizing element. Silvery, lustrous, and liquid and room temperature, it seems like a substance straight out of a fairy tale. In fact, it was long called quicksilver, which literally meant “living silver.” (An archaic use of the word “quick” is to refer to something that is “alive.”) But prolonged exposure can lead to some serious health problems, and archaeologists are now learning that the ancient Maya may …
+</blockquote>
+<footer>
+<small>
+By Ross Pomeroy, 687 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“A special series by Frank Jacobs.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://bigthink.com/feed/all" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly five posts per day.
+Started in <time datetime="2010-07-20">2010</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/geography/">
+<span itemprop="name">Geography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/geography/maps/">
+<span itemprop="name">Maps</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://conversableeconomist.com/">Conversable Economist</a>,
+<time class="js-timeago" datetime="2023-08-16T15:13:28.642516+00:00" class="text-nobr">13 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://conversableeconomist.com/2023/08/16/historical-lessons-from-actual-iceberg-trading-costs/">Historical Lessons from Actual Iceberg Trading Costs</a>
+</figcaption>
+<blockquote cite="https://conversableeconomist.com/2023/08/16/historical-lessons-from-actual-iceberg-trading-costs/">
+In modern economics, “iceberg costs” is an assumption built into certain models of international trade The metaphor is that if you were actually trading an iceberg, it would melt along the way. The extent of the melting would be greater, the farther it was carried across the ocean. Thus, an item which needs to be shipped a longer distance can be modelled as having “iceberg transportation costs”–that is, the value …
+</blockquote>
+<footer>
+<small>
+By conversableeconomist, 1,046 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“In Hume’s spirit, I will attempt to serve as an ambassador from my world of economics, and help in “finding topics of conversation fit for the entertainment of rational creatures.”.”
+By Timothy Taylor.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://conversableeconomist.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2011-05-17">2011</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/economics/" title="Economics and business">
+<span itemprop="name">Economics &amp; business</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/economics/economics/">
+<span itemprop="name">Economics</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.leonarddavid.com/">Leonard David&#x27;s INSIDE OUTER SPACE</a>,
+<time class="js-timeago" datetime="2023-08-16T15:13:11.364600+00:00" class="text-nobr">13 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.LeonardDavid.com/russian-moon-lander-in-lunar-orbit/">Russian Moon Lander Swings into Lunar Orbit</a>
+</figcaption>
+<blockquote cite="https://www.LeonardDavid.com/russian-moon-lander-in-lunar-orbit/">
+Russia’s Moon lander, the Luna-25, has entered lunar orbit. Thanks to the spacecraft’s corrective braking engine, one propulsive burn lasted 243 seconds, the second nudge, by soft landing engines, lasted 76 seconds. The craft is now in Moon orbit, nearing the time for its attempted landing on the lunar surface. Functioning normally Roscosmos reports that […]
+</blockquote>
+<footer>
+<small>
+By Leonard David, 63 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.LeonardDavid.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per day.
+Started in <time datetime="2014-01-19">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/science/">
+<span itemprop="name">Science</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/science/space/">
+<span itemprop="name">Space</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.alledinburghtheatre.com/">All Edinburgh Theatre.com</a>,
+<time class="js-timeago" datetime="2023-08-16T15:13:04.869960+00:00" class="text-nobr">13 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.alledinburghtheatre.com/alfie-and-george-edinburgh-little-theatre-edfringe-2023-review/">Alfie and George</a>
+</figcaption>
+<blockquote cite="https://www.alledinburghtheatre.com/alfie-and-george-edinburgh-little-theatre-edfringe-2023-review/">
+★★★☆☆ Last curtain Hill Street Theatre (Venue 41): Fri 4 – Fri 11 Aug 2023 Review by Tom Ralphs If the ghost of Samuel Beckett was invited to return from the grave to write an episode of Inside No.9 he might have come up with a similar idea to the one used for Alfie and George at Hill Street Theatre. Set in a dressing room behind the stage where a …
+</blockquote>
+<footer>
+<small>
+By Tom Ralphs, 610 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Reviews, news and previews edited by Thom Dibdin.”
+By Thom Dibdin, et al.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.alledinburghtheatre.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per day.
+Started in <time datetime="2000-07-01">2000</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/theatre/">
+<span itemprop="name">Theatre</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://freethoughtblogs.com/pharyngula/">Pharyngula</a>,
+<time class="js-timeago" datetime="2023-08-16T15:13:00.820780+00:00" class="text-nobr">13 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://freethoughtblogs.com/pharyngula/2023/08/16/how-to-kill-a-university/">How to kill a university</a>
+</figcaption>
+<blockquote cite="https://freethoughtblogs.com/pharyngula/2023/08/16/how-to-kill-a-university/">
+Pay attention, Republicans. I know this is what you want. Florida’s New College has had a rocky time since DeSantis was elected governor. He hates the liberal arts university, and placed a lot of anti-education administrators in charge — first and foremost, that execrable hack Chris Rufo, straight from the anti-science propaganda outlet, the Discovery Institute. But first, some good news! Enrollments are up. The incoming freshman class, which is …
+</blockquote>
+<footer>
+<small>
+By PZ Myers, 1,380 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Evolution, development, and random biological ejaculations from a godless liberal.”
+By PZ Myers.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://freethoughtblogs.com/pharyngula/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per day.
+Started in <time datetime="2006-01-12">2006</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/politics/" title="Government, politics and law">
+<span itemprop="name">Government, politics &amp; law</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/politics/politics/">
+<span itemprop="name">Politics</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.atlasobscura.com/">Atlas Obscura</a>,
+<time class="js-timeago" datetime="2023-08-16T15:08:44.334199+00:00" class="text-nobr">18 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.atlasobscura.com/places/jurubira-hot-springs-termales-colombia">Jurubirá Hot Springs in Nuquí, Colombia</a>
+</figcaption>
+<blockquote cite="https://www.atlasobscura.com/places/jurubira-hot-springs-termales-colombia">
+About 35 minutes south of the Nuquí Airport by boat, hot springs, known as termales, gurgle in the towering rain forests of the Pacific Ocean. Set along a small sand road near Morromico beach on Colombia&#x27;s western coast, this fishing community hosts tourists from around the world to relax along its undeveloped coastline. The hot springs are a few hundred yards from the beach along a jungle stream. While you …
+</blockquote>
+<footer>
+<small>
+148 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Definitive guidebook and friendly tour-guide to the world&#x27;s most wondrous places. Travel tips, articles, strange facts and unique events.”
+<span class="text-nobr">
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.atlasobscura.com/feeds/latest" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly seven posts per day.
+Started in <time datetime="2007-03-21">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/travel/">
+<span itemprop="name">Travel</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://doomandgloomfromthetomb.tumblr.com/">Doom &amp; Gloom From The Tomb</a>,
+<time class="js-timeago" datetime="2023-08-16T15:08:16.636720+00:00" class="text-nobr">18 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://doomandgloomfromthetomb.tumblr.com/post/725817129560145920">Lagniappe Sessions :: Sean Thompson’s Weird Ears, Spencer Cullum’s Coin Collection, Emergency Group,…</a>
+</figcaption>
+<blockquote cite="https://doomandgloomfromthetomb.tumblr.com/post/725817129560145920">
+Lagniappe Sessions :: Sean Thompson’s Weird Ears, Spencer Cullum’s Coin Collection, Emergency Group, Hollow Hand + Aoife Nessa FrancesAquarium Drunkard! What a nice website — and I’d be saying that even if I weren’t a regular contributor over there, swear to god. For example, the Lagniappe Sessions! Extremely cool cover versions played by extremely cool artists all for the extremely cool price of $0.00. This summer there have been some …
+</blockquote>
+<footer>
+<small>
+249 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“A selection of rad bootlegs + other music. Come fly with me.”
+<span class="text-nobr">
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://doomandgloomfromthetomb.tumblr.com/rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2009-03-05">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.worldofreel.com">World of Reel</a>,
+<time class="js-timeago" datetime="2023-08-16T15:08:01.179158+00:00" class="text-nobr">18 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.worldofreel.com/blog/2023/8/16/8l8vqnrxop7zrxp1cx34ur7xd6wo1d">‘Barbie’ Will Be Released on Digital September 5th</a>
+</figcaption>
+<blockquote cite="https://www.worldofreel.com/blog/2023/8/16/8l8vqnrxop7zrxp1cx34ur7xd6wo1d">
+“Barbie” is still topping the box-office, having today surpassed “The Dark Knight” as Warner Bros’ highest grossing film. It’s a mass cultural event and it hasn’t shown signs of letting up.In fact, Greta Gerwig’s film might again top this coming weekend’s box-office, and maybe the weekend after that (if “Blue Beetle” massively underperforms). It’s been at the top spot now for four straight weeks.However, with $535 million grossed domestically, not …
+</blockquote>
+<footer>
+<small>
+By Jordan Ruimy, 137 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Your place for alternative movie news.”
+By Jordan Ruimy.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.worldofreel.com/blog?format=rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly eight posts per day.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://hackaday.com/">Hackaday</a>,
+<time class="js-timeago" datetime="2023-08-16T15:03:21.442467+00:00" class="text-nobr">23 minutes ago</time>
+</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://hackaday.com/2023/08/16/giving-solar-powers-mortal-enemies-a-dusting-without-wasting-water/">Giving Solar Power’s Mortal Enemies a Dusting Without Wasting Water</a>
+</figcaption>
+<blockquote cite="https://hackaday.com/2023/08/16/giving-solar-powers-mortal-enemies-a-dusting-without-wasting-water/">
+A prerequisite for photovoltaic (PV) and concentrated solar power (CSP) technologies to work efficiently is as direct an exposure to the electromagnetic radiation from the sun as possible. Since dust and similar particulates are excellent at blocking the parts of the EM spectrum that determine their efficiency, keeping the panels and mirrors free from the build-up of dust, lichen, bird droppings and other perks of planetary life is a daily …
+</blockquote>
+<footer>
+<small>
+By Maya Posch, 1,433 words
+</small>
+</footer>
+</figure>
+<details class="website__details">
+<summary>About the blog</summary>
+<div class="website__details__body">
+<p class="util-mh-3">
+“Fresh hacks every day.”
+By Elliot Williams.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://hackaday.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly nine posts per day.
+Started in <time datetime="2004-09-05">2004</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div>
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination pagination--time">
+<li class="pagination__item">
+<a class="pagination__link" href="/updated/?d=20230816150321"><span aria-hidden="true">&larr;</span> Older</a>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link">Newer <span aria-hidden="true">&rarr;</span></span>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p>Blogs in order of when their most recent post was found by ooh.directory. This could be a while after the post was published. <a href="https://ooh.directory/blog/2023/recently-fetched-published/">Read more.</a></p>
+<p>Each blog only appears in the list once, with its most recent post.</p>
+</aside>
+<aside class="aside">
+<p>
+Word counts are based on the feeds, so will be low for feeds that don’t include full content.
+</p>
+</aside>
+<aside class="aside">
+<p>
+Update frequencies (e.g. “two posts per month”) are a very rough calculation based on recent activity.
+</p>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+<script>
+      /**
+       * Keep the times ago that each item was updated, udpated.
+       * Tweaked from https://gist.github.com/adactio/ccca5710152e77fb26b4a4df0ea8fc1e
+       * Also see https://adactio.com/journal/20377
+       */
+      (function (win, doc) {
+        'use strict';
+        if (!doc.querySelectorAll || !win.Intl || !win.Intl.RelativeTimeFormat) {
+          // doesn't cut the mustard.
+          return;
+        }
+
+        // Which elements do we want to target?
+        // e.g. "time[datetime]"
+        var selector = ".js-timeago";
+
+        var rtf = new Intl.RelativeTimeFormat('en', {
+          localeMatcher: 'best fit',
+          numeric: 'always',
+          style: 'long'
+        });
+        var units = {
+          'year'      : 1000 * 24 * 60 * 60 * 365,
+          'month'     : 1000 * 24 * 60 * 60 * (365/12),
+          'week'      : 1000 * 24 * 60 * 60 * 7,
+          'day'       : 1000 * 24 * 60 * 60,
+          'hour'      : 1000 * 60 * 60,
+          'minute'    : 1000 * 60,
+          // So that anything under 1 minute is shown as "just now":
+          //'second'    : 1000
+        };
+        var unit, then, now, diff, amount, text;
+        var updateDatetimes = function () {
+          now = Date.now();
+          doc.querySelectorAll(selector).forEach(function(timeElement) {
+            text = 'just now';
+            then = timeElement.getAttribute('datetime');
+            diff = new Date(then) - new Date(now);
+            for (unit in units) {
+              amount = units[unit];
+              if (Math.abs(diff) > amount) {
+                text = rtf.format(Math.round(diff / amount), unit);
+                break;
+              }
+            }
+            timeElement.innerText = text;
+          });
+        };
+        updateDatetimes();
+        // Run the update every 30 seconds
+        setInterval(updateDatetimes, 1000 * 30);
+      }(this, this.document));
+    </script>
+</body>
+</html>

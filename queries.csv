@@ -1,3 +1,0 @@
-www.lrb.co.uk,,//div[@role='main']//h2/a[@href]/@href | //div[@role='main']//h2/a[@href]/text() | //div[@role='main']//div[@aria-hidden="true"]/p | //div[@role='main']//h3/a[@href]/text() 
-www.theguardian.com,/uk,//div[contains(@id,"container")]//a[@href]/@href | //div[contains(@id,"container")]//a[@aria-label]/@aria-label
-www.theguardian.com,<CONTENT REGEX>,//div[@data-gu-name='headline']//h1 | //div[@data-gu-name='standfirst']//p | //address[@aria-label='Contributor info'] | //div[@id='maincontent']/div/p

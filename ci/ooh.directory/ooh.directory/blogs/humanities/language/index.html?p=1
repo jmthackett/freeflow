@@ -1,0 +1,1281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of blogs about Language"><meta name="keywords" content="Language, blogs, weblogs"><title>Blogs about Language (ooh.directory)</title><meta property="og:title" content="Blogs about Language (ooh.directory)"><meta property="og:url" content="https://ooh.directory/blogs/humanities/language/?p=1"><meta property="og:description" content="A collection of blogs about Language"><meta property="og:image" content="https://ooh.directory/media/categories/j7mkw6/icon_rectangle.png"><meta property="og:image:secure_url" content="https://ooh.directory/media/categories/j7mkw6/icon_rectangle.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Blogs about Language (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/blogs/humanities/language/?p=1"><meta name="twitter:description" content="A collection of blogs about Language"><meta name="twitter:image" content="https://ooh.directory/media/categories/j7mkw6/icon_rectangle.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+<link rel="alternate" type="application/rss+xml" title="The most recently added blogs in Language" href="/feeds/cats/j7mkw6/rss/language.xml">
+<link rel="alternate" type="application/xml" title="OPML file of blogs in Language" href="/feeds/cats/j7mkw6/opml/language.xml">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Language</span>
+</span>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead pagehead--emoji">
+<span class="emoji" aria-hidden="true">💬</span>
+<h1 class="pagehead__title">
+<span class="pagehead__title__intro">Blogs about</span>
+Language
+</h1>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_updated">
+Last updated
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_updated" name="updated">
+<option value selected>any time</option>
+<option value="week">in the past week</option>
+<option value="month">in the past month</option>
+<option value="year">in the past year</option>
+</select>
+</div>
+</div>
+<div class="form__group">
+<label class="form__label" for="id_country">
+From
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_country" name="country">
+<option value selected>any country</option>
+<option value="CA">Canada</option>
+<option value="IE">Ireland</option>
+<option value="IL">Israel</option>
+<option value="NL">Netherlands</option>
+<option value="RS">Serbia</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States of America</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+<p>
+21 blogs
+about Language.
+</p>
+</div>
+<ol class="websites">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.acelinguist.com/">Ace Linguist</a>
+<br>
+“At the crossroads of linguistics and pop culture.”
+By Karen.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-24T14:12:00+00:00">3 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.acelinguist.com/2023/07/blog-update.html">Blog Update</a>
+</figcaption>
+<blockquote cite="https://www.acelinguist.com/2023/07/blog-update.html">
+Moving to a new place this month, so no post for July. Alas, all my linguistics books are in the new place. Pray I can get settled in quickly so I can work on finishing …
+</blockquote>
+<footer>
+<small>
+44 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.acelinguist.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 12 posts per year.
+Started in <time datetime="2016-03-22">2016</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://allthingslinguistic.com/">All Things Linguistic</a>
+<br>
+“A blog about all things linguistic by Gretchen McCulloch. I cohost Lingthusiasm, a podcast that&#x27;s enthusiastic about linguistics. I&#x27;m the author of Because Internet, a book about internet language!”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-07T22:20:32+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://allthingslinguistic.com/post/725034554312753152">New Open Access Publication: Communicating about linguistics using lingcomm-driven evidence: Lingthusiasm podcast as a case study</a>
+</figcaption>
+<blockquote cite="https://allthingslinguistic.com/post/725034554312753152">
+superlinguo:Films have behind-the-scenes commentary tracks, Lingthusiasm now has a behind-the-scenes research article (a DOI rather than a DVD). This new Open Access article in Language and Linguistics Compass is an introduction to a variety of …
+</blockquote>
+<footer>
+<small>
+434 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://allthingslinguistic.com/rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2012-05-22">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://arnoldzwicky.org/">Arnold Zwicky&#x27;s Blog</a>
+<br>
+“A blog mostly about language.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T14:36:47+00:00">48 minutes ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://arnoldzwicky.org/2023/08/16/affinal-equivalents/">Affinal equivalents</a>
+</figcaption>
+<blockquote cite="https://arnoldzwicky.org/2023/08/16/affinal-equivalents/">
+In a comment on my 8/15 “niblings” posting, Aric Olnes reports having 20 niblings (sib’s kids), “27 including spouses”. Now, sib’s kid is a consanguineal relationship — of kinship “by blood” — in both of …
+</blockquote>
+<footer>
+<small>
+By arnold zwicky, 675 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://arnoldzwicky.org/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per day.
+Started in <time datetime="2008-12-22">2008</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.balashon.com/">Balashon - Hebrew Language Detective</a>
+<br>
+“A blog about the origin of Hebrew words and phrases and how they relate to English and other languages.”
+By David Curwin.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Israel" title="Israel">🇮🇱</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T16:33:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="http://www.balashon.com/2023/08/pesher-and-efshar.html">pesher and efshar</a>
+</figcaption>
+<blockquote cite="http://www.balashon.com/2023/08/pesher-and-efshar.html">
+This post is part of a series about words from Kohelet, in honor of the release of my new book, Kohelet - A Map to Eden. For more information about the book, and how to …
+</blockquote>
+<footer>
+<small>
+By Balashon, 695 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.balashon.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per month.
+Started in <time datetime="2006-01-15">2006</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://colinmorris.github.io">colin_morris</a>
+<br>
+“I’m a funemployed programmer and deep learning enthusiast.”
+By Colin Morris.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-03-01T00:00:00+00:00">5 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="http://colinmorris.github.io/blog/chatgpt-writes-a-wiki-article">Does ChatGPT know about things Wikipedia doesn&#x27;t?</a>
+</figcaption>
+<blockquote cite="http://colinmorris.github.io/blog/chatgpt-writes-a-wiki-article">
+I’ve spent a lot of time editing Wikipedia. I do it for many reasons, but one of the sillier ones floating around the margins of my consciousness is that I like to think that, by …
+</blockquote>
+<footer>
+<small>
+885 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="http://colinmorris.github.io/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per year.
+Started in <time datetime="2013-04-10">2013</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/development/">
+<span itemprop="name">Development</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://nancyfriedman.typepad.com/away_with_words/">Fritinancy</a>
+<br>
+“Names, brands, writing, and the language of commerce.”
+By Nancy Friedman.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T13:56:32+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://nancyfriedman.typepad.com/away_with_words/2023/08/looking-for-word-of-the-week.html">Looking for Word of the Week?</a>
+</figcaption>
+<blockquote cite="https://nancyfriedman.typepad.com/away_with_words/2023/08/looking-for-word-of-the-week.html">
+It’s migrated to my new digital home, Substack. Read about this week’s word now! And catch up on my reasons for changing platforms here. Subscribe to my Substack—free!—to get every post delivered to your inbox …
+</blockquote>
+<footer>
+<small>
+By Nancy Friedman, 49 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://nancyfriedman.typepad.com/away_with_words/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2006-06-23">2006</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://garethrees.org/">garethrees.org</a>
+<br>
+By Gareth Rees.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2022-02-27T00:00:00+00:00">a year ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="http://garethrees.org/2022/02/27/rumours/">The rediscovery of Morniel Mathaway</a>
+</figcaption>
+<blockquote cite="http://garethrees.org/2022/02/27/rumours/">
+1. Academic rumours Careful scholarship is supposed to protect us from chains of whispers, where texts get distorted via paraphrase and summary so that secondary and tertiary works fail to accurately convey the sense of …
+</blockquote>
+<footer>
+<small>
+3,026 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://garethrees.org/index_rss.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="1995-07-26">1995</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://grammaticus.blog">grammaticus</a>
+<br>
+“weekly posts on literature, languages, and learning.”
+By Nenad Knezevic.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Serbia" title="Serbia">🇷🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-07T07:31:23+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://grammaticus.blog/2023/08/07/bubi/">Bubi</a>
+</figcaption>
+<blockquote cite="https://grammaticus.blog/2023/08/07/bubi/">
+This time of year always brings memories of Bubi, a wonderful cat I used to share my home with: July 23 is the anniversary of her death, while August 8 is marked as the International …
+</blockquote>
+<footer>
+<small>
+By Nenad Knežević, 381 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://grammaticus.blog/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2018-09-05">2018</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://ideophone.org/">The Ideophone</a>
+<br>
+“Sounding out ideas on language, vivid sensory words, and iconicity.”
+By Mark Dingemanse.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Netherlands" title="Netherlands">🇳🇱</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-11T23:10:01+00:00">4 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://ideophone.org/pitfalls-of-fossil-thinking-preface-to-a-peer-review/">Pitfalls of fossil-thinking: prelude to a peer review</a>
+</figcaption>
+<blockquote cite="https://ideophone.org/pitfalls-of-fossil-thinking-preface-to-a-peer-review/">
+One of the benefits of today’s preprint culture is that it is possible to provide constructive critique of pending work before it is out, thereby enabling a rapid cycle of revision before things are committed …
+</blockquote>
+<footer>
+<small>
+By mark, 1,018 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://ideophone.org/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2019-12-01">2019</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://blog.inkyfool.com/">Inky Fool</a>
+<br>
+“Being the weblog of Mark Forsyth.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-05-11T09:47:00+00:00">3 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://blog.inkyfool.com/2023/05/today-is-mayday.html">Today is Mayday</a>
+</figcaption>
+<blockquote cite="https://blog.inkyfool.com/2023/05/today-is-mayday.html">
+Today is the first of May, or that&#x27;s what Shakespeare thought, as did all proper Englishmen. May, for him, ran from May 11th to June 10th. The reason for this is reasonably simple. Ancient folk …
+</blockquote>
+<footer>
+<small>
+By M.H. Forsyth, 795 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://blog.inkyfool.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per year.
+Started in <time datetime="2009-10-27">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://lughat.blogspot.com/">Jabal al-Lughat</a>
+<br>
+“Climbing the Mountain of Languages.”
+By Lameen Souag.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2021-12-09T10:43:00+00:00">a year ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://lughat.blogspot.com/2021/12/power-and-nephewhood-from-ahaggar-to.html">Power and nephewhood from the Ahaggar to Hombori</a>
+</figcaption>
+<blockquote cite="http://lughat.blogspot.com/2021/12/power-and-nephewhood-from-ahaggar-to.html">
+Throughout In most Tuareg varieties, the verb &#x27;be able&#x27; is dub-ət (pf. yă-ddob-ăt, impf. ti-dubu-t). There are no compelling cognates for this in Berber outside Tuareg, as Naït-Zerrad&#x27;s comparative dictionary confirms; at best, one might …
+</blockquote>
+<footer>
+<small>
+By Lameen Souag الأمين سواق, 730 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://lughat.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2005-05-26">2005</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://languagehat.com/">languagehat.com</a>
+<br>
+By Language Hat.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T18:39:42+00:00">20 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://languagehat.com/shakespeare-in-love/">Shakespeare in Love.</a>
+</figcaption>
+<blockquote cite="https://languagehat.com/shakespeare-in-love/">
+No, not the movie but a much older hit I’d never heard of, and you probably haven’t either. I’m reading Serfdom, Society, and the Arts in Imperial Russia: The Pleasure and the Power by Richard …
+</blockquote>
+<footer>
+<small>
+By languagehat, 1,004 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://languagehat.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per day.
+Started in <time datetime="2002-07-31">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://languagelog.ldc.upenn.edu/nll/">Language Log</a>
+<br>
+By Mark Liberman, Geoffrey Pullum, et al.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T12:17:49+00:00">3 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://languagelog.ldc.upenn.edu/nll/?p=60190&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stan-carey-on-greenlit">Stan Carey on &quot;greenlit&quot;</a>
+</figcaption>
+<blockquote cite="https://languagelog.ldc.upenn.edu/nll/?p=60190&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stan-carey-on-greenlit">
+From Stan Carey at Sentence First, a lucid and deeply empirical dive into the question &quot;Has ‘greenlit’ been greenlighted?&quot;. Stan explores a wide variety of relevant corpus data, both historical and otherwise, providing a lovely …
+</blockquote>
+<footer>
+<small>
+By Mark Liberman, 101 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://languagelog.ldc.upenn.edu/nll/?feed=rss2" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per day.
+Started in <time datetime="2003-07-28">2003</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://namerology.com/category/articles/">Namerology : Articles Archives</a>
+<br>
+“The home for name enthusiasts, and anyone with a naming question that they’d like answered with an analytical mindset and a positive attitude.”
+By Laura Wattenberg.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-09T15:17:26+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://namerology.com/2023/08/09/the-new-cuteness/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-new-cuteness">The New Cuteness</a>
+</figcaption>
+<blockquote cite="https://namerology.com/2023/08/09/the-new-cuteness/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-new-cuteness">
+Adorable names are roaring back into style—for girls only. For generations, American baby names have been anything but cutesy. The quest for novelty has opened up a world of new name styles, from the antique …
+</blockquote>
+<footer>
+<small>
+By LauraWattenberg, 404 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://namerology.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per month.
+Started in <time datetime="2019-03-01">2019</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://notoneoffbritishisms.com/">Not One-Off Britishisms</a>
+<br>
+“British words and expressions that have got popular in the U.S.”
+By Ben Yagoda.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-03T19:06:23+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://notoneoffbritishisms.com/2023/08/03/trekking/">“Trekking”</a>
+</figcaption>
+<blockquote cite="https://notoneoffbritishisms.com/2023/08/03/trekking/">
+A couple of months ago, the New York Times ran an article called “2023 Is the Year of the Long Walk.” The sub-heading began: “The 500-mile Camino de Santiago has inspired a host of new …
+</blockquote>
+<footer>
+<small>
+By Ben Yagoda, 375 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://notoneoffbritishisms.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per month.
+Started in <time datetime="2011-02-13">2011</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://russiandinosaur.blogspot.com/">Russian Dinosaur</a>
+<br>
+“A blog mostly about Russian literature and translation issues, as retailed by a small stuffed dinosaur.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2022-11-18T19:01:00+00:00">9 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://russiandinosaur.blogspot.com/2022/11/thank-you-for-radishes-edmund-wilson-in.html">Thank you for the radishes: Edmund Wilson in dialogue with Helen Muchnic</a>
+</figcaption>
+<blockquote cite="https://russiandinosaur.blogspot.com/2022/11/thank-you-for-radishes-edmund-wilson-in.html">
+In 1942, the literary critic and Princeton graduate, Edmund Wilson, then forty-seven, made friends with a scholar of Russian literature slightly younger than himself, Helen Muchnic. Born in Baku in 1902, Helen emigrated to the …
+</blockquote>
+<footer>
+<small>
+By Russian Dinosaur, 1,889 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://russiandinosaur.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per year.
+Started in <time datetime="2010-06-07">2010</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/" title="Books and literature">
+<span itemprop="name">Books</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/fiction-books/" title="Fiction books">
+<span itemprop="name">Fiction</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://stancarey.wordpress.com/">Sentence first</a>
+<br>
+“An Irishman&#x27;s blog about the English language.”
+By Stan Carey.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Ireland" title="Ireland">🇮🇪</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T12:34:37+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://stancarey.wordpress.com/2023/08/15/has-greenlit-been-greenlighted/">Has ‘greenlit’ been greenlighted?</a>
+</figcaption>
+<blockquote cite="https://stancarey.wordpress.com/2023/08/15/has-greenlit-been-greenlighted/">
+The verb greenlight, or green-light, means to give something approval or permission to proceed: you give it the green light, metaphorically. What past-tense form of the verb would you use in these lines? HBO just …
+</blockquote>
+<footer>
+<small>
+By Stan Carey, 1,782 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://stancarey.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2008-06-05">2008</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://separatedbyacommonlanguage.blogspot.com/">Separated by a Common Language</a>
+<br>
+“explore[s] the often subtle differences in American and British English.”
+By Lynne Murphy.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-12T00:06:00+00:00">2 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://separatedbyacommonlanguage.blogspot.com/2023/06/mean-to.html">mean to</a>
+</figcaption>
+<blockquote cite="http://separatedbyacommonlanguage.blogspot.com/2023/06/mean-to.html">
+Reader Sam* recently wrote to me with the following: A usage that surprises me every time I hear it is “meant” in the sense of “supposed” or “should be”. For example, in a BBC news …
+</blockquote>
+<footer>
+<small>
+By lynneguist, 1,016 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://separatedbyacommonlanguage.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 14 posts per year.
+Started in <time datetime="2006-05-26">2006</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://shadycharacters.co.uk">Shady Characters</a>
+<br>
+“The secret life of punctuation.”
+By Keith Houston.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T01:36:57+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://shadycharacters.co.uk/2023/08/win-a-copy-of-empire-of-the-sum/">Win a copy of Empire of the Sum!</a>
+</figcaption>
+<blockquote cite="https://shadycharacters.co.uk/2023/08/win-a-copy-of-empire-of-the-sum/">
+This is your chance to win one of two free copies of Empire of the Sum: The Rise and Reign of the Pocket Calculator! To enter, leave a comment on this post with a valid …
+</blockquote>
+<footer>
+<small>
+By Keith Houston, 59 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://shadycharacters.co.uk/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly eight posts per year.
+Started in <time datetime="2010-12-05">2010</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://stronglang.wordpress.com/">Strong Language</a>
+<br>
+“A sweary blog about swearing.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-13T18:01:27+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://stronglang.wordpress.com/2023/07/13/strong-bad-mature-filthy-language/">Strong bad mature filthy language</a>
+</figcaption>
+<blockquote cite="https://stronglang.wordpress.com/2023/07/13/strong-bad-mature-filthy-language/">
+Listening to a podcast this morning, I noticed the phrase mature language used in a content warning. It’s one of many phrases in the form X language, some of them similarly euphemistic, for what we …
+</blockquote>
+<footer>
+<small>
+By Stan Carey, 613 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://stronglang.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 13 posts per year.
+Started in <time datetime="2014-12-13">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/language/">
+<span itemprop="name">Language</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link"><span aria-hidden="true">&larr;</span></span>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 1" aria-current="true">1</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Goto Page 2">2</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Next page"><span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p><a href="/suggest/?c=44">Suggest a blog for this category</a></p>
+</aside>
+<aside class="aside">
+<h1>Feeds of blogs in this category</h1>
+<ul class="list--unstyled">
+<li class="icon icon--opml util-mb-0">
+<a href="/feeds/cats/j7mkw6/opml/language.xml" title="OPML file">OPML file</a><br>
+For downloading and importing into your feed&nbsp;reader
+</li>
+<li class="icon icon--rss util-mb-0">
+<a href="/feeds/cats/j7mkw6/rss/language.xml" title="RSS feed">RSS feed</a><br>
+For following new&nbsp;additions
+</li>
+</ul>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+</body>
+</html>

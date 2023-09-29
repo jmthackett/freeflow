@@ -144,6 +144,6 @@ for k, v in site:iter() do
   end
 end
 
-print(mdoutput)
+print(mdoutput .. "\n")
 
 return 0

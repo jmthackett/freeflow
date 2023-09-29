@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of blogs about TV"><meta name="keywords" content="TV, blogs, weblogs"><title>Blogs about TV, page 2 (ooh.directory)</title><meta property="og:title" content="Blogs about TV, page 2 (ooh.directory)"><meta property="og:url" content="https://ooh.directory/blogs/arts/tv/?p=2"><meta property="og:description" content="A collection of blogs about TV"><meta property="og:image" content="https://ooh.directory/media/categories/n6ggw6/icon_rectangle.png"><meta property="og:image:secure_url" content="https://ooh.directory/media/categories/n6ggw6/icon_rectangle.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Blogs about TV, page 2 (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/blogs/arts/tv/?p=2"><meta name="twitter:description" content="A collection of blogs about TV"><meta name="twitter:image" content="https://ooh.directory/media/categories/n6ggw6/icon_rectangle.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+<link rel="alternate" type="application/rss+xml" title="The most recently added blogs in TV" href="/feeds/cats/n6ggw6/rss/tv.xml">
+<link rel="alternate" type="application/xml" title="OPML file of blogs in TV" href="/feeds/cats/n6ggw6/opml/tv.xml">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">TV</span>
+</span>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead pagehead--emoji">
+<span class="emoji" aria-hidden="true">📺</span>
+<h1 class="pagehead__title">
+<span class="pagehead__title__intro">Blogs about</span>
+TV
+</h1>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_updated">
+Last updated
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_updated" name="updated">
+<option value selected>any time</option>
+<option value="week">in the past week</option>
+<option value="month">in the past month</option>
+<option value="year">in the past year</option>
+</select>
+</div>
+</div>
+<div class="form__group">
+<label class="form__label" for="id_country">
+From
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_country" name="country">
+<option value selected>any country</option>
+<option value="CA">Canada</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States of America</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+<p>
+33 blogs
+about TV.
+Page 2 of 2.
+</p>
+</div>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 2" aria-current="true">2</span>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link"><span aria-hidden="true">&rarr;</span></span>
+</li>
+</ul>
+</nav>
+<ol class="websites">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.realityblurred.com/realitytv/">reality blurred</a>
+<br>
+“Reality show reviews, recaps, and reality TV news analysis: your guide to reality television and unscripted entertainment, edited by Andy Dehnart.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T03:00:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.realityblurred.com/realitytv/2023/08/claim-to-fame-2-episode-8-defections-connections-total-perplexion-recap/">Claim to Fame 2: Are Chris &amp; Monay still mysteries? Did betrayal = bro bifurcation?</a>
+</figcaption>
+<blockquote cite="https://www.realityblurred.com/realitytv/2023/08/claim-to-fame-2-episode-8-defections-connections-total-perplexion-recap/">
+Claim to Fame 2&#x27;s players had a chance to get even more clues. Would that help them figure out who Chris or Monay are related to? And who got into a heartwarming tiff and then …
+</blockquote>
+<footer>
+<small>
+By Andy Dehnart, 51 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://feeds.realityblurred.com/realityblurred" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per week.
+Started in <time datetime="2000-07-05">2000</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://scifiinterfaces.com/">Sci-fi interfaces | Stop watching sci-fi. Start using it.</a>
+<br>
+“Scifiinterfaces analyzes the speculative technology in sci-fi movies and TV shows for fun and erudition.”
+By Chris Noessel.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-03-12T19:46:55+00:00">5 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://scifiinterfaces.com/2023/03/12/fritzes-2023-winners/">Fritzes 2023 Winners</a>
+</figcaption>
+<blockquote cite="https://scifiinterfaces.com/2023/03/12/fritzes-2023-winners/">
+The Fritzes award honors the best interfaces in a full-length motion picture in the past year. Interfaces play a special role in our movie-going experience, and are a craft all their own that does not …
+</blockquote>
+<footer>
+<small>
+By Christopher Noessel, 1,367 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://scifiinterfaces.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly nine posts per year.
+Started in <time datetime="2012-07-18">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.screenactionjazz.com/">Screen Action Jazz</a>
+<br>
+“Commentary and breaking news regarding the golden age of jazz soundtracks that supplied a swing backdrop for the suspenseful adventures of secret agents, private detectives, cops, spies and heist-minded criminals.”
+By Derrick Bang.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-13T18:27:00+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.screenactionjazz.com/2023/08/recent-discovery-west-11.html">Recent discovery: West 11</a>
+</figcaption>
+<blockquote cite="https://www.screenactionjazz.com/2023/08/recent-discovery-west-11.html">
+Director Michael Winner’s melancholy noir entry quietly smolders amid an atmosphere of casual debauchery enhanced by Otto Heller’s gorgeous monochromatic cinematography. The early 1960s Ladbroke Grove setting is laden with sleazy diners, street food and …
+</blockquote>
+<footer>
+<small>
+By Derrick Bang, 870 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.screenactionjazz.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly seven posts per year.
+Started in <time datetime="2020-04-01">2020</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/classics/" title="Classic movies">
+<span itemprop="name">Classics</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/genres/" title="Music genres">
+<span itemprop="name">Genres</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/genres/jazz/">
+<span itemprop="name">Jazz</span>
+</a>
+<meta itemprop="position" content="5" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://thestopbutton.com">The Stop Button</a>
+<br>
+“blogging by Andrew Wickliffe.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T13:58:31+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://thestopbutton.com/2023/08/15/black-mirror-2011-s01e01-the-national-anthem/">Black Mirror (2011) s01e01 – The National Anthem</a>
+</figcaption>
+<blockquote cite="https://thestopbutton.com/2023/08/15/black-mirror-2011-s01e01-the-national-anthem/">
+I spent all of The National Anthem waiting for someone—anyone—to turn to the camera and say, “David William Donald Cameron.” Hell, they could’ve done an animated Peppa Pig saying it. But &quot;Black Mirror&quot; started in …
+</blockquote>
+<footer>
+<small>
+By Andrew Wickliffe, 584 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://thestopbutton.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2005-02-20">2005</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.bbc.co.uk/blogs/strictlycomedancing">Strictly Come Dancing - BBC Blogs</a>
+<br>
+“We&#x27;ll be sharing the latest news and backstage gossip from the nation&#x27;s favourite dancing competition. This is the place to get your daily dose of dance floor drama and training room trials.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-11T06:24:33+00:00">5 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.bbc.co.uk/blogs/strictlycomedancing/entries/8ebea67a-b209-43d0-a639-739c219bf1ad">Les Dennis completes our line-up for Strictly 2023!</a>
+</figcaption>
+<blockquote cite="https://www.bbc.co.uk/blogs/strictlycomedancing/entries/8ebea67a-b209-43d0-a639-739c219bf1ad">
+Les Dennis is our fifteenth and final celebrity contestant confirmed for the brand new series of Strictly Come Dancing. Les has been in showbiz for over 50 years, including famously hosting Family Fortunes for 16 …
+</blockquote>
+<footer>
+<small>
+227 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.bbc.co.uk/blogs/strictlycomedancing/rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2012-09-06">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/economics/" title="Economics and business">
+<span itemprop="name">Economics &amp; business</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/economics/companies/">
+<span itemprop="name">Companies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/economics/companies/bbc/">
+<span itemprop="name">BBC</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://thiswayupzine.blogspot.com/">This Way Up</a>
+<br>
+“Reviews - Comment - Stuff - Nonsense.”
+By John Connors.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T18:14:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://thiswayupzine.blogspot.com/2023/08/squaring-circle-documentary-reviewed.html">Squaring the Circle documentary reviewed</a>
+</figcaption>
+<blockquote cite="http://thiswayupzine.blogspot.com/2023/08/squaring-circle-documentary-reviewed.html">
+The story of Seventies album cover designers Hipgnosis makes for an absorbing film by Anton Corbijn If you grew up in the Seventies or a fan of that decade’s music the chances are you owned …
+</blockquote>
+<footer>
+<small>
+By John Connors, 2,183 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://thiswayupzine.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per week.
+Started in <time datetime="2011-02-06">2011</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://timworthington.org/">Tim Worthington</a>
+<br>
+“Writer. Occasional Broadcaster. TV&#x27;s &#x27;Clangers Expert&#x27;.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-06T18:50:39+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://timworthington.org/2023/08/06/now-available-from-bbc-records-and-tapes/">Now Available From BBC Records And Tapes</a>
+</figcaption>
+<blockquote cite="https://timworthington.org/2023/08/06/now-available-from-bbc-records-and-tapes/">
+If you&#x27;ve found your way here after hearing me talking about BBC Records And Tapes on Stuart Maconie&#x27;s Freak Zone... Hello!
+</blockquote>
+<footer>
+<small>
+By Tim Worthington, 28 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://timworthington.org/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2017-08-19">2017</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://timworthington.blogspot.com/">Tim Worthington&#x27;s Newsround</a>
+<br>
+“Writer. Occasional Broadcaster. Somewhere between Jennifer Eccles and King Midas In Reverse.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2022-06-07T10:39:00+00:00">a year ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://timworthington.blogspot.com/2022/06/top-of-box-vol-2.html">Top Of The Box Vol. 2</a>
+</figcaption>
+<blockquote cite="http://timworthington.blogspot.com/2022/06/top-of-box-vol-2.html">
+From Play School Play On to Russell Grant’s Zodiac Jukebox, the story behind every album released by BBC Records And Tapes.Between 1967 and 1991, BBC Records And Tapes released more than seven hundred albums. These …
+</blockquote>
+<footer>
+<small>
+By Tim Worthington, 294 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://timworthington.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2013-11-25">2013</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://blog.trekcore.com/">TrekCore</a>
+<br>
+“Your best source for STAR TREK television, movie, convention, and product news.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T01:25:38+00:00">13 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://blog.trekcore.com/2023/08/interview-star-trek-prodigy-hagemans-stlv-2023/">INTERVIEW — Dan and Kevin Hageman on the Search for STAR TREK: PRODIGY’s New Home, the USS Voyager-A, and More!</a>
+</figcaption>
+<blockquote cite="https://blog.trekcore.com/2023/08/interview-star-trek-prodigy-hagemans-stlv-2023/">
+It’s been nearly two months since Star Trek: Prodigy was cancelled at Paramount+ and removed from the streaming service, and while the already-aired episodes remain available through digital purchase (and coming to Blu-ray in September), …
+</blockquote>
+<footer>
+<small>
+By Ken Reilly, 1,620 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://blog.trekcore.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per week.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://tv-vcr.com/">TV-VCR</a>
+<br>
+“movies and television, together at last in one clunky package.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-04-06T02:04:56+00:00">4 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://tv-vcr.com/tv-vcr-has-reached-its-end-of-tape/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tv-vcr-has-reached-its-end-of-tape">TV-VCR has reached its end of tape</a>
+</figcaption>
+<blockquote cite="https://tv-vcr.com/tv-vcr-has-reached-its-end-of-tape/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tv-vcr-has-reached-its-end-of-tape">
+Hey. Thanks for reading this. And, more so, thanks for reading and commenting on everything else before this on TV-VCR. But, I’m sorry to say, this is all there will be to read. This is …
+</blockquote>
+<footer>
+<small>
+By Mark, 180 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://tv-vcr.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://psychotronicpaul.blogspot.com/">Way Too Damn Lazy To Write A Blog</a>
+<br>
+“Musings On 20th Century Pop Culture by Psychotronic Paul.”
+By Paul F. Etcheverry.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-13T23:38:00+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://psychotronicpaul.blogspot.com/2023/08/and-this-blog-loves-otto-messmer.html">And This Blog Loves Otto Messmer</a>
+</figcaption>
+<blockquote cite="https://psychotronicpaul.blogspot.com/2023/08/and-this-blog-loves-otto-messmer.html">
+Today, we pay tribute to the great artist and animator of Felix The Cat, Otto Messmer. While producer Pat Sullivan took all the credit for the creative escapades of the famous feline in his 1920&#x27;s …
+</blockquote>
+<footer>
+<small>
+By Paul F. Etcheverry, 350 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://psychotronicpaul.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2006-09-29">2006</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://wearecult.rocks/">We Are Cult</a>
+<br>
+“Your companion for all things cult.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T16:31:01+00:00">22 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://wearecult.rocks/bluebeards-castle-a-novel-by-anna-biller">Bluebeard’s Castle, A Novel by Anna Biller</a>
+</figcaption>
+<blockquote cite="https://wearecult.rocks/bluebeards-castle-a-novel-by-anna-biller">
+Super Amanda wrote on We Are Cult: Bluebeard’s Castle, A Novel by Anna Biller ❉ We peer over the walls of Manderfield for a look at filmmaker Anna Biller’s stunning debut novel. “Biller’s modernised take …
+</blockquote>
+<footer>
+<small>
+By Super Amanda, 1,431 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://wearecult.rocks/feed" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2016-09-09">2016</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://thewertzone.blogspot.com/">The Wertzone</a>
+<br>
+“SF&amp;F In Print &amp; On Screen.”
+By Adam Whitehead.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-13T16:23:00+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://thewertzone.blogspot.com/2023/08/from-season-1.html">From: Season 1</a>
+</figcaption>
+<blockquote cite="https://thewertzone.blogspot.com/2023/08/from-season-1.html">
+The Matthews family are confused when they drive through a small town only to find themselves repeatedly driving back through it again, whatever route they attempt to take. The locals tell them they are trapped …
+</blockquote>
+<footer>
+<small>
+By Adam Whitehead, 855 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://thewertzone.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2006-11-28">2006</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/" title="Books and literature">
+<span itemprop="name">Books</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/fiction-books/" title="Fiction books">
+<span itemprop="name">Fiction</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/fiction-books/science-fiction/" title="Science fiction books">
+<span itemprop="name">Science fiction</span>
+</a>
+<meta itemprop="position" content="5" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/tv/">
+<span itemprop="name">TV</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 2" aria-current="true">2</span>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link"><span aria-hidden="true">&rarr;</span></span>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p><a href="/suggest/?c=42">Suggest a blog for this category</a></p>
+</aside>
+<aside class="aside">
+<h1>Feeds of blogs in this category</h1>
+<ul class="list--unstyled">
+<li class="icon icon--opml util-mb-0">
+<a href="/feeds/cats/n6ggw6/opml/tv.xml" title="OPML file">OPML file</a><br>
+For downloading and importing into your feed&nbsp;reader
+</li>
+<li class="icon icon--rss util-mb-0">
+<a href="/feeds/cats/n6ggw6/rss/tv.xml" title="RSS feed">RSS feed</a><br>
+For following new&nbsp;additions
+</li>
+</ul>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+</body>
+</html>

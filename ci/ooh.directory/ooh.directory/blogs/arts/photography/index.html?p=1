@@ -1,0 +1,1294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of blogs about Photography"><meta name="keywords" content="Photography, Photographs, blogs, weblogs"><title>Blogs about Photography (ooh.directory)</title><meta property="og:title" content="Blogs about Photography (ooh.directory)"><meta property="og:url" content="https://ooh.directory/blogs/arts/photography/?p=1"><meta property="og:description" content="A collection of blogs about Photography"><meta property="og:image" content="https://ooh.directory/media/categories/e8vd8x/icon_rectangle.png"><meta property="og:image:secure_url" content="https://ooh.directory/media/categories/e8vd8x/icon_rectangle.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Blogs about Photography (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/blogs/arts/photography/?p=1"><meta name="twitter:description" content="A collection of blogs about Photography"><meta name="twitter:image" content="https://ooh.directory/media/categories/e8vd8x/icon_rectangle.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+<link rel="alternate" type="application/rss+xml" title="The most recently added blogs in Photography" href="/feeds/cats/e8vd8x/rss/photography.xml">
+<link rel="alternate" type="application/xml" title="OPML file of blogs in Photography" href="/feeds/cats/e8vd8x/opml/photography.xml">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Photography</span>
+</span>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead pagehead--emoji">
+<span class="emoji" aria-hidden="true">📷</span>
+<h1 class="pagehead__title">
+<span class="pagehead__title__intro">Blogs about</span>
+Photography
+</h1>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+<ol class="categories categories--expanded">
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🖼️</span>
+<span class="categories__item__body">
+<a href="/blogs/arts/photography/photographs/">Photographs</a>
+<small>(28)</small>
+</span>
+</li>
+</ol>
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro text-intro--bordered">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_updated">
+Last updated
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_updated" name="updated">
+<option value selected>any time</option>
+<option value="week">in the past week</option>
+<option value="month">in the past month</option>
+<option value="year">in the past year</option>
+</select>
+</div>
+</div>
+<div class="form__group">
+<label class="form__label" for="id_country">
+From
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_country" name="country">
+<option value selected>any country</option>
+<option value="AU">Australia</option>
+<option value="CA">Canada</option>
+<option value="JP">Japan</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States of America</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+<p>
+24 blogs
+about Photography.
+</p>
+</div>
+<ol class="websites">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.alex-kunz.com/weblog/">Alexander S. Kunz Photography – Weblog</a>
+<br>
+“Landscape &amp; Nature Photographer — Lightroom Expert &amp; Tutor.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T12:30:20+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.alex-kunz.com/august-2013-throwback/">August 2013 Throwback</a>
+</figcaption>
+<blockquote cite="https://www.alex-kunz.com/august-2013-throwback/">
+For the middle of the month I’m sharing my usual “throwback” to photos that I made 10 years ago during the same month of the year. That’s August 2013, and if it has anything in …
+</blockquote>
+<footer>
+<small>
+By Alexander S. Kunz, 46 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.alex-kunz.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per week.
+Started in <time datetime="2004-08-15">2004</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://www.abiggercamera.com">A Bigger Camera</a>
+<br>
+By Darin Boville.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-18T00:04:46+00:00">4 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.abiggercamera.com/2023/07/books-on-my-desk-buried-things-in-the-sand-buried-things-in-your-mind/">Books On My Desk: Buried Things in the Sand, Buried Things in Your Mind</a>
+</figcaption>
+<blockquote cite="https://www.abiggercamera.com/2023/07/books-on-my-desk-buried-things-in-the-sand-buried-things-in-your-mind/">
+Egypt and the Holy Land in Historic Photographs. 77 Views by Francis Frith.Introduction by Julia Van Haaften, Selection and Commentary by Jon E Manic WhitePublished by Dover Publications, 1980 Frith was an English photographer in …
+</blockquote>
+<footer>
+<small>
+By Darin Boville, 616 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.abiggercamera.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2020-07-22">2020</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://billfortney.com/">Bill Fortney</a>
+<br>
+“Photography &amp; Faith.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-07T16:04:19+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://billfortney.com/?p=27357">Things that made me smile!</a>
+</figcaption>
+<blockquote cite="https://billfortney.com/?p=27357">
+This morning I was looking through old images on my computer and ran across some that made me smile, I hope you enjoy them too! Above: After years of traveling with Jack to do workshops …
+</blockquote>
+<footer>
+<small>
+297 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://billfortney.com/?feed=rss2" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per month.
+Started in <time datetime="2010-04-26">2010</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.bythom.com/newsviews/index.html">Cameras and Photography Explained | News/Views | Thom Hogan</a>
+<br>
+“News and opinions about photography and the camera industry by Thom Hogan, with pointers to his gear specific sites.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T14:10:05+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.bythom.com/newsviews/todays-hall-of-shame-entran.html">Today&#x27;s Hall of Shame Entrant</a>
+</figcaption>
+<blockquote cite="https://www.bythom.com/newsviews/todays-hall-of-shame-entran.html">
+So I just got a Fujifilm X-S20 in for testing. Because I&#x27;ll be away from the office much of the time I&#x27;m testing it, I wanted a couple of extra batteries. SmallRig sells two plus …
+</blockquote>
+<footer>
+<small>
+246 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.bythom.com/newsviews/index.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2020-12-21">2020</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://craigmod.com/essays/">Collected Essays of Craig Mod</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Japan" title="Japan">🇯🇵</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-12T00:00:00+00:00">4 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://craigmod.com/ridgeline/168/">[RIDGELINE] Movie Credit Boredom in Japan</a>
+</figcaption>
+<blockquote cite="https://craigmod.com/ridgeline/168/">
+Ridgeliners — When I started Ridgeline some many many years ago (4.5-ish), the plan was to cap each post at about 300 words. I was cribbing from Sam Anderson’s “New Sentences” column that had a …
+</blockquote>
+<footer>
+<small>
+By Craig Mod, 81 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://craigmod.com/index.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per month.
+Started in <time datetime="2009-07-03">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/" title="Books and literature">
+<span itemprop="name">Books</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.thisiscolossal.com/">Colossal</a>
+<br>
+“Art, design, and visual culture.”
+By Christopher Jobson, Grace Ebert, et al.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T17:45:32+00:00">21 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.thisiscolossal.com/2023/08/interview-amy-sherald/">Interview: Amy Sherald On Bearing Witness, Social Anxiety, and Finding Respite in Her Work</a>
+</figcaption>
+<blockquote cite="https://www.thisiscolossal.com/2023/08/interview-amy-sherald/">
+“The lesson of the falling leaves” (2017), oil on canvas, 54 x 43 x 2 1/2 inches. Photo by Joseph Hyde. All images © Amy Sherald, courtesy of the artist and Hauser &amp; Wirth, shared …
+</blockquote>
+<footer>
+<small>
+By Paulette Beete, 288 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.thisiscolossal.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per day.
+Started in <time datetime="2012-02-29">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/art/">
+<span itemprop="name">Art</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://cphmag.com/">Conscientious Photography Magazine</a>
+<br>
+“Jörg M. Colberg&#x27;s online photography magazine, featuring photographer profiles, interviews, articles, and book reviews.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T13:15:04+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://cphmag.com/celine-van-balen/">Céline van Balen 1965-2023</a>
+</figcaption>
+<blockquote cite="https://cphmag.com/celine-van-balen/">
+“Most people are nothing,” Fran Lebowitz told Helen Molesworth in a short clip on Instagram that I came across today, “by which I mean they’re of no consequence to anyone but themselves.” If you wanted …
+</blockquote>
+<footer>
+<small>
+By Jörg Colberg, 1,052 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://cphmag.com/feed-atom/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2013-04-27">2013</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://thefamilymuseum.co.uk/blog/">The Family Museum – Blog</a>
+<br>
+“An archival project about vernacular family photography.”
+By Nigel Shephard, Rachael Moloney.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-15T13:15:47+00:00">2 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://thefamilymuseum.co.uk/2023/06/15/down-arlesey/">Down Arlesey</a>
+</figcaption>
+<blockquote cite="https://thefamilymuseum.co.uk/2023/06/15/down-arlesey/">
+This album was compiled by a woman in her early 20s, known throughout as ‘I’ or ‘me’. It covers about three years between 1964 and 1966, apart from two photos, and includes her mum, dad, …
+</blockquote>
+<footer>
+<small>
+By The Family Museum, 347 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://thefamilymuseum.co.uk/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per year.
+Started in <time datetime="2018-12-23">2018</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://fiftyfootshadows.net/">fiftyfootshadows.net</a>
+<br>
+“Photography. Music. Life.”
+By John Carey.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-02T16:32:18+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://fiftyfootshadows.net/2023/08/02/test-of-time/">Test Of Time</a>
+</figcaption>
+<blockquote cite="https://fiftyfootshadows.net/2023/08/02/test-of-time/">
+Words come and they go. They show my age, my level of understanding, my grasp on my own perspective. I’ve written a lot here over the years and come in and out of popularity only …
+</blockquote>
+<footer>
+<small>
+By John Carey, 1,508 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://fiftyfootshadows.net/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per year.
+Started in <time datetime="2007-12-29">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://fogblog-hermansheephouse.blogspot.com/">FogBlog</a>
+<img src="/static/oohdir/img/new.gif" class="util-img-crisp" alt="NEW" width="31" height="12">
+<br>
+“A gripping thrill-ride through the world of current traditional photography, exploring technique, darkrooms, chemicals and more.”
+By Herman Sheephouse.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-10T15:50:00+00:00">5 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://fogblog-hermansheephouse.blogspot.com/2023/08/new-glass-old-eyes.html">New Glass, Old Eyes</a>
+</figcaption>
+<blockquote cite="https://fogblog-hermansheephouse.blogspot.com/2023/08/new-glass-old-eyes.html">
+Morning folks - well, indeed, it is something like that. On a whim I recently went mad and bought another rangefinder camera to take away on holidays - I feel the M2 is just too …
+</blockquote>
+<footer>
+<small>
+By Herman Sheephouse, 1,064 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://fogblog-hermansheephouse.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2012-10-26">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://www.theostry.com">Fup Duck Photography</a>
+<br>
+“Percussive learning in a world of automation.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-10T06:53:05+00:00">6 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://fupduckphoto.wordpress.com/2023/08/10/kodak-no-1-pocket-camera/">Kodak No.1 Pocket Camera</a>
+</figcaption>
+<blockquote cite="https://fupduckphoto.wordpress.com/2023/08/10/kodak-no-1-pocket-camera/">
+I didn’t need another camera, but then I came across this stately centenarian for a fiver. What are you going to do? Well, check it over first. The lens and bellows looked clean and in …
+</blockquote>
+<footer>
+<small>
+By fupduckphoto, 1,144 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://fupduckphoto.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2018-05-28">2018</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://iconicphotos.wordpress.com/">Iconic Photos</a>
+<br>
+“Famous, Infamous and Iconic Photos.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-09T10:35:24+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://iconicphotos.wordpress.com/2023/08/09/1978-jonestown/">1978 | Jonestown</a>
+</figcaption>
+<blockquote cite="https://iconicphotos.wordpress.com/2023/08/09/1978-jonestown/">
+Peoples Temple Agricultural Project it was called. In the ’60s, Jim Jones was a respected Pentecostal reverend, who preached a gospel of social justice and inclusion to integrate churches, hospitals, restaurants and theaters and attract …
+</blockquote>
+<footer>
+<small>
+By S.Za., 825 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://iconicphotos.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2009-04-26">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.mrussellphotography.com/blog/">Landscape and Nature Photography Photoblog • Michael Russell Photography</a>
+<br>
+“Based in the Fraser Valley of British Columbia, I photograph the landscapes and nature of Southwestern BC and the PNW&#x27;s Washington State.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T15:10:47+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.mrussellphotography.com/blog/niagara-falls-goldstream-provincial-park/">Niagara Falls in Goldstream Provincial Park</a>
+</figcaption>
+<blockquote cite="https://www.mrussellphotography.com/blog/niagara-falls-goldstream-provincial-park/">
+Niagara Falls at Goldstream Provincial Park in British Columbia, Canada. Niagara Falls at Goldstream Provincial Park (Purchase) I don’t make it to Vancouver Island nearly often enough. After a recent trip to Salt Spring Island …
+</blockquote>
+<footer>
+<small>
+By Michael, 78 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.mrussellphotography.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2007-12-19">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://alifeinphotography.blogspot.com/">A Life in Photography</a>
+<br>
+“This blog is about life, about photography, and about my life in photography.”
+By David B. Jenkins.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T11:30:00+00:00">3 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://alifeinphotography.blogspot.com/2023/08/the-book-is-here.html">The Book Is Here!</a>
+</figcaption>
+<blockquote cite="http://alifeinphotography.blogspot.com/2023/08/the-book-is-here.html">
+If you&#x27;ve been reading this blog for any length of time, you&#x27;ve read about my newest book, the second edition of Backroads and Byways of Georgia. As the ad copy says: A Road Guide to …
+</blockquote>
+<footer>
+<small>
+By Dave Jenkins, 291 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://alifeinphotography.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per week.
+Started in <time datetime="2011-08-13">2011</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://longdelayspossible.com/">Long Delays Possible</a>
+<br>
+“Omar Parada photography blog, portfolio and prints shop.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-04-11T08:35:36+00:00">4 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.longdelayspossible.com/2023/04/11/alone/">Alone</a>
+</figcaption>
+<blockquote cite="https://www.longdelayspossible.com/2023/04/11/alone/">
+Source
+</blockquote>
+<footer>
+<small>
+By Omar Parada, 2 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.longdelayspossible.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://matt.pictures/">matt&#x27;s pictures</a>
+<br>
+By Matt Mills.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-08T08:40:30+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://matt.pictures/post/another_art_party">another art party</a>
+</figcaption>
+<blockquote cite="https://matt.pictures/post/another_art_party">
+Akhil does these pretty regularly; because of weird blog time dilation, this one is getting posted a month after the last one, but the parties themselves were more like 6 months apart. This one was …
+</blockquote>
+<footer>
+<small>
+436 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://matt.pictures/rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per month.
+Started in <time datetime="2009-01-02">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://onlinedarkroom.blogspot.com/">The Online Darkroom</a>
+<br>
+“Film &amp; silver gelatin darkroom blog covering analogue or analog photography, printing and equipment. Ilford, Kodak, Adox, Olympus, Leica, Rolleiflex.”
+By Bruce Robbins.
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-29T20:04:00+00:00">2 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://onlinedarkroom.blogspot.com/2023/07/return-to-port-allen.html">Return to Port Allen</a>
+</figcaption>
+<blockquote cite="https://onlinedarkroom.blogspot.com/2023/07/return-to-port-allen.html">
+Readers who stop by both this blog and that of my pal, Phil Rogers, must be wondering why Phil has written about a few photo days out we&#x27;ve enjoyed together over the last couple of …
+</blockquote>
+<footer>
+<small>
+By Bruce Robbins, 76 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://onlinedarkroom.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://theonlinephotographer.typepad.com/the_online_photographer/blog_index.html">The Online Photographer</a>
+<br>
+“A photography news and information website in the form of a weblog with multiple authors who write on a variety of photography and art-photography related issues.”
+By Mike Johnston.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T15:18:15+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://feeds.feedblitz.com/~/779691311/0/theonlinephotographer~Global-Nomad-by-Tom-Haig.html">&#x27;Global Nomad&#x27; by Tom Haig</a>
+</figcaption>
+<blockquote cite="https://feeds.feedblitz.com/~/779691311/0/theonlinephotographer~Global-Nomad-by-Tom-Haig.html">
+Tom Haig today As a youngster growing up in a Milwaukee, Wisconsin, suburb, Tom Haig ran wild with the neighborhood&#x27;s kids. By seventh grade, the thirst for adventure and fearlessness he learned from them led …
+</blockquote>
+<footer>
+<small>
+By Michael Johnston, 627 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://theonlinephotographer.typepad.com/the_online_photographer/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per week.
+Started in <time datetime="2007-06-20">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.outsidetheworld.com">Outside the World dot com</a>
+<br>
+By RyanDavid Burningham.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-25T01:43:00+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.outsidetheworld.com/2023/06/wcl.html">WCL</a>
+</figcaption>
+<footer>
+<small>
+By RyanDavid, 1 word
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.outsidetheworld.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2019-11-15">2019</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://aphotoeditor.com/">A Photo Editor</a>
+<br>
+“Former Photography Director Rob Haggart.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-10T14:00:16+00:00">6 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://aphotoeditor.com/2023/08/10/the-art-of-the-personal-project-sara-forrest-3/">The Art of the Personal Project: Sara Forrest</a>
+</figcaption>
+<blockquote cite="https://aphotoeditor.com/2023/08/10/the-art-of-the-personal-project-sara-forrest-3/">
+The Art of the Personal Project is a crucial element to let potential buyers see how you think creatively on your own. I am drawn to personal projects that have an interesting vision or that …
+</blockquote>
+<footer>
+<small>
+By Suzanne Sease, 653 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://aphotoeditor.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2007-08-28">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/photography/">
+<span itemprop="name">Photography</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link"><span aria-hidden="true">&larr;</span></span>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 1" aria-current="true">1</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Goto Page 2">2</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Next page"><span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p><a href="/suggest/?c=10">Suggest a blog for this category</a></p>
+</aside>
+<aside class="aside">
+<h1>Feeds of blogs in this category</h1>
+<ul class="list--unstyled">
+<li class="icon icon--opml util-mb-0">
+<a href="/feeds/cats/e8vd8x/opml/photography.xml" title="OPML file">OPML file</a><br>
+For downloading and importing into your feed&nbsp;reader
+</li>
+<li class="icon icon--rss util-mb-0">
+<a href="/feeds/cats/e8vd8x/rss/photography.xml" title="RSS feed">RSS feed</a><br>
+For following new&nbsp;additions
+</li>
+</ul>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+</body>
+</html>

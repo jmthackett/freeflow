@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Blogs recently added to the website"><meta name="keywords" content="blogs, weblogs"><title>Recently added blogs, from 2023-07-08 14:59:12 (ooh.directory)</title><meta property="og:title" content="Recently added blogs, from 2023-07-08 14:59:12 (ooh.directory)"><meta property="og:url" content="https://ooh.directory/added/?d=20230708145912"><meta property="og:description" content="Blogs recently added to the website"><meta property="og:image" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta property="og:image:secure_url" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Recently added blogs, from 2023-07-08 14:59:12 (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/added/?d=20230708145912"><meta name="twitter:description" content="Blogs recently added to the website"><meta name="twitter:image" content="https://ooh.directory/static/oohdir/img/site_icon.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+<link rel="alternate" type="application/rss+xml" title="Recently added blogs" href="/feeds/recently-added.xml">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Recently added blogs</span>
+</span>
+<meta itemprop="position" content="1" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead">
+<h1 class="pagehead__title">Recently added blogs</h1>
+<p class="pagehead__nav">
+Or see
+<a href="/updated/">recently <em>updated</em> blogs</a>
+</p>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<nav aria-label="Pagination navigation">
+<ul class="pagination pagination--time">
+<li class="pagination__item">
+<a class="pagination__link" href="/added/?d=20230701115110"><span aria-hidden="true">&larr;</span> Older</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="/added/?d=20230712160123">Newer <span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+<ol class="websites">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://educationechochamber.wordpress.com/">The Echo Chamber</a>
+<br>
+“Education...education...education.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-08T14:20:01+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://educationechochamber.wordpress.com/2023/08/08/41650/">2023-08-08 14:20</a>
+</figcaption>
+<blockquote cite="https://educationechochamber.wordpress.com/2023/08/08/41650/">
+All Ebacc subjects are equal, but some are more equal than others….
+</blockquote>
+<footer>
+<small>
+By fish64, 11 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://educationechochamber.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2013-05-30">2013</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/education/">
+<span itemprop="name">Education</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://twentyfourframes.wordpress.com/">Twenty Four Frames</a>
+<br>
+“Notes on Film by John Greco.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-05-17T10:05:04+00:00">3 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://twentyfourframes.wordpress.com/2023/05/17/johnny-staccato/">Johnny Staccato</a>
+</figcaption>
+<blockquote cite="https://twentyfourframes.wordpress.com/2023/05/17/johnny-staccato/">
+In the 1950s television, there was no one cooler than John Cassavetes’ as “Johnny Staccato.” Cool Jazz, hot women, and bad dudes. The setting is Greenwich Village. “Peter Gunn,” a more successful show in the …
+</blockquote>
+<footer>
+<small>
+By John Greco, 58 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://twentyfourframes.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per year.
+Started in <time datetime="2008-07-13">2008</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://brewinabedsit.blogspot.com/">Brewing In A Bedsitter</a>
+<br>
+“Adventures in small batch homebrew.”
+By DaveS.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-13T10:44:00+00:00">2 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://brewinabedsit.blogspot.com/2023/06/counter-terroir-police.html">Terroir - putting the locally sourced boot in</a>
+</figcaption>
+<blockquote cite="http://brewinabedsit.blogspot.com/2023/06/counter-terroir-police.html">
+All beer geeks like to occasionally have something that reminds us of when we were first getting into craft beer, so I enjoyed seeing some proper Beer Discourse triggered by a Matt Curtis article yesterday. …
+</blockquote>
+<footer>
+<small>
+By DaveS, 581 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://brewinabedsit.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per year.
+Started in <time datetime="2015-09-21">2015</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/food-and-drink/" title="Food and drink">
+<span itemprop="name">Food &amp; drink</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/food-and-drink/drink/">
+<span itemprop="name">Drink</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/food-and-drink/drink/beer/">
+<span itemprop="name">Beer</span>
+</a>
+<meta itemprop="position" content="5" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://igorpak.wordpress.com/">Igor Pak&#x27;s blog</a>
+<br>
+“Views on life and math.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-04-13T06:47:12+00:00">4 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://igorpak.wordpress.com/2023/04/12/the-journal-hall-of-shame/">The journal hall of shame</a>
+</figcaption>
+<blockquote cite="https://igorpak.wordpress.com/2023/04/12/the-journal-hall-of-shame/">
+As you all know, my field is Combinatorics. I care about it. I blog about it endlessly. I want to see it blossom. I am happy to see it accepted by the broad mathematical community. …
+</blockquote>
+<footer>
+<small>
+By igorpak, 1,284 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://igorpak.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per year.
+Started in <time datetime="2012-03-16">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/science/">
+<span itemprop="name">Science</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/science/mathematics/">
+<span itemprop="name">Mathematics</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://direbane.blogspot.com/">Direbane: An RPG Home Brewed Repository</a>
+<br>
+“An abode to share artifacts, simulacra, histories, and other items of note related to ongoing years adventuring.”
+By Matrox Lusch.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-03T06:11:00+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://direbane.blogspot.com/2023/08/pig-faced-ork-con-2023.html">Pig Faced Ork Con 2023!</a>
+</figcaption>
+<blockquote cite="http://direbane.blogspot.com/2023/08/pig-faced-ork-con-2023.html">
+If you are down in So-Cal I highly recommend the Pig Faced Ork Old School Role Playing Game Convention set for Saturday October 21, 2023. This Fresno, CA area convention is a one-day gig in …
+</blockquote>
+<footer>
+<small>
+By Matrox Lusch, 199 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://direbane.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 11 posts per year.
+Started in <time datetime="2010-01-01">2010</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/games/">
+<span itemprop="name">Games</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/games/tabletop-games/">
+<span itemprop="name">Tabletop games</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/games/tabletop-games/role-playing-games/">
+<span itemprop="name">Role-playing games</span>
+</a>
+<meta itemprop="position" content="5" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://soif.org.uk/blog/">School of International Futures - Blog</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-23T09:20:26+00:00">3 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://soif.org.uk/blog/expanding-horizons-reflections-of-a-fiction-writer/">Expanding Horizons: Reflections of a Fiction Writer</a>
+</figcaption>
+<blockquote cite="https://soif.org.uk/blog/expanding-horizons-reflections-of-a-fiction-writer/">
+In this interview, Beth Barany shares lessons that futurists can take from fiction writing and also shares her insights from attending the SOIF summer foresight retreat. Beth is an award-winning novelist, book coach, podcaster, workshop …
+</blockquote>
+<footer>
+<small>
+By Cat Tully, 918 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://soif.org.uk/blog/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2012-06-08">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/futures/">
+<span itemprop="name">Futures</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.scottericpetersen.com/writing/">s c o t t e r i c p e t e r s e n - Writing</a>
+<br>
+By Scott Petersen.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T03:07:13+00:00">12 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.scottericpetersen.com/multichannel-audio-devices-and-linux-not-a-love-story/">Multichannel Audio Devices and Linux (not a love story)</a>
+</figcaption>
+<blockquote cite="https://www.scottericpetersen.com/multichannel-audio-devices-and-linux-not-a-love-story/">
+Something has been bothering me for some time since moving to PipeWire on my Linux boxes, and that is the way multichannel audio devices are handled. As we all know (and loath), Linux audio is …
+</blockquote>
+<footer>
+<small>
+By Scott Petersen, 106 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.scottericpetersen.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per year.
+Started in <time datetime="2005-06-30">2005</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/musical-instruments/">
+<span itemprop="name">Musical instruments</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/development/">
+<span itemprop="name">Development</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.gnufmuffin.com/">Do You Know The Muffin Man?</a>
+<br>
+“I like to bake and make desserts in my spare time. This is a journal of my experiments.”
+By Eric Fung.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-13T00:16:14+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.gnufmuffin.com/2023/07/red-bean-swirl-buns.html">Red Bean Swirl Buns</a>
+</figcaption>
+<blockquote cite="https://www.gnufmuffin.com/2023/07/red-bean-swirl-buns.html">
+A package of Shirakiku Fine Sweetened Red Bean Paste has been sitting in my fridge for a few months now. I finally turned it into these beautiful swirly buns. The recipe is from Mooncakes and …
+</blockquote>
+<footer>
+<small>
+By Eric Fung, 234 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.gnufmuffin.com/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per month.
+Started in <time datetime="2005-04-09">2005</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/food-and-drink/" title="Food and drink">
+<span itemprop="name">Food &amp; drink</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://thehistoryofparliament.wordpress.com/">The History of Parliament</a>
+<br>
+“Blogging on parliament, politics and people, from the History of Parliament.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T06:30:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://thehistoryofparliament.wordpress.com/2023/08/15/a-last-roll-of-the-dice-richard-iiis-pardon-to-john-morton-16-august-1485/">A last roll of the dice? Richard III’s pardon to John Morton, 16 August 1485</a>
+</figcaption>
+<blockquote cite="https://thehistoryofparliament.wordpress.com/2023/08/15/a-last-roll-of-the-dice-richard-iiis-pardon-to-john-morton-16-august-1485/">
+On 16 August 1485, King Richard III issued a pardon to an old adversary, John Morton, bishop of Ely. Dr Hannes Kleineke, editor of our Commons 1461-1504 project, explores the issue that Morton posed to …
+</blockquote>
+<footer>
+<small>
+By Kirsty O&#x27;Rourke, 979 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://thehistoryofparliament.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2012-11-01">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/">
+<span itemprop="name">Countries, states, towns, etc.</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/uk/" title="United Kingdom">
+<span itemprop="name">UK</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/countries/uk/uk-government/">
+<span itemprop="name">UK government</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/history/">
+<span itemprop="name">History</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://someonesmumsays.blogspot.com/">I Buy A New Washer</a>
+<br>
+“A blog which muses on the everyday happenings of motherhood, poetry, work and basic plumbing techniques.”
+By Liz Lefroy.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-20T21:27:00+00:00">3 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://someonesmumsays.blogspot.com/2023/07/i-fall-short-of-food-mile.html">I Fall Short of a Food Mile</a>
+</figcaption>
+<blockquote cite="https://someonesmumsays.blogspot.com/2023/07/i-fall-short-of-food-mile.html">
+Potato season is opening, just as raspberry season is closing. That&#x27;s what&#x27;s happening locally, at least. When I say locally, I mean within a third of a mile of my kitchen work surfaces. According to …
+</blockquote>
+<footer>
+<small>
+By Liz Lefroy, 579 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://someonesmumsays.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2014-02-18">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://doomandgloomfromthetomb.tumblr.com/">Doom &amp; Gloom From The Tomb</a>
+<br>
+“A selection of rad bootlegs + other music. Come fly with me.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T13:39:14+00:00">an hour ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://doomandgloomfromthetomb.tumblr.com/post/725817129560145920">Lagniappe Sessions :: Sean Thompson’s Weird Ears, Spencer Cullum’s Coin Collection, Emergency Group,…</a>
+</figcaption>
+<blockquote cite="https://doomandgloomfromthetomb.tumblr.com/post/725817129560145920">
+Lagniappe Sessions :: Sean Thompson’s Weird Ears, Spencer Cullum’s Coin Collection, Emergency Group, Hollow Hand + Aoife Nessa FrancesAquarium Drunkard! What a nice website — and I’d be saying that even if I weren’t a …
+</blockquote>
+<footer>
+<small>
+249 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://doomandgloomfromthetomb.tumblr.com/rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2009-03-05">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://awfj.org/female-gaze/">The Female Gaze | an AWFJ blog</a>
+<br>
+“Dedicated to covering the issues faced by women working in the film industry regarding gender disparity in job opportunities and in representation on the job.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-06T18:39:36+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://awfj.org/female-gaze/2023/08/06/birth-rebirth-review-by-justina-walford/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=birth-rebirth-review-by-justina-walford">BIRTH/REBIRTH – Review by Justina Walford</a>
+</figcaption>
+<blockquote cite="https://awfj.org/female-gaze/2023/08/06/birth-rebirth-review-by-justina-walford/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=birth-rebirth-review-by-justina-walford">
+My favorite horror films are symbolic shadow work, a protagonist who is quintessentially “the good one” and another living our darkest intrusive thoughts, with the darkness mentoring the light in a grim spiritual and moral …
+</blockquote>
+<footer>
+<small>
+By awfj-admin, 103 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://awfj.org/female-gaze/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 10 posts per year.
+Started in <time datetime="2014-11-30">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/movies/">
+<span itemprop="name">Movies</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://blog.timac.org/">Timac</a>
+<br>
+By Alexandre Colucci.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Germany" title="Germany">🇩🇪</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-27T05:00:00+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://blog.timac.org/2023/0627-charts-in-markdown-using-apache-echarts/">Charts in Markdown using Apache ECharts</a>
+</figcaption>
+<blockquote cite="https://blog.timac.org/2023/0627-charts-in-markdown-using-apache-echarts/">
+With this blog approaching 15 years of existence, it was time to add support for the long overdue Dark Mode. As part of this update, I also made significant changes to the charts that help …
+</blockquote>
+<footer>
+<small>
+70 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://blog.timac.org/index.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per year.
+Started in <time datetime="2008-07-19">2008</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/apple/">
+<span itemprop="name">Apple</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://thenextwavefutures.wordpress.com/">the next wave</a>
+<br>
+“Andrew Curry&#x27;s blog on futures, trends, emerging issues and scenarios.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T09:30:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://thenextwavefutures.wordpress.com/2023/08/15/young-plaintiffs-landmark-climate-case-montana-us/">‘Meddling kids’ win landmark climate case in the US</a>
+</figcaption>
+<blockquote cite="https://thenextwavefutures.wordpress.com/2023/08/15/young-plaintiffs-landmark-climate-case-montana-us/">
+To general surprise, the young people who sued the state of Montana over climate change have won their case. It’s a big moment, because although youth-led climate actions have been filed in every US state, …
+</blockquote>
+<footer>
+<small>
+By thenextwavefutures, 1,151 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://thenextwavefutures.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2007-04-21">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/">
+<span itemprop="name">Humanities</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/humanities/futures/">
+<span itemprop="name">Futures</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://btrussell-fishingthroughlife.blogspot.com/">Fishing Through Life</a>
+<br>
+“fly fishing for trout, bluegill and bass.”
+By Bill Russell.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-13T19:21:00+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://btrussell-fishingthroughlife.blogspot.com/2023/08/the-slow-bite-on-smith-lake.html">The Slow Bite on Smith Lake</a>
+</figcaption>
+<blockquote cite="http://btrussell-fishingthroughlife.blogspot.com/2023/08/the-slow-bite-on-smith-lake.html">
+The most challenging time to fish Smith Lake is after July 4th and into the late September. During those two and half months, the lake goes into a &quot;Pull-Down Mode,&quot; meaning the generators run daily …
+</blockquote>
+<footer>
+<small>
+By Bill Trussell, 382 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://btrussell-fishingthroughlife.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+Started in <time datetime="2010-02-11">2010</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/">
+<span itemprop="name">Recreation</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/sport/" title="Sport and exercise">
+<span itemprop="name">Sport &amp; exercise</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/recreation/sport/fishing/">
+<span itemprop="name">Fishing</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination pagination--time">
+<li class="pagination__item">
+<a class="pagination__link" href="/added/?d=20230701115110"><span aria-hidden="true">&larr;</span> Older</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="/added/?d=20230712160123">Newer <span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p>Blogs in order of when they were added to the site, with the most recent first.</p>
+</aside>
+<aside class="aside">
+<p>
+Word counts are based on the feeds, so will be low for feeds that don’t include full content.
+</p>
+</aside>
+<aside class="aside">
+<h1>RSS feed</h1>
+<ul class="list--unstyled">
+<li class="icon icon--rss util-mb-0">
+<a href="/feeds/recently-added.xml" title="RSS feed">Recently added blogs</a>
+</li>
+</ul>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+</body>
+</html>

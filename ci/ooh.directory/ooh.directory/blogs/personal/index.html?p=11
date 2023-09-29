@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of blogs about Personal blogs"><meta name="keywords" content="Personal blogs, blogs, weblogs"><title>Personal blogs, page 11 (ooh.directory)</title><meta property="og:title" content="Personal blogs, page 11 (ooh.directory)"><meta property="og:url" content="https://ooh.directory/blogs/personal/?p=11"><meta property="og:description" content="A collection of blogs about Personal blogs"><meta property="og:image" content="https://ooh.directory/media/categories/n7yp7q/icon_rectangle.png"><meta property="og:image:secure_url" content="https://ooh.directory/media/categories/n7yp7q/icon_rectangle.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Personal blogs, page 11 (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/blogs/personal/?p=11"><meta name="twitter:description" content="A collection of blogs about Personal blogs"><meta name="twitter:image" content="https://ooh.directory/media/categories/n7yp7q/icon_rectangle.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+<link rel="alternate" type="application/rss+xml" title="The most recently added blogs in Personal blogs" href="/feeds/cats/n7yp7q/rss/personal.xml">
+<link rel="alternate" type="application/xml" title="OPML file of blogs in Personal blogs" href="/feeds/cats/n7yp7q/opml/personal.xml">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Personal blogs</span>
+</span>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead pagehead--emoji">
+<span class="emoji" aria-hidden="true">😀</span>
+<h1 class="pagehead__title">
+<span class="pagehead__title__intro">&nbsp;</span>
+Personal blogs
+</h1>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_updated">
+Last updated
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_updated" name="updated">
+<option value selected>any time</option>
+<option value="week">in the past week</option>
+<option value="month">in the past month</option>
+<option value="year">in the past year</option>
+</select>
+</div>
+</div>
+<div class="form__group">
+<label class="form__label" for="id_country">
+From
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_country" name="country">
+<option value selected>any country</option>
+<option value="AU">Australia</option>
+<option value="KH">Cambodia</option>
+<option value="CA">Canada</option>
+<option value="CN">China</option>
+<option value="FR">France</option>
+<option value="DE">Germany</option>
+<option value="GR">Greece</option>
+<option value="HU">Hungary</option>
+<option value="IE">Ireland</option>
+<option value="IT">Italy</option>
+<option value="NL">Netherlands</option>
+<option value="NZ">New Zealand</option>
+<option value="NO">Norway</option>
+<option value="PH">Philippines</option>
+<option value="PL">Poland</option>
+<option value="SG">Singapore</option>
+<option value="ES">Spain</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="TR">Türkiye</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States of America</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+<p>
+304 blogs
+in Personal blogs.
+Page 11 of 16.
+</p>
+</div>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=10" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Goto Page 2">2</a>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link">…</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=9" aria-label="Goto Page 9">9</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=10" aria-label="Goto Page 10">10</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 11" aria-current="true">11</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=12" aria-label="Goto Page 12">12</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=13" aria-label="Goto Page 13">13</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=14" aria-label="Goto Page 14">14</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=15" aria-label="Goto Page 15">15</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=16" aria-label="Goto Page 16">16</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=12" aria-label="Next page"><span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+<ol class="websites">
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://www.orbific.com">orbific.com</a>
+<br>
+By James Burt.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T05:12:30+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://orbific.com/books/ten-years-of-chaos-magic-and-money-burning/">Ten Years of Chaos, Magic and Money-Burning</a>
+</figcaption>
+<blockquote cite="https://orbific.com/books/ten-years-of-chaos-magic-and-money-burning/">
+July saw the release of tenth anniversary edition of John Higgs’ book on the KLF, Chaos, Magic and the Band who Burned a Million Pounds. I’ve read this several times now, and used it as …
+</blockquote>
+<footer>
+<small>
+By orbific, 436 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://orbific.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2007-10-10">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://p1k3.com/">p1k3</a>
+<br>
+“Writing by Brennen Bearnes.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T03:51:21+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://p1k3.com/2023/6/27">Tuesday, June 27, 2023 - a thing, falling apart</a>
+</figcaption>
+<blockquote cite="https://p1k3.com/2023/6/27">
+Tuesday, June 27, 2023 a thing, falling apart (Context: American west, Great Plains, midwest.) Here’s something I notice: Buying a fast food hamburger is borderline impossible a lot of places. You walk into let’s say …
+</blockquote>
+<footer>
+<small>
+387 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://p1k3.com/feed" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+Started in <time datetime="1997-04-28">1997</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/" title="Books and literature">
+<span itemprop="name">Books</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/poetry/">
+<span itemprop="name">Poetry</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://www.nicolasnova.net/pasta-and-vinegar/">pasta &amp; vinegar — Nicolas Nova</a>
+<br>
+“mind/tech bazar from outer space.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Switzerland" title="Switzerland">🇨🇭</span>
+<span aria-label="France" title="France">🇫🇷</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-05-27T13:07:07+00:00">3 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="http://www.nicolasnova.net/pasta-and-vinegar/2023/5/27/new-article-for-atelier-luma">New article for Atelier Luma</a>
+</figcaption>
+<blockquote cite="http://www.nicolasnova.net/pasta-and-vinegar/2023/5/27/new-article-for-atelier-luma">
+A chapter about the kinds of investigations/inquiries designers put together in their work, in the book by Atelier Luma, celebrating their ten years of design research.Nova, N. 2023. Les designers-enquêteurs et leur singularité, Pratiques biorégionales …
+</blockquote>
+<footer>
+<small>
+By nicolas nova, 50 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="http://feeds.feedburner.com/nicolasnova" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per year.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://patintheworld.com/">Pat in the World</a>
+<br>
+“Paperwork enthusiast seeking new frontiers of paperwork. Former submariner, former Peace Corps Volunteer.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-30T16:00:00+00:00">2 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://patintheworld.wordpress.com/2023/07/30/my-one-decent-sea-story-pt-vii/">My One Decent Sea Story Pt VII</a>
+</figcaption>
+<blockquote cite="https://patintheworld.wordpress.com/2023/07/30/my-one-decent-sea-story-pt-vii/">
+The most harrowing part of the night is when we spotted a merchant ship. I said earlier but you don’t exactly get many contacts out there in the middle of the Philippine Sea, and I …
+</blockquote>
+<footer>
+<small>
+By patintheworld, 803 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://patintheworld.wordpress.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per month.
+Started in <time datetime="2016-03-10">2016</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://paulcapewell.com/blog/">paulcapewell.com | blog</a>
+<br>
+By Paul Capewell.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-09T00:00:00+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://paulcapewell.com/blog/230809/">Good light</a>
+</figcaption>
+<blockquote cite="https://paulcapewell.com/blog/230809/">
+You know the light is good when you unexpectedly pass a photographer with a tripod up before 7am shooting a derelict building site&#x27;s hoardings. As I passed him, I wanted to gently say, &quot;Isn&#x27;t the …
+</blockquote>
+<footer>
+<small>
+1,213 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://paulcapewell.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+Started in <time datetime="2009-01-06">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://ftrain.medium.com/">Paul Ford – Medium</a>
+<br>
+“Co-founder, Postlight.com and Aboard.io.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2020-12-02T18:26:50+00:00">2 years ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://ftrain.medium.com/lets-skim-the-slack-salesforce-press-release-22e941ddc1e0?source=rss-168dab556633------2">Let’s Skim! The Slack/Salesforce Press Release</a>
+</figcaption>
+<blockquote cite="https://ftrain.medium.com/lets-skim-the-slack-salesforce-press-release-22e941ddc1e0?source=rss-168dab556633------2">
+Histoire naturelle des cétacées, 1804I find enterprise software fascinating because it operates the entire economy and yet it frequently neglects every single principle of quality that software people may espouse. Slack is/has been the anti-enterprise …
+</blockquote>
+<footer>
+<small>
+By Paul Ford, 2,400 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://medium.com/feed/@ftrain" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://paulmiller.org/">Paul Miller</a>
+<br>
+“Don&#x27;t panic.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-19T13:12:52+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://paulmiller.org/weary-giants-and-ai/">Weary Giants and AI</a>
+</figcaption>
+<blockquote cite="https://paulmiller.org/weary-giants-and-ai/">
+The tech world has a strange relationship with regulation. Often characterised as a libertarian crowd, Silicon Valley leaders used to be vehemently against government involvement. Written in 1996, John Perry Barlow’s Declaration of the Independence …
+</blockquote>
+<footer>
+<small>
+By Paul Miller, 414 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://paulmiller.org/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per year.
+Started in <time datetime="2002-08-01">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://mudge.name/">Paul Mucur</a>
+<br>
+“The personal web site of consultant Technical/Engineering Lead Paul Mucur.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-29T10:38:00+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://mudge.name/2023/06/29/weeknotes-103/">Weeknotes #103</a>
+</figcaption>
+<blockquote cite="https://mudge.name/2023/06/29/weeknotes-103/">
+I’m writing these notes from a train on Platform 6 in Leeds station, the second of four trains that will take me to Brighton for tomorrow’s Brighton Ruby conference. To be even more specific, as …
+</blockquote>
+<footer>
+<small>
+336 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://mudge.name/index.atom" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly nine posts per year.
+Started in <time datetime="2011-01-26">2011</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/development/">
+<span itemprop="name">Development</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://paulrobertlloyd.com/articles/">Paul Robert Lloyd · Writing</a>
+<br>
+“Short posts, articles and essays.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T19:30:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://paulrobertlloyd.com/2023/226/a1/italian-railways/">Italian railways</a>
+</figcaption>
+<blockquote cite="https://paulrobertlloyd.com/2023/226/a1/italian-railways/">
+Many mainline stations look like airports thanks to their long departure halls with high ceilings. I’ve found this to be the case at Torino’s Porta Susa and Porta Nova, and thought this to be especially …
+</blockquote>
+<footer>
+<small>
+175 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://paulrobertlloyd.com/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="1999-03-01">1999</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://petafloptimism.com/">Petafloptimism</a>
+<br>
+“A matter of matter battles.”
+By Matt Jones.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-27T16:04:11+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://petafloptimism.com/2023/06/27/electrosheds-workshop-at-aho-may-2023/">Electrosheds workshop at AHO, May 2023</a>
+</figcaption>
+<blockquote cite="https://petafloptimism.com/2023/06/27/electrosheds-workshop-at-aho-may-2023/">
+It was wonderful to be invited back to AHO after such a long time to give a talk (see separate post) and a workshop for the interaction design students. I decided to try a “walkshop” …
+</blockquote>
+<footer>
+<small>
+By moleitau, 1,174 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://petafloptimism.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.peterme.com/">peterme.com</a>
+<br>
+“Thoughts and essays from the guy who coined the word &quot;blog.&quot;.”
+By Peter Merholz.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-01-15T02:17:27+00:00">7 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.peterme.com/2023/01/14/review-of-american-artifact-the-rise-of-american-rock-poster-art/">Review of American Artifact: The Rise of American Rock Poster Art</a>
+</figcaption>
+<blockquote cite="https://www.peterme.com/2023/01/14/review-of-american-artifact-the-rise-of-american-rock-poster-art/">
+American Artifact: The Rise of American Rock Poster Art is an excellent, highly DIY doc. In it, Merle Becker (who has a YouTube channel devoted do DIY video production) follows her passion around the country, …
+</blockquote>
+<footer>
+<small>
+By peterme, 281 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.peterme.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 10 posts per year.
+Started in <time datetime="1998-05-02">1998</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.extua.pw/blog/">Pierre Marshall - Blog</a>
+<br>
+“Some occasional thoughts on politics and tech.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-05-29T00:00:00+00:00">3 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.extua.pw/blog/2023/05/29/SDAJ_summer_camp/">SDAJ summer camp</a>
+</figcaption>
+<blockquote cite="https://www.extua.pw/blog/2023/05/29/SDAJ_summer_camp/">
+I attended the summer camp/festival of the SDAJ in Cologne at the weekend. Due to the distribution of flight routes it was cheaper/easier to fly to Düsseldorf and then to take the train to Cologne. …
+</blockquote>
+<footer>
+<small>
+By Pierre Marshall, 50 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.extua.pw/blog/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 22 posts per year.
+Started in <time datetime="2012-12-07">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://pig-monkey.com/">pig-monkey.com</a>
+<br>
+“Here are recorded many goings and comings, doings and beings; stories, symbols and meanings.”
+By Peter Hogg.
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-24T07:00:00+00:00">3 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://pig-monkey.com/2023/07/link-log-20230724/">Link Log 2023-07-24</a>
+</figcaption>
+<blockquote cite="https://pig-monkey.com/2023/07/link-log-20230724/">
+I’ve seen the future. Apple wasn’t there. Tea as Hepatoprotective Agent: A Revisit The Story of Titanium Plain Text Journaling Anime Architecture The Last Stand
+</blockquote>
+<footer>
+<small>
+By Pig Monkey, 28 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://pig-monkey.com/feed.atom" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2002-10-13">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://piperhaywood.com/">Piper Haywood — If lost, please return</a>
+<br>
+“I’m a web developer with interests in the open web, art, ethics, and many other things. This is my notebook.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-27T18:59:12+00:00">2 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://piperhaywood.com/family-recipe-for-classic-white-frosting/">Family recipe for classic white frosting</a>
+</figcaption>
+<blockquote cite="https://piperhaywood.com/family-recipe-for-classic-white-frosting/">
+This is my Grandma Piper’s classic white frosting recipe that she always used on the family recipe for white layer cake. Her notes: “This frosting is super. It never hardens on the cake. BUT, it …
+</blockquote>
+<footer>
+<small>
+By Piper Haywood, 307 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://piperhaywood.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+Started in <time datetime="2014-06-04">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://pixelesque.net/blog/">pixelesque.net Blog</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="New Zealand" title="New Zealand">🇳🇿</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-10T08:00:00+00:00">6 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://pixelesque.net/blog/2023/08/basic-apple-m2-pro-cpu-benchmarks/">Basic Apple M2 Pro CPU Benchmarks</a>
+</figcaption>
+<blockquote cite="https://pixelesque.net/blog/2023/08/basic-apple-m2-pro-cpu-benchmarks/">
+This month I bought and received a new Apple MacBook Pro (M2 Pro, 14-inch, 2023) with the aim of replacing my own Apple MacBook Pro 15-inch (Intel) 2015 model which I bought in 2016. The …
+</blockquote>
+<footer>
+<small>
+1,251 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://pixelesque.net/blog/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per year.
+Started in <time datetime="2012-05-14">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/graphics/">
+<span itemprop="name">Graphics</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://plasticbag.org/">plasticbag.org – by Tom Coates – established 1999</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2022-12-18T19:07:08+00:00">8 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="http://plasticbag.org/archives/2022/12/how-to-find-me-off-twitter-com/">How to find me off Twitter.com</a>
+</figcaption>
+<blockquote cite="http://plasticbag.org/archives/2022/12/how-to-find-me-off-twitter-com/">
+Elon Musk’s Twitter in the name of ‘Free Speech’ has just banned anyone mentioning that they have accounts on other platforms – whether that be Truth Social, Facebook, Mastodon or anywhere. This is an unconscionable …
+</blockquote>
+<footer>
+<small>
+By Tom Coates, 393 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="http://plasticbag.org/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per year.
+Started in <time datetime="1999-11-01">1999</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.pnarp.com/">Pnårp’s docile &amp; perfunctory page</a>
+<br>
+By Phillip Norbert Årp.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-06T16:00:00+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href>Playing a katydid like a fiddle</a>
+</figcaption>
+<blockquote cite>
+Pnårp recounts a story of arms and of hammers, of baking soda, and of using a katydid in ways God never imagined.
+</blockquote>
+<footer>
+<small>
+28 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.pnarp.com/all.atom" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per month.
+Started in <time datetime="1999-03-07">1999</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://polytechnic.co.uk/blog/">Polytechnic — Blog</a>
+<br>
+“The personal brain-dump of Garrett Coakley.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-07T08:40:26+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="http://polytechnic.co.uk/blog/2023/08/the-value-of-local/">The value of local</a>
+</figcaption>
+<blockquote cite="http://polytechnic.co.uk/blog/2023/08/the-value-of-local/">
+I&#x27;ve been frequenting my local record shop Truck ever since they opened 12 years ago. Sometimes I have a couple of albums in mind to pick up, but generally I leave it to fate, and …
+</blockquote>
+<footer>
+<small>
+By Garrett Coakley, 193 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://polytechnic.co.uk/blog/rss/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2003-01-27">2003</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://po-ru.com/">po-ru.com</a>
+<br>
+“I am Paul Battley, and this is my website.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T15:00:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://po-ru.com/2023/08/15/week-136-new-eyes">Week 136: New eyes</a>
+</figcaption>
+<blockquote cite="https://po-ru.com/2023/08/15/week-136-new-eyes">
+My new glasses and prescription sunglasses were ready, as were L—’s glasses, so we cycled up to the Barbican to pick them up on Saturday morning. Being able to see is expensive, but useful. I’ve …
+</blockquote>
+<footer>
+<small>
+421 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://po-ru.com/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2002-04-21">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://postbureaucrat.com/">Postbureaucrat - Home</a>
+<br>
+“Personal blogging by Steph Gray, former digital agency founder and erstwhile bureaucrat.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2022-09-20T08:45:11+00:00">11 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://postbureaucrat.com/2022/09/20/a-few-lessons-learned-from-tracking-the-queue/">A few lessons learned from tracking The Queue</a>
+</figcaption>
+<blockquote cite="https://postbureaucrat.com/2022/09/20/a-few-lessons-learned-from-tracking-the-queue/">
+Just over a week ago, I got a call from a friend at DCMS asking for ideas on how they might help people to find the end of the queue for Her Majesty the Queen’s …
+</blockquote>
+<footer>
+<small>
+By Steph Gray, 1,255 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://postbureaucrat.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per year.
+Started in <time datetime="2008-06-07">2008</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=10" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Goto Page 2">2</a>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link">…</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=9" aria-label="Goto Page 9">9</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=10" aria-label="Goto Page 10">10</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 11" aria-current="true">11</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=12" aria-label="Goto Page 12">12</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=13" aria-label="Goto Page 13">13</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=14" aria-label="Goto Page 14">14</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=15" aria-label="Goto Page 15">15</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=16" aria-label="Goto Page 16">16</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=12" aria-label="Next page"><span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p><a href="/suggest/?c=2">Suggest a blog for this category</a></p>
+</aside>
+<aside class="aside">
+<h1>Feeds of blogs in this category</h1>
+<ul class="list--unstyled">
+<li class="icon icon--opml util-mb-0">
+<a href="/feeds/cats/n7yp7q/opml/personal.xml" title="OPML file">OPML file</a><br>
+For downloading and importing into your feed&nbsp;reader
+</li>
+<li class="icon icon--rss util-mb-0">
+<a href="/feeds/cats/n7yp7q/rss/personal.xml" title="RSS feed">RSS feed</a><br>
+For following new&nbsp;additions
+</li>
+</ul>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+</body>
+</html>

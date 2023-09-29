@@ -1,0 +1,1206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of blogs about Personal blogs"><meta name="keywords" content="Personal blogs, blogs, weblogs"><title>Personal blogs, page 7 (ooh.directory)</title><meta property="og:title" content="Personal blogs, page 7 (ooh.directory)"><meta property="og:url" content="https://ooh.directory/blogs/personal/?p=7"><meta property="og:description" content="A collection of blogs about Personal blogs"><meta property="og:image" content="https://ooh.directory/media/categories/n7yp7q/icon_rectangle.png"><meta property="og:image:secure_url" content="https://ooh.directory/media/categories/n7yp7q/icon_rectangle.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Personal blogs, page 7 (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/blogs/personal/?p=7"><meta name="twitter:description" content="A collection of blogs about Personal blogs"><meta name="twitter:image" content="https://ooh.directory/media/categories/n7yp7q/icon_rectangle.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+<link rel="alternate" type="application/rss+xml" title="The most recently added blogs in Personal blogs" href="/feeds/cats/n7yp7q/rss/personal.xml">
+<link rel="alternate" type="application/xml" title="OPML file of blogs in Personal blogs" href="/feeds/cats/n7yp7q/opml/personal.xml">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Personal blogs</span>
+</span>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead pagehead--emoji">
+<span class="emoji" aria-hidden="true">😀</span>
+<h1 class="pagehead__title">
+<span class="pagehead__title__intro">&nbsp;</span>
+Personal blogs
+</h1>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_updated">
+Last updated
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_updated" name="updated">
+<option value selected>any time</option>
+<option value="week">in the past week</option>
+<option value="month">in the past month</option>
+<option value="year">in the past year</option>
+</select>
+</div>
+</div>
+<div class="form__group">
+<label class="form__label" for="id_country">
+From
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_country" name="country">
+<option value selected>any country</option>
+<option value="AU">Australia</option>
+<option value="KH">Cambodia</option>
+<option value="CA">Canada</option>
+<option value="CN">China</option>
+<option value="FR">France</option>
+<option value="DE">Germany</option>
+<option value="GR">Greece</option>
+<option value="HU">Hungary</option>
+<option value="IE">Ireland</option>
+<option value="IT">Italy</option>
+<option value="NL">Netherlands</option>
+<option value="NZ">New Zealand</option>
+<option value="NO">Norway</option>
+<option value="PH">Philippines</option>
+<option value="PL">Poland</option>
+<option value="SG">Singapore</option>
+<option value="ES">Spain</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="TR">Türkiye</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States of America</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+<p>
+304 blogs
+in Personal blogs.
+Page 7 of 16.
+</p>
+</div>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=6" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Goto Page 2">2</a>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link">…</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=5" aria-label="Goto Page 5">5</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=6" aria-label="Goto Page 6">6</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 7" aria-current="true">7</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=8" aria-label="Goto Page 8">8</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=9" aria-label="Goto Page 9">9</a>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link">…</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=15" aria-label="Goto Page 15">15</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=16" aria-label="Goto Page 16">16</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=8" aria-label="Next page"><span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+<ol class="websites">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.jeansnow.net/">Jean Snow [.net] – Blogging since 1998</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="China" title="China">🇨🇳</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-14T05:26:48+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.jeansnow.net/2023/07/14/like-its-1983/">Like it’s 1983</a>
+</figcaption>
+<blockquote cite="https://www.jeansnow.net/2023/07/14/like-its-1983/">
+My latest year-based movie marathon (following 1967, 1968, 1977, 1978, 1980, 1981, 1982, 1985, 1986, 1987, 1988, 1989, 1990, 1991, and 1992) is done and dusted, this time for 1983. I capped it at twenty-five, …
+</blockquote>
+<footer>
+<small>
+By Jean Snow, 209 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.jeansnow.net/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly seven posts per year.
+Started in <time datetime="2002-09-04">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.jemjabella.co.uk/">Jem – UK blogger - Developer - Entrepeneur</a>
+<br>
+“Web developer &amp; work at home mama Jem’s personal UK lifestyle blog on family, fitness &amp; work.”
+By Jem Turner.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-03T13:51:21+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.jemjabella.co.uk/2023/40tbif-i-completed-number-5/">40TBIF: I completed number 5!</a>
+</figcaption>
+<blockquote cite="https://www.jemjabella.co.uk/2023/40tbif-i-completed-number-5/">
+After posting in April about me undertaking a new “40 things before I’m forty” challenge, I’ve finally got started on the list, ticking off number 5 – Compete in a powerlifting competition – at the …
+</blockquote>
+<footer>
+<small>
+By Jem, 73 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.jemjabella.co.uk/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly nine posts per year.
+Started in <time datetime="2014-07-09">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://jennifermillsnews.tumblr.com/">Jennifer Mills News</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-11T11:18:13+00:00">5 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://jennifermillsnews.tumblr.com/post/725355272410972160">2023-08-11 11:18</a>
+</figcaption>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://jennifermillsnews.tumblr.com/rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2002-09-13">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.jeremiahlee.com/">Jeremiah Lee</a>
+<br>
+“I work in tech, fight for digital rights and the environment, kiss dudes, cycle, lift heavy things, and don’t eat animals.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Sweden" title="Sweden">🇸🇪</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-04-27T13:30:00+00:00">4 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.jeremiahlee.com/posts/leaf-computing/">Introducing Leaf Computing</a>
+</figcaption>
+<blockquote cite="https://www.jeremiahlee.com/posts/leaf-computing/">
+The leaf software architecture keeps users in control with local execution and data storage, autonomous functionality, and federated interoperability.
+</blockquote>
+<footer>
+<small>
+22 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.jeremiahlee.com/feeds/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 13 posts per year.
+Started in <time datetime="2002-02-28">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://jeremybaker.nz">Jeremy Baker</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="New Zealand" title="New Zealand">🇳🇿</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T08:28:57+00:00">6 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.jeremybaker.nz/2023/08/16/dinner-with-bill.html">2023-08-16 08:28</a>
+</figcaption>
+<blockquote cite="https://www.jeremybaker.nz/2023/08/16/dinner-with-bill.html">
+Dinner with Bill at L’Houstalet restaurant, Port Vila, Vanuatu 🇻🇺
+</blockquote>
+<footer>
+<small>
+10 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.jeremybaker.nz/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2017-07-16">2017</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://jimmeruk.com/">JimmerUK.com - Home</a>
+<br>
+“I do photoshops. I do words. I do other stuff.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-03-17T17:24:44+00:00">5 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://jimmeruk.com/words/the-mcdonalds-fries-theorum/">The McDonald’s Fries Theorum</a>
+</figcaption>
+<blockquote cite="https://jimmeruk.com/words/the-mcdonalds-fries-theorum/">
+As a family, we don’t get McDonald’s that often, mainly because I think it’s shit and there are better life choices to be made, but occasionally it will magically appear at our door, often when …
+</blockquote>
+<footer>
+<small>
+By Everyone&#x27;s Favourite Jim, 765 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://jimmeruk.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per year.
+Started in <time datetime="2017-05-03">2017</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/images/">
+<span itemprop="name">Images</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.jimmybramlett.com">JimmyBramlett Dot Com</a>
+<br>
+“This Site Is a Mess And So Am I.”
+By Jimmy Bramlett.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-22T02:37:06+00:00">a month ago</time>
+<span class="emoji text-warning">⚠️️</span>
+</summary>
+<div class="website__details__body">
+<p class="util-mh-3 text-warning">Still trying to fetch this feed, but last time we got ‘Not found’.</p>
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.jimmybramlett.com/2023/06/21/solstice/">Solstice!</a>
+</figcaption>
+<blockquote cite="https://www.jimmybramlett.com/2023/06/21/solstice/">
+On this, the longest day of the year, I’m feeling a little hopeful. I’ve spent the last few months trying to reprogram myself taking little minute baby steps to trying to feel something close to …
+</blockquote>
+<footer>
+<small>
+By jimmy, 124 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.jimmybramlett.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.joehxblog.com/">JoeHx Blog</a>
+<br>
+“Writing What I Want.”
+By Joseph Hendrix.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-06T00:00:00+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.joehxblog.com/july-2023-book-reading-list/">July 2023 Book Reading List</a>
+</figcaption>
+<blockquote cite="https://www.joehxblog.com/july-2023-book-reading-list/">
+More and more my son is reading on his own. And my daughter is trying to mimic her older brother and “read” on her own, too. Which means I read less and less to them. …
+</blockquote>
+<footer>
+<small>
+By JoeHx, 277 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.joehxblog.com/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per month.
+Started in <time datetime="2009-02-21">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.joelotter.com/">Joel Auterson</a>
+<br>
+“I&#x27;m a software developer.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-03-10T17:43:55+00:00">5 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.joelotter.com/posts/2023/03/indieweb/">On POSSE and IndieWeb</a>
+</figcaption>
+<blockquote cite="https://www.joelotter.com/posts/2023/03/indieweb/">
+I’ve gone down into the depths these last couple of weeks with IndieWeb, POSSE and a whole bunch of other arcane terminology. Now that I’ve come up for air, let’s chat about it.
+</blockquote>
+<footer>
+<small>
+37 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.joelotter.com/posts/index.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per year.
+Started in <time datetime="2013-05-19">2013</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.hyperorg.com/blogger/">Joho the Blog</a>
+<br>
+“David Weinberger&#x27;s blog. Let&#x27;s just see what happens - Tagline (c) 1999.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-05T14:31:31+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.hyperorg.com/blogger/2023/08/05/wine-and-mortification/">Wine and mortification</a>
+</figcaption>
+<blockquote cite="https://www.hyperorg.com/blogger/2023/08/05/wine-and-mortification/">
+Years ago I was out for dinner with the trade show crew of the company I worked for. The company was paying, so we went to a pretty nice Italian restaurant — nice enough that …
+</blockquote>
+<footer>
+<small>
+By davidw, 59 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.hyperorg.com/blogger/feed/atom/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+Started in <time datetime="2001-11-15">2001</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.jonathancrowe.net/">Jonathan Crowe</a>
+<br>
+“Map blogger. Science fiction and fantasy critic and writer. Snake whisperer.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T01:33:47+00:00">13 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.jonathancrowe.net/2023/08/classical-musics-carbon-footprint/">Classical Music’s Carbon Footprint</a>
+</figcaption>
+<blockquote cite="https://www.jonathancrowe.net/2023/08/classical-musics-carbon-footprint/">
+In a TEDx talk done online during the pandemic, Ottawa pianist and music professor Carson Becke argues that the best way to reduce classical music industry’s carbon footprint isn’t to eliminate paper programs, it’s to …
+</blockquote>
+<footer>
+<small>
+By Jonathan Crowe, 104 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.jonathancrowe.net/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 17 posts per year.
+Started in <time datetime="2001-07-14">2001</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://bofh.org.uk/">Just a Summary</a>
+<br>
+“Piers Cawley practices punditry.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T09:02:00+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://bofh.org.uk/2023/08/14/week-note/?utm_source=atom_feed">Week ending 2023-08-13</a>
+</figcaption>
+<blockquote cite="https://bofh.org.uk/2023/08/14/week-note/?utm_source=atom_feed">
+Oops, missed a week; seems I didn’t have anything interesting to say, or I was too busy doing stuff to write about it. Probably the former. Not a bad week, this week. My step daughter …
+</blockquote>
+<footer>
+<small>
+By Piers Cawley, 1,070 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://bofh.org.uk/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly seven posts per year.
+Started in <time datetime="2003-07-17">2003</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://links.net/">justin&#x27;s links</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2021-04-21T01:03:26+00:00">2 years ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="http://links.net/daze/21/04/20-zen-web-masters-interviews-an-old-human-bud-experiment.html">Zen Web Masters interviews an old human bud experiment</a>
+</figcaption>
+<blockquote cite="http://links.net/daze/21/04/20-zen-web-masters-interviews-an-old-human-bud-experiment.html">
+Why are you here? If you come here for cool links on the web, not so many these days. My cool links are building bud.com. I was interviewed about our work in weed tech by …
+</blockquote>
+<footer>
+<small>
+By Justin, 225 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://links.net/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="1996-01-10">1996</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.jwz.org/blog/">jwz</a>
+<br>
+By Jamie Zawinski.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T05:54:56+00:00">9 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.jwz.org/blog/2023/08/covid-ctf/">COVID CTF</a>
+</figcaption>
+<blockquote cite="https://www.jwz.org/blog/2023/08/covid-ctf/">
+This just in from the second annual DEFCON superspreader:
+</blockquote>
+<footer>
+<small>
+By jwz, 11 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://cdn.jwz.org/blog/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per day.
+Started in <time datetime="2002-04-03">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://kelake.org/">Kelake</a>
+<br>
+“Clark MacLeod&#x27;s banal weblog.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-29T13:43:33+00:00">2 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://kelake.org/living-in-taiwan/catriona-in-taiwan/">Catriona in Taiwan</a>
+</figcaption>
+<blockquote cite="https://kelake.org/living-in-taiwan/catriona-in-taiwan/">
+Catriona has been in Taiwan this past week or so, living her best life. She has always considered Taiwan her home, so this is a homecoming for her, with lots of time spent with friends, …
+</blockquote>
+<footer>
+<small>
+By kelake, 179 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://kelake.org/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+Started in <time datetime="2001-10-02">2001</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://laughingmeme.org/">Kellan Elliott-McCrea: Blog</a>
+<br>
+“A personal blog of Kellan Elliott-McCrea. I don’t really know what a “laughing meme” is. It sounded cool in 1999.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-01-29T12:26:30+00:00">7 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://laughingmeme.org//2023/01/29/software-and-its-discontents-part-3-the-magic.html">Software and its Discontents, Part 3: Rising Cost and Elusive Success</a>
+</figcaption>
+<blockquote cite="https://laughingmeme.org//2023/01/29/software-and-its-discontents-part-3-the-magic.html">
+This is part 3 in my “Software and its Discontents” series. This series is the product of speaking with a range of folks in the industry over several months about the sense that something about …
+</blockquote>
+<footer>
+<small>
+By Kellan Elliott-McCrea, 1,937 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://laughingmeme.org/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 11 posts per year.
+Started in <time datetime="2002-04-10">2002</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://keningzhu.com/journal">kening zhu — recently</a>
+<br>
+“I make contemplative art about inner worlds — ways of seeing ourselves, and the world around us.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Türkiye" title="Türkiye">🇹🇷</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-11T10:22:54+00:00">5 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://keningzhu.com/journal/the-feeling-of-interboob-sweat">the feeling of interboob sweat</a>
+</figcaption>
+<blockquote cite="https://keningzhu.com/journal/the-feeling-of-interboob-sweat">
+love-hate summer diaries, #3can’t decide if i love or hate this feeling - both. i’m truly not a big sweater, but when i feel the interboob sweat happening it’s like a vertical highway-waterfall. there is …
+</blockquote>
+<footer>
+<small>
+By Kening Zhu, 85 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://keningzhu.com/journal?format=rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per week.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://kevinspencer.org/posts">kevin spencer</a>
+<br>
+“into the cauldron, handsome!”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T02:40:13+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://kevinspencer.org/posts/2023/08/4514/">2023-08-15 02:40</a>
+</figcaption>
+<blockquote cite="https://kevinspencer.org/posts/2023/08/4514/">
+Behold, the winds of the North Pole blow once more. A fixed desert AC unit a joy.
+</blockquote>
+<footer>
+<small>
+By kevin, 17 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://kevinspencer.org/posts/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per week.
+Started in <time datetime="2011-11-28">2011</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://george08.blogspot.com/">kewlchops</a>
+<br>
+“George Oates&#x27;s personal blog. Enjoy! Tell your mum.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-03-21T11:34:00+00:00">5 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://george08.blogspot.com/2023/03/see-if-you-can-tell.html">See if you can tell</a>
+</figcaption>
+<blockquote cite="http://george08.blogspot.com/2023/03/see-if-you-can-tell.html">
+It&#x27;s hard to believe that it&#x27;s been 20 years since I left Australia. It feels like a lifetime ago, yet the memories of that time are still vivid in my mind. When I decided to …
+</blockquote>
+<footer>
+<small>
+By george, 81 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://george08.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per year.
+Started in <time datetime="2003-08-16">2003</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.kaa.bz">Khaled Abou Alfa</a>
+<br>
+“I’m Khaled Abou Alfa, a Chartered Engineer living in Toronto.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T13:10:34+00:00">2 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.kaa.bz/2023/08/14/coffee-edition.html">Coffee / 2023 Edition</a>
+</figcaption>
+<blockquote cite="https://www.kaa.bz/2023/08/14/coffee-edition.html">
+Over the last few weeks, I’ve had the ability to lean into several of my hobbies. I bought Jame Hoffman’s book How to make the best coffee at home, which is essential reading for anyone …
+</blockquote>
+<footer>
+<small>
+353 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.kaa.bz/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly seven posts per week.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/personal/">
+<span itemprop="name">Personal blogs</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=6" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Goto Page 2">2</a>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link">…</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=5" aria-label="Goto Page 5">5</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=6" aria-label="Goto Page 6">6</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 7" aria-current="true">7</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=8" aria-label="Goto Page 8">8</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=9" aria-label="Goto Page 9">9</a>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link">…</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=15" aria-label="Goto Page 15">15</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=16" aria-label="Goto Page 16">16</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=8" aria-label="Next page"><span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p><a href="/suggest/?c=2">Suggest a blog for this category</a></p>
+</aside>
+<aside class="aside">
+<h1>Feeds of blogs in this category</h1>
+<ul class="list--unstyled">
+<li class="icon icon--opml util-mb-0">
+<a href="/feeds/cats/n7yp7q/opml/personal.xml" title="OPML file">OPML file</a><br>
+For downloading and importing into your feed&nbsp;reader
+</li>
+<li class="icon icon--rss util-mb-0">
+<a href="/feeds/cats/n7yp7q/rss/personal.xml" title="RSS feed">RSS feed</a><br>
+For following new&nbsp;additions
+</li>
+</ul>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+</body>
+</html>

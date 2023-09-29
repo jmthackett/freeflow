@@ -1,0 +1,1048 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of blogs about Design"><meta name="keywords" content="Design, Book design, Data visualization, Digital design, Typography, blogs, weblogs"><title>Blogs about Design, page 2 (ooh.directory)</title><meta property="og:title" content="Blogs about Design, page 2 (ooh.directory)"><meta property="og:url" content="https://ooh.directory/blogs/arts/design/?p=2"><meta property="og:description" content="A collection of blogs about Design"><meta property="og:image" content="https://ooh.directory/media/categories/m7re8n/icon_rectangle.png"><meta property="og:image:secure_url" content="https://ooh.directory/media/categories/m7re8n/icon_rectangle.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Blogs about Design, page 2 (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/blogs/arts/design/?p=2"><meta name="twitter:description" content="A collection of blogs about Design"><meta name="twitter:image" content="https://ooh.directory/media/categories/m7re8n/icon_rectangle.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+<link rel="alternate" type="application/rss+xml" title="The most recently added blogs in Design" href="/feeds/cats/m7re8n/rss/design.xml">
+<link rel="alternate" type="application/xml" title="OPML file of blogs in Design" href="/feeds/cats/m7re8n/opml/design.xml">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Design</span>
+</span>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead pagehead--emoji">
+<span class="emoji" aria-hidden="true">✏️</span>
+<h1 class="pagehead__title">
+<span class="pagehead__title__intro">Blogs about</span>
+Design
+</h1>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+<ol class="categories categories--expanded">
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">📘</span>
+<span class="categories__item__body">
+<a href="/blogs/arts/design/book-design/">Book design</a>
+<small>(4)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">📊</span>
+<span class="categories__item__body">
+<a href="/blogs/arts/design/data-visualization/">Data visualization</a>
+<small>(5)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🖥️</span>
+<span class="categories__item__body">
+<a href="/blogs/arts/design/digital-design/">Digital design</a>
+<small>(8)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">Ⓜ️</span>
+<span class="categories__item__body">
+<a href="/blogs/arts/design/typography/">Typography</a>
+<small>(7)</small>
+</span>
+</li>
+</ol>
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro text-intro--bordered">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_updated">
+Last updated
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_updated" name="updated">
+<option value selected>any time</option>
+<option value="week">in the past week</option>
+<option value="month">in the past month</option>
+<option value="year">in the past year</option>
+</select>
+</div>
+</div>
+<div class="form__group">
+<label class="form__label" for="id_country">
+From
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_country" name="country">
+<option value selected>any country</option>
+<option value="AU">Australia</option>
+<option value="BE">Belgium</option>
+<option value="BR">Brazil</option>
+<option value="CA">Canada</option>
+<option value="FI">Finland</option>
+<option value="DE">Germany</option>
+<option value="JP">Japan</option>
+<option value="ES">Spain</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States of America</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+<p>
+34 blogs
+about Design.
+Page 2 of 2.
+</p>
+</div>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 2" aria-current="true">2</span>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link"><span aria-hidden="true">&rarr;</span></span>
+</li>
+</ul>
+</nav>
+<ol class="websites">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://blog.pablolarah.cl/">Pablo Lara H</a>
+<img src="/static/oohdir/img/new.gif" class="util-img-crisp" alt="NEW" width="31" height="12">
+<br>
+“Personal blog of the Illustrator, Photographer and Web Designer Pablo Lara H.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Brazil" title="Brazil">🇧🇷</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-04-25T23:38:00+00:00">4 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="http://blog.pablolarah.cl/2023/04/free-wes-anderson-asteroid-city.html">Free Wes Anderson Asteroid City Inspired LUTs</a>
+</figcaption>
+<blockquote cite="http://blog.pablolarah.cl/2023/04/free-wes-anderson-asteroid-city.html">
+LUTs everywhere! Immediately upon watching the trailer of the Wes Anderson&#x27;s Asteroid City I thought two things: 1.- Color Palettes: Which I already made here https://blog.pablolarah.cl/2023/03/wes-andersons-asteroid-city-color.html 2.- Colorgrading. I rewatched the videos about the Wes …
+</blockquote>
+<footer>
+<small>
+By Pablo Lara H, 1,111 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://blog.pablolarah.cl/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2009-06-08">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/illustration/">
+<span itemprop="name">Illustration</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.petermerholz.com/blog/">Peter Merholz</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-02-01T19:02:30+00:00">6 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.petermerholz.com/blog/metrics-and-ux-design-maturity/">Metrics and UX/Design Maturity</a>
+</figcaption>
+<blockquote cite="https://www.petermerholz.com/blog/metrics-and-ux-design-maturity/">
+A common challenge for the design leaders I support is identifying metrics. They know their team is having a positive impact, but struggle articulating it in any concrete way. They seek canonical, industry-standard metrics that …
+</blockquote>
+<footer>
+<small>
+By Peter Merholz, 545 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.petermerholz.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per year.
+Started in <time datetime="2020-12-03">2020</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/economics/" title="Economics and business">
+<span itemprop="name">Economics &amp; business</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/economics/business/">
+<span itemprop="name">Business</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/economics/business/management/">
+<span itemprop="name">Management</span>
+</a>
+<meta itemprop="position" content="4" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.presentandcorrect.com/blogs/blog">Present &amp; Correct</a>
+<br>
+“Sundries for the modern workspace.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T19:54:58+00:00">19 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.presentandcorrect.com/blogs/blog/cut-make">Cut &amp; Make.</a>
+</figcaption>
+<blockquote cite="https://www.presentandcorrect.com/blogs/blog/cut-make">
+Cut out &amp; make 1960s Subaru cars from Japan. Via.
+</blockquote>
+<footer>
+<small>
+By Neal Whittington, 13 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.presentandcorrect.com/blogs/blog.atom" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2012-01-27">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://sb129.com/">SB129</a>
+<br>
+By Matt Ward.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2021-09-21T11:00:41+00:00">a year ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://sb129.com/2021/09/21/nine-brains-and-three-hearts/">Nine brains and three hearts</a>
+</figcaption>
+<blockquote cite="https://sb129.com/2021/09/21/nine-brains-and-three-hearts/">
+[Mr. Bingo, Fuckofftopus] Over the last year I’ve started to feel like an Octopus. This feeling began when I got an eerie sense that part of my brain had been damaged through the isolation of …
+</blockquote>
+<footer>
+<small>
+By mattward, 501 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://sb129.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2012-03-14">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://scottboms.com/documenting/">Scott Boms | Documenting</a>
+<br>
+“The personal notebook and portfolio of graphic designer and printmaker Scott Boms.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T05:00:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://scottboms.com/documenting/something-altogether-different-from-the-ordinary">Something Altogether Different from the Ordinary</a>
+</figcaption>
+<blockquote cite="https://scottboms.com/documenting/something-altogether-different-from-the-ordinary">
+In creative work… creative work of all kinds… those who are the world’s working artists are not trying to help the world go around, but forward. Which is something altogether different from the ordinary. Such …
+</blockquote>
+<footer>
+<small>
+77 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://scottboms.com/rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://smithery.com/blog/">Smithery – Blog</a>
+<br>
+“Posts and observations from Smithery, a Strategic Design Unit who help companies &#x27;Make Things People Want, not Make People Want Things&#x27;.”
+By John V Willshire.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-03T15:28:25+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://smithery.com/2023/08/03/the-crisis-of-discovery/">The Crisis of Discovery</a>
+</figcaption>
+<blockquote cite="https://smithery.com/2023/08/03/the-crisis-of-discovery/">
+Sometimes a phrase pops. You drop everything, because those words suddenly make the world make more sense; the background interference that’s been nagging at your subconscious resolves to something more intelligible. Today, it’s this from …
+</blockquote>
+<footer>
+<small>
+By John V Willshire, 521 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://smithery.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+Started in <time datetime="2008-03-13">2008</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://imjustcreative.com/blog">Smithographic℠ | Blog</a>
+<br>
+“Logo Designer &amp; Digital Design Studio.”
+By Graham Smith.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-01-26T10:06:21+00:00">7 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://imjustcreative.com/letter-m-logo-for-sale/2023/01/26">Letter M Logo for Sale designed by Smithographic℠</a>
+</figcaption>
+<blockquote cite="https://imjustcreative.com/letter-m-logo-for-sale/2023/01/26">
+The post Letter M Logo for Sale designed by Smithographic℠ appeared first on Smithographic℠ All Original Content © 1996 – 2022 Smithographic.uk | Initial M / Letter M Logo Design Details The cost for this …
+</blockquote>
+<footer>
+<small>
+By Smithographic, 746 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://imjustcreative.com/feed" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2019-10-11">2019</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.spongefile.com/">Spongefile</a>
+<br>
+“Deep dives with simple explanations.”
+By Tina Aspiala.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Finland" title="Finland">🇫🇮</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-01-14T22:59:32+00:00">7 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.spongefile.com/bastl-kastle-v1-5-cheatsheet/">Bastl Kastle 1.5 cheatsheet and guide</a>
+</figcaption>
+<blockquote cite="https://www.spongefile.com/bastl-kastle-v1-5-cheatsheet/">
+Alternative panel for the Bastl Kastle (MODE and BIT IN references could be on the side panels)The Kastle is a complex oscillator that fits in the palm of your hand and can connect to a …
+</blockquote>
+<footer>
+<small>
+By Tina Aspiala, 1,081 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.spongefile.com/rss/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly five posts per year.
+Started in <time datetime="2018-11-26">2018</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/music/">
+<span itemprop="name">Music</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.spoon-tamago.com/">Spoon &amp; Tamago</a>
+<br>
+“japanese art, design and culture.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Japan" title="Japan">🇯🇵</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-10T18:09:58+00:00">5 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.spoon-tamago.com/tsuginote-wood-joinery-tea-house/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tsuginote-wood-joinery-tea-house">3D Printing and Traditional Wood Joinery Techniques Give Life to the Tsuginote Tea House</a>
+</figcaption>
+<blockquote cite="https://www.spoon-tamago.com/tsuginote-wood-joinery-tea-house/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tsuginote-wood-joinery-tea-house">
+all photos by Eiichi Yoshioka courtesy Kei Atsumi Japanese wood joinery dates back to the seventh century and is a craftsmanship technique that involves complicated, interlocking wooden joints that form bonds without the use of …
+</blockquote>
+<footer>
+<small>
+By Johnny, 99 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.spoon-tamago.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2007-07-29">2007</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/architecture/">
+<span itemprop="name">Architecture</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.swiss-miss.com/">swissmiss</a>
+<br>
+“swissmiss is a design blog and studio run by Tina Roth Eisenberg, a &#x27;swiss designer gone NYC&#x27;.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-11T14:16:30+00:00">5 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.swiss-miss.com/2023/08/brett-perry.html">Brett Perry</a>
+</figcaption>
+<blockquote cite="https://www.swiss-miss.com/2023/08/brett-perry.html">
+I had a pretty exciting week and met a bunch of super interesting humans this past Monday at an exclusively curated salon in SF. One of the fine humans at this gathering was Brett Perry: …
+</blockquote>
+<footer>
+<small>
+By swissmiss, 92 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.swiss-miss.com/feed" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per week.
+Started in <time datetime="2012-05-01">2012</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://thettablog.blogspot.com/">The TTABlog®</a>
+<br>
+“Keeping Tabs on the TTAB®.”
+By John L. Welch.
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T11:03:00+00:00">4 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://thettablog.blogspot.com/2023/08/cafc-sends-another-flex-decision-back.html">CAFC Sends Another &quot;FLEX&quot; Decision Back to the Board to Re-Consider Strength-of-Mark Analysis</a>
+</figcaption>
+<blockquote cite="http://thettablog.blogspot.com/2023/08/cafc-sends-another-flex-decision-back.html">
+In a non-precedential opinion, the CAFC affirmed-in-part, reversed-in-part, and remanded the Board&#x27;s decision [here] sustaining an opposition to registration of Applicant Bad Elf&#x27;s mark FLEX for &quot;Global positioning system (GPS) apparatus; Global positioning system (GPS) …
+</blockquote>
+<footer>
+<small>
+471 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://thettablog.blogspot.com/feeds/posts/default" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly five posts per week.
+Started in <time datetime="2004-11-08">2004</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/politics/" title="Government, politics and law">
+<span itemprop="name">Government, politics &amp; law</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/politics/government/">
+<span itemprop="name">Government</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://veerle.duoh.com/design">Veerle&#x27;s Blog 4.0 | Design Homepage</a>
+<br>
+“I&#x27;m a graphic/web designer living in Belgium.”
+By Veerle Pieters.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Belgium" title="Belgium">🇧🇪</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-29T13:00:00+00:00">2 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://veerle.duoh.com/design/how-to-quickly-resize-entire-page-layouts-in-adobe-indesign">How to quickly resize entire page layouts in Adobe InDesign</a>
+</figcaption>
+<blockquote cite="https://veerle.duoh.com/design/how-to-quickly-resize-entire-page-layouts-in-adobe-indesign">
+Resizing pages while maintaining perfect proportional scaling for the full content in Adobe InDesign might seem mysterious at first. However, there&#x27;s a useful technique that can solve this puzzle—the Page Tool combined with the Liquid …
+</blockquote>
+<footer>
+<small>
+222 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://veerle.duoh.com/design-feed.rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per month.
+Started in <time datetime="2018-08-01">2018</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.wemadethis.co.uk/blog/">We Made This - Blog</a>
+<br>
+“The graphic design studio of Alistair Hall, specialising in thoughtful, simple, beautiful communication.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2022-11-11T09:07:54+00:00">9 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.wemadethis.co.uk/blog/2022/11/creatives-for-change-2022/">Creatives for Change 2022</a>
+</figcaption>
+<blockquote cite="https://www.wemadethis.co.uk/blog/2022/11/creatives-for-change-2022/">
+Creatives for Change is a Manchester-based art collective responding to the biggest challenges of our time by raising money for charity. Using creative skills as a force for good. Each year they set a different …
+</blockquote>
+<footer>
+<small>
+By wemadethis, 260 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.wemadethis.co.uk/blog/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per year.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.yankodesign.com/">Yanko Design</a>
+<br>
+“An online magazine dedicated to covering the best in international product design.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T11:40:05+00:00">3 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.yankodesign.com/2023/08/16/lgs-new-display-concept-blurs-the-lines-between-reel-and-real-even-more-for-gen-z/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lgs-new-display-concept-blurs-the-lines-between-reel-and-real-even-more-for-gen-z">LG’s New Display Concept Blurs the Lines Between Reel and Real Even More for Gen – Z</a>
+</figcaption>
+<blockquote cite="https://www.yankodesign.com/2023/08/16/lgs-new-display-concept-blurs-the-lines-between-reel-and-real-even-more-for-gen-z/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lgs-new-display-concept-blurs-the-lines-between-reel-and-real-even-more-for-gen-z">
+In the ever-evolving landscape of technological innovation, one cannot underestimate the power of collaboration between academia and industry. A prime example of this synergy is the groundbreaking concept design project “Forme,” born from a collaboration …
+</blockquote>
+<footer>
+<small>
+By Tanvi Joshi, 755 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.yankodesign.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly eight posts per day.
+Started in <time datetime="2005-07-19">2005</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/design/">
+<span itemprop="name">Design</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 2" aria-current="true">2</span>
+</li>
+<li class="pagination__item pagination__item--disabled">
+<span class="pagination__link"><span aria-hidden="true">&rarr;</span></span>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p><a href="/suggest/?c=6">Suggest a blog for this category</a></p>
+</aside>
+<aside class="aside">
+<h1>Feeds of blogs in this category</h1>
+<ul class="list--unstyled">
+<li class="icon icon--opml util-mb-0">
+<a href="/feeds/cats/m7re8n/opml/design.xml" title="OPML file">OPML file</a><br>
+For downloading and importing into your feed&nbsp;reader
+</li>
+<li class="icon icon--rss util-mb-0">
+<a href="/feeds/cats/m7re8n/rss/design.xml" title="RSS feed">RSS feed</a><br>
+For following new&nbsp;additions
+</li>
+</ul>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+</body>
+</html>

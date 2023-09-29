@@ -1,0 +1,1232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of blogs about Computers, internet, tech"><meta name="keywords" content="Computers, internet, tech, Apple, Artificial intelligence, Cryptocurrencies, Development, Graphics, Hardware, Internet, VR, AR and virtual worlds, blogs, weblogs"><title>Blogs about Computers, internet, tech, page 3 (ooh.directory)</title><meta property="og:title" content="Blogs about Computers, internet, tech, page 3 (ooh.directory)"><meta property="og:url" content="https://ooh.directory/blogs/technology/?p=3"><meta property="og:description" content="A collection of blogs about Computers, internet, tech"><meta property="og:image" content="https://ooh.directory/media/categories/b7q2w7/icon_rectangle.png"><meta property="og:image:secure_url" content="https://ooh.directory/media/categories/b7q2w7/icon_rectangle.png"><meta property="og:type" content="website"><meta name="twitter:domain" content="ooh.directory"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Blogs about Computers, internet, tech, page 3 (ooh.directory)"><meta name="twitter:url" content="https://ooh.directory/blogs/technology/?p=3"><meta name="twitter:description" content="A collection of blogs about Computers, internet, tech"><meta name="twitter:image" content="https://ooh.directory/media/categories/b7q2w7/icon_rectangle.png"><meta name="twitter:site" content="@OohDirectory">
+<link rel="stylesheet" href="/static/CACHE/css/global.61db3b0c082f.css" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@700&display=block" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/oohdir/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/oohdir/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/oohdir/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/oohdir/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/oohdir/favicons/safari-pinned-tab.svg" color="#e85c3b">
+<link rel="shortcut icon" href="/static/oohdir/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-config" content="/static/oohdir/favicons/browserconfig.xml">
+<meta name="theme-color" content="#fff3f1">
+<link rel="alternate" type="application/rss+xml" title="The most recently added blogs in Computers, internet, tech" href="/feeds/cats/b7q2w7/rss/technology.xml">
+<link rel="alternate" type="application/xml" title="OPML file of blogs in Computers, internet, tech" href="/feeds/cats/b7q2w7/opml/technology.xml">
+</head>
+<body>
+<a class="util-skiplink" href="#main">Skip to content</a>
+<header class="banner">
+<p class="banner__title"><a href="/">
+<span class="banner__title__text"><em>ooh.</em>directory</span>
+</a></p>
+<div class="banner__controls">
+<nav class="banner__nav" aria-label="Site navigation">
+<ul class="banner__nav__list" role="menubar" aria-label="Site navigation">
+<li class="banner__nav__item"><a role="menuitem" href="/suggest/">Suggest</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/blog/">Blog</a></li>
+<li class="banner__nav__item"><a role="menuitem" href="/about/">About</a></li>
+</ul>
+</nav>
+<form class="form form--search form--sm" role="search" action="/search/" method="GET">
+<label for="input-search" class="util-visually-hidden">
+Search for a blog
+</label>
+<div class="form__field">
+<input class="form__field__input" id="input-search" type="search" placeholder="Search…" name="q" value required>
+</div>
+<button class="button" type="submit">
+<span class="util-visually-hidden">Search</span>
+</button>
+</form>
+</div>
+</header>
+<div class="stripe">
+<nav aria-label="breadcrumb" class="breadcrumbs">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/">
+<span itemprop="name">Home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" aria-current="page">
+<span itemprop="item">
+<span itemprop="name">Computers, internet, tech</span>
+</span>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</nav>
+</div>
+<main id="main">
+<div class="grid">
+<header class="grid__single pagehead pagehead--emoji">
+<span class="emoji" aria-hidden="true">🧑‍💻</span>
+<h1 class="pagehead__title">
+<span class="pagehead__title__intro">Blogs about</span>
+Computers, internet, tech
+</h1>
+</header>
+</div>
+<section class="grid">
+<div class="grid__single">
+<ol class="categories categories--expanded categories--columns-2">
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🍎</span>
+<span class="categories__item__body">
+<a href="/blogs/technology/apple/">Apple</a>
+<small>(17)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🧠</span>
+<span class="categories__item__body">
+<a href="/blogs/technology/ai/">Artificial intelligence</a>
+<small>(10)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🤑</span>
+<span class="categories__item__body">
+<a href="/blogs/economics/economics/cryptocurrencies/">Cryptocurrencies</a>
+<span class="emoji">⤴</span>
+<small>(6)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">👩‍💻</span>
+<span class="categories__item__body">
+<a href="/blogs/technology/development/">Development</a>
+<small>(208)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🫖</span>
+<span class="categories__item__body">
+<a href="/blogs/technology/graphics/">Graphics</a>
+<small>(10)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🔌</span>
+<span class="categories__item__body">
+<a href="/blogs/technology/hardware/">Hardware</a>
+<small>(14)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🌐</span>
+<span class="categories__item__body">
+<a href="/blogs/technology/internet/">Internet</a>
+<small>(9)</small>
+</span>
+</li>
+<li class="categories__item">
+<span class="emoji emoji--bullet emoji--xl" aria-hidden="true">🥽</span>
+<span class="categories__item__body">
+<a href="/blogs/technology/vr/">VR, AR and virtual worlds</a>
+<small>(4)</small>
+</span>
+</li>
+</ol>
+</div>
+</section>
+<section class="grid">
+<div class="grid__content">
+<div class="text-intro text-intro--bordered">
+<form action method="get" class="form form--inline form--xs">
+<div class="form__group">
+<label class="form__label" for="id_updated">
+Last updated
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_updated" name="updated">
+<option value selected>any time</option>
+<option value="week">in the past week</option>
+<option value="month">in the past month</option>
+<option value="year">in the past year</option>
+</select>
+</div>
+</div>
+<div class="form__group">
+<label class="form__label" for="id_country">
+From
+<span class="form__label__note">(optional)</span>
+</label>
+<div class="form__field">
+<select class="form__field__input" id="id_country" name="country">
+<option value selected>any country</option>
+<option value="AU">Australia</option>
+<option value="AT">Austria</option>
+<option value="BE">Belgium</option>
+<option value="CA">Canada</option>
+<option value="DE">Germany</option>
+<option value="GR">Greece</option>
+<option value="IT">Italy</option>
+<option value="NL">Netherlands</option>
+<option value="NZ">New Zealand</option>
+<option value="PL">Poland</option>
+<option value="ES">Spain</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States of America</option>
+</select>
+</div>
+</div>
+<div class="form__buttons">
+<button type="submit" class="button button--xs">Filter</button>
+</div>
+</form>
+<p>
+70 blogs
+about Computers, internet, tech.
+Page 3 of 4.
+</p>
+</div>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Goto Page 2">2</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 3" aria-current="true">3</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=4" aria-label="Goto Page 4">4</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=4" aria-label="Next page"><span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+<ol class="websites">
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://mariusmasalar.me/">Marius Masalar</a>
+<br>
+“Homepage and blog of Toronto-based photographer, writer, and composer Marius Masalar. Featuring reviews, commentary, photos, and other updates.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-01-01T05:00:00+00:00">7 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://mariusmasalar.me/are-we-being-good-ancestors">Are we being good ancestors?</a>
+</figcaption>
+<blockquote cite="https://mariusmasalar.me/are-we-being-good-ancestors">
+There’s a question that keeps echoing in my mind: are we being good ancestors? It’s attributed to Jonas Salk, an American virologist who developed one of the first successful polio vaccines. I encountered it months …
+</blockquote>
+<footer>
+<small>
+By Marius Masalar, 157 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://mariusmasalar.me/feed.rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per year.
+Started in <time datetime="2010-06-05">2010</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://matthewbischoff.com">Matthew Bischoff</a>
+<br>
+“They design &amp; develop apps at Lickability and post about tech &amp; culture here.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2022-08-25T19:04:00+00:00">12 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://absolutelycrushed.com">Absolutely Crushed →</a>
+</figcaption>
+<blockquote cite="https://absolutelycrushed.com">
+In more mb-media news: earlier this year I launched a new podcast with my friend Syd Andrerson, called Absolutely Crushed. It’s a bi-weekly comedy interview show in which we gossip with a guest about their …
+</blockquote>
+<footer>
+<small>
+135 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://matthewbischoff.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per year.
+Started in <time datetime="2013-07-26">2013</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://meyerweb.com/">meyerweb.com</a>
+<br>
+“It&#x27;s mostly the personal and professional web site of Eric A. Meyer, which is to say, me who am writing this page.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-20T12:16:06+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://meyerweb.com/eric/thoughts/2023/06/20/first-person-scrollers/">First-Person Scrollers</a>
+</figcaption>
+<blockquote cite="https://meyerweb.com/eric/thoughts/2023/06/20/first-person-scrollers/">
+I’ve played a lot of video games over the years, and the thing that just utterly blows my mind about them is how every frame is painted from scratch. So in a game running at …
+</blockquote>
+<footer>
+<small>
+By Eric Meyer, 698 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://meyerweb.com/eric/thoughts/rss2/full" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 15 posts per year.
+Started in <time datetime="1999-12-06">1999</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://nadia.xyz/">Nadia Asparouhova</a>
+<br>
+“Personal writing, links, and other things by Nadia Asparouhova.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-05-27T00:00:00+00:00">3 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://nadia.xyz/summer-of-protocols-working-notes">Working notes for Summer of Protocols</a>
+</figcaption>
+<blockquote cite="https://nadia.xyz/summer-of-protocols-working-notes">
+I’m participating in the Summer of Protocols research program this summer as a Core Researcher. It’s an 18-week program, funded by the Ethereum Foundation, that aims to catalyze a wider exploration of protocols and their …
+</blockquote>
+<footer>
+<small>
+By Nadia Asparouhova, 4,138 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://nadia.xyz/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per year.
+Started in <time datetime="2014-03-26">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://new-aesthetic.tumblr.com/">The New Aesthetic</a>
+<br>
+By James Bridle.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Greece" title="Greece">🇬🇷</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-11T08:41:41+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://new-aesthetic.tumblr.com/post/722536918025420800">Grumpy Locals Are Sabotaging Cruise and Waymo Robotaxis With Traffic Cones</a>
+</figcaption>
+<blockquote cite="https://new-aesthetic.tumblr.com/post/722536918025420800">
+Grumpy Locals Are Sabotaging Cruise and Waymo Robotaxis With Traffic Cones
+</blockquote>
+<footer>
+<small>
+22 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://new-aesthetic.tumblr.com/rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 11 posts per year.
+Started in <time datetime="2011-05-06">2011</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.nextbigfuture.com/">NextBigFuture.com</a>
+<br>
+“Coverage of Disruptive Science and Technology.”
+By Brian Wang.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T17:51:09+00:00">21 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.nextbigfuture.com/2023/08/sandy-munro-describes-tesla-technological-lead-and-speed-of-innovation.html">Sandy Munro Describes Tesla Technological Lead and Speed of Innovation</a>
+</figcaption>
+<blockquote cite="https://www.nextbigfuture.com/2023/08/sandy-munro-describes-tesla-technological-lead-and-speed-of-innovation.html">
+Sandy Munro takes apart all of the leading cars in the world and analyzes costs and technological from the materials and components. He describes in this interview how Tesla achieved dominance in all drivetrain and …
+</blockquote>
+<footer>
+<small>
+By Brian Wang, 68 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.nextbigfuture.com/feed" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per day.
+Started in <time datetime="1999-07-25">1999</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.masswerk.at/nowgobang/">Now Go Bang! – mass:werk blog</a>
+<br>
+By Norbert Landsteiner.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Austria" title="Austria">🇦🇹</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-03T23:30:00+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.masswerk.at/nowgobang/2023/pet-keys-2001-edition">PET Keys — Series 2001 Edition</a>
+</figcaption>
+<blockquote cite="https://www.masswerk.at/nowgobang/2023/pet-keys-2001-edition">
+A closer inspection of the keyboard(s) of the PET 2001. Where we investigate the PET keyboard, have a closer look at the keyboard matrix of the various layouts found on the PET 2001 and later …
+</blockquote>
+<footer>
+<small>
+54 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.masswerk.at/nowgobang/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per year.
+Started in <time datetime="2018-07-18">2018</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://nyanpasu64.gitlab.io/">nyanpasu64&#x27;s blog | Home</a>
+<br>
+“Adventures in programming, hardware, DSP, and chiptune.”
+<span class="text-nobr">
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-07-04T07:50:28+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/">Diagnosing video signal loss on Wii and GBS-Control</a>
+</figcaption>
+<blockquote cite="https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/">
+Last year I bought a GBS-Control to upscale and transcode game consoles for a VGA CRT monitor, and have been using and developing for it since. A few months ago, while playing my Wii in …
+</blockquote>
+<footer>
+<small>
+By nyanpasu64, 91 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://nyanpasu64.gitlab.io/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly six posts per year.
+Started in <time datetime="2020-05-08">2020</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.oliverpalmer.com">Oliver Palmer</a>
+<br>
+“I&#x27;m a Conversion Rate Optimisation consultant, helping my clients to increase their conversion rates, make better decisions informed by data and delight their customers.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Australia" title="Australia">🇦🇺</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2022-11-10T00:00:00+00:00">9 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.oliverpalmer.com/blog/google-analytics-4-upgrade/">Why you need to migrate to GA4 (immediately)</a>
+</figcaption>
+<blockquote cite="https://www.oliverpalmer.com/blog/google-analytics-4-upgrade/">
+In October 2020, Google released a new version of Google Analytics. GA4 was missing a lot of features to begin with and was fairly useless. Now, GA4 is a fully featured product and your old …
+</blockquote>
+<footer>
+<small>
+1,220 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.oliverpalmer.com/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per year.
+Started in <time datetime="2017-08-20">2017</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://headey.net/writing">Olly Headey — Writing</a>
+<br>
+“I typically write about leadership, management and productivity. Running-a-business kinda stuff. Occasionally I’ll write about music, or life in general.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T00:00:00+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://world.hey.com/olly/ruby-on-rails-as-a-career-choice-in-2023-fe4582f5">Ruby on Rails as a career choice in 2023</a>
+</figcaption>
+<blockquote cite="https://world.hey.com/olly/ruby-on-rails-as-a-career-choice-in-2023-fe4582f5">
+Occasionally someone gets in touch with me asking for work advice. I had one recently where the questioner was rather taken with Rails but asked, “Do you think Ruby on Rails lacks enough jobs? I’m …
+</blockquote>
+<footer>
+<small>
+74 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://headey.net/feed.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 10 posts per year.
+Started in <time datetime="2005-11-16">2005</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://olu.online/blog/">Olu Online | Blog</a>
+<br>
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-03-21T23:23:33+00:00">5 months ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://olu.online/introducing-historica11y-a-newsletter-about-the-history-of-web-accessibility/">Introducing Historica11y: a newsletter about the history of web accessibility</a>
+</figcaption>
+<blockquote cite="https://olu.online/introducing-historica11y-a-newsletter-about-the-history-of-web-accessibility/">
+I started a substack newsletter! It&#x27;s about the history of web accessibility and I hope you&#x27;ll sign up. It&#x27;s an experiment so please bear with me whilst I get started. Please send me all your …
+</blockquote>
+<footer>
+<small>
+By hidden (oluonline), 60 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://olu.online/feed/?type=rss" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per year.
+Started in <time datetime="2022-02-25">2022</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://opensourcemusings.com">Open Source Musings</a>
+<br>
+“Sharing a passion for Linux and open source, with a decidedly non-techie slant.”
+By Scott Nesbitt.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="New Zealand" title="New Zealand">🇳🇿</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-07T18:40:27+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://opensourcemusings.com/another-2-desktop-password-management-tools?pk_campaign=rss-feed">(Another) 2 Desktop Password Management Tools</a>
+</figcaption>
+<blockquote cite="https://opensourcemusings.com/another-2-desktop-password-management-tools?pk_campaign=rss-feed">
+A while back, I looked at a trio of simple but effective password management applications for the Linux desktop. But, as more than a couple of readers reminded me, those aren&#x27;t the only games in …
+</blockquote>
+<footer>
+<small>
+575 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://opensourcemusings.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly three posts per month.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://theoverspill.blog/">The Overspill: when there&#x27;s more that I want to say</a>
+<br>
+“Charles Arthur&#x27;s site for links, observations and writing.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United Kingdom" title="United Kingdom">🇬🇧</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-11T06:00:00+00:00">5 days ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://theoverspill.blog/2023/08/11/ai-travel-guidebooks-junk-start-up-2059/">Start Up No.2059: AI-generated guidebooks scam buyers, Detroit changes face recognition policy, moody muons?, and more</a>
+</figcaption>
+<blockquote cite="https://theoverspill.blog/2023/08/11/ai-travel-guidebooks-junk-start-up-2059/">
+A surprisingly high percentage of people leave subtitles on when watching TV of any sort, research has found. CC-licensed photo by Jean-Etienne Minh-Duy Poirrier on Flickr. You can sign up to receive each day’s Start …
+</blockquote>
+<footer>
+<small>
+By charlesarthur, 4,012 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://theoverspill.blog/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2014-07-18">2014</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://pxlnv.com">Pixel Envy</a>
+<br>
+“A sassy weblog written by Nick Heer with topics including technology and policy, Apple, Silicon Valley, and privacy.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Canada" title="Canada">🇨🇦</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T23:19:30+00:00">15 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://pxlnv.com/linklog/iphone-batterygate-suit/">Payments Expected Soon in U.S. iPhone Battery Lawsuit</a>
+</figcaption>
+<blockquote cite="https://pxlnv.com/linklog/iphone-batterygate-suit/">
+Ethan Baron, Mercury News: Owners of some older iPhone models are expected to receive about $65 each after a judge cleared the way for payments in a class-action lawsuit accusing Apple of secretly throttling phone …
+</blockquote>
+<footer>
+<small>
+By Nick Heer, 161 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://pxlnv.com/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per day.
+Started in <time datetime="2009-09-25">2009</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://ploum.net">Ploum.net</a>
+<img src="/static/oohdir/img/new.gif" class="util-img-crisp" alt="NEW" width="31" height="12">
+<br>
+“A writer alternating between a bépo keyboard, to feed this blog, and old mechanical typewriters on which I imagine our futures.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Belgium" title="Belgium">🇧🇪</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-01T00:00:00+00:00">2 weeks ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://ploum.net/2023-08-01-splitting-the-web.html">Splitting the Web</a>
+</figcaption>
+<blockquote cite="https://ploum.net/2023-08-01-splitting-the-web.html">
+Splitting the Web There’s an increasing chasm dividing the modern web. On one side, the commercial, monopolies-riddled, media-adored web. A web which has only one objective: making us click. It measures clicks, optimises clicks, generates …
+</blockquote>
+<footer>
+<small>
+By Ploum, 900 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://ploum.net/atom.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Started in <time datetime="2004-10-20">2004</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://pluralistic.net/">Pluralistic</a>
+<br>
+“Daily links from Cory Doctorow – No trackers, no ads. Black type, white background. Privacy policy: we don&#x27;t collect or retain any data at all ever period.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-14T15:54:36+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://pluralistic.net/2023/08/14/hidden-worlds/">Pluralistic: Open Circuits (14 August 2023)</a>
+</figcaption>
+<blockquote cite="https://pluralistic.net/2023/08/14/hidden-worlds/">
+Today&#x27;s links Open Circuits: The hidden beauty of electronics components. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading …
+</blockquote>
+<footer>
+<small>
+By Cory Doctorow, 1,785 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://pluralistic.net/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly four posts per week.
+Started in <time datetime="2020-02-19">2020</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/" title="Arts and media">
+<span itemprop="name">Arts &amp; media</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/arts/books/" title="Books and literature">
+<span itemprop="name">Books</span>
+</a>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/politics/" title="Government, politics and law">
+<span itemprop="name">Government, politics &amp; law</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://www.oreilly.com/radar/">Radar – O’Reilly</a>
+<br>
+“Now, next, and beyond: Tracking need-to-know trends at the intersection of business and technology.”
+By Tim O’Reilly, Mike Loukides, Q McCallum, et al.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-15T10:06:33+00:00">a day ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://www.oreilly.com/radar/the-next-generation-of-developer-productivity/">The next generation of developer productivity</a>
+</figcaption>
+<blockquote cite="https://www.oreilly.com/radar/the-next-generation-of-developer-productivity/">
+To follow up on our previous survey about low-code and no-code tools, we decided to run another short survey about tools specifically for software developers—including, but not limited to, GitHub Copilot and ChatGPT. We’re interested …
+</blockquote>
+<footer>
+<small>
+By Mike Loukides, 992 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://www.oreilly.com/radar/feed/index.xml" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly one post per week.
+Started in <time datetime="2010-06-02">2010</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://www.researchbuzz.com">ResearchBuzz</a>
+<br>
+“News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.”
+By Tara Calishain.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="United States of America" title="United States of America">🇺🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-16T11:58:14+00:00">3 hours ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://researchbuzz.me/2023/08/16/supply-chain-regulations-mapped-internet-archive-youtube-more-tuesday-researchbuzz-august-15-2023-2/">Maryland Vaccination Clinics, Israel Cartography, Twitter, More: Wednesday ResearchBuzz, August 16, 2023</a>
+</figcaption>
+<blockquote cite="https://researchbuzz.me/2023/08/16/supply-chain-regulations-mapped-internet-archive-youtube-more-tuesday-researchbuzz-august-15-2023-2/">
+This issue is far more Twitter-oriented than I prefer. The afternoon issue will be better. NEW RESOURCES Maryland Department of Health: Maryland Department of Health launches new website listing vaccination clinics at local health departments …
+</blockquote>
+<footer>
+<small>
+By ResearchBuzz, 906 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://researchbuzz.me/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per day.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="https://retrofun.pl">RetroFun! – Osiem bitów powraca!</a>
+<br>
+“8-bit strikes back.”
+By ikari.
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Poland" title="Poland">🇵🇱</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-06-30T21:07:06+00:00">a month ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://retrofun.pl/2023/06/30/nie-ogarniam/">Nie ogarniam</a>
+</figcaption>
+<blockquote cite="https://retrofun.pl/2023/06/30/nie-ogarniam/">
+Druga część o MEGA 65 idzie jak po grudzie, ale idzie. Muszę nagrać w końcu najistotniejsze materiały, ale mam wyjątkowo zagracone retro-biurko (głównie sprzętem wieloletnim... Read more
+</blockquote>
+<footer>
+<small>
+By ikari, 29 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://retrofun.pl/pl/feed/" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly 10 posts per year.
+Started in <time datetime="2021-05-18">2021</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+<li class="websites__item">
+<p class="website__intro">
+<a href="http://morrick.me">Riccardo Mori</a>
+<br>
+“Writer &amp; Translator.”
+<span class="text-nobr">
+<span class="text-emoji">
+<span aria-label="Spain" title="Spain">🇪🇸</span>
+</span>
+</span>
+</p>
+<details class="website__details">
+<summary>
+Updated <time datetime="2023-08-04T01:08:07+00:00">a week ago</time>
+</summary>
+<div class="website__details__body">
+<figure class="figure figure--post">
+<figcaption>
+<a href="https://morrick.me/archives/9756">Helvetica 12</a>
+</figcaption>
+<blockquote cite="https://morrick.me/archives/9756">
+I’m late to the tech news party. The weather here in Valencia has been literal hell for the past month. Combine that with bad, short sleep nights and an aching right upper arm, and you’ll …
+</blockquote>
+<footer>
+<small>
+By Riccardo Mori, 1,715 words
+</small>
+</footer>
+</figure>
+<p class="util-mh-3">
+<a class="icon icon--rss util-mr-2" href="https://morrick.me/feed" aria-label="The RSS or Atom feed for this website" title="The RSS or Atom feed for this website"><span class="text-smallcaps">Feed</span></a>
+Roughly two posts per month.
+Started in <time datetime="2005-02-13">2005</time>.
+</p>
+<div class="stripe">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs__list breadcrumbs__list--alternate">
+<li class="breadcrumbs__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="/blogs/technology/">
+<span itemprop="name">Computers, internet, tech</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ol>
+</div>
+</div> 
+</details>
+</li>
+</ol>
+<nav aria-label="Pagination navigation">
+<ul class="pagination">
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Previous page"><span aria-hidden="true">&larr;</span></a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=1" aria-label="Goto Page 1">1</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=2" aria-label="Goto Page 2">2</a>
+</li>
+<li class="pagination__item pagination__item--active">
+<span class="pagination__link" aria-label="Current page, page 3" aria-current="true">3</span>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=4" aria-label="Goto Page 4">4</a>
+</li>
+<li class="pagination__item">
+<a class="pagination__link" href="?p=4" aria-label="Next page"><span aria-hidden="true">&rarr;</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="grid__extra">
+<aside class="aside">
+<p><a href="/suggest/?c=61">Suggest a blog for this category</a></p>
+</aside>
+<aside class="aside">
+<h1>Feeds of blogs in this category</h1>
+<ul class="list--unstyled">
+<li class="icon icon--opml util-mb-0">
+<a href="/feeds/cats/b7q2w7/opml/technology.xml" title="OPML file">OPML file</a><br>
+For downloading and importing into your feed&nbsp;reader
+</li>
+<li class="icon icon--rss util-mb-0">
+<a href="/feeds/cats/b7q2w7/rss/technology.xml" title="RSS feed">RSS feed</a><br>
+For following new&nbsp;additions
+</li>
+</ul>
+</aside>
+</div>
+</section>
+</main>
+<footer class="pagefoot">
+<div class="grid">
+<div class="grid__full">
+<p>
+A <a href="https://www.well-formed.co.uk" class="text-nobr">Well-Formed Production</a> by <a href="https://www.gyford.com" class="text-nobr">Phil Gyford</a>. © 2022–2023
+</p>
+</div>
+</div>
+</footer>
+</body>
+</html>
