@@ -23,24 +23,81 @@ win = fl.window(400, 800, arg[0])
 local db = "sites.db" 
 
 function fetch_and_build(url) 
+  local result_content = ""
+  local result_xml = ""
+  local buttons = {}
+
+  -- fetch the page and parse it
   print("Fetching url:"..url)
   local db = "sites.db" 
   local page, code, headers, status = https.request(url)
   local doc = xmlua.HTML.parse(page)
+
+  -- try common approaches
+  -- opengraph
+  local docsearch = doc:search("//meta[contains(@property,'og:')]")
+  local err, val = pcall(function() return docsearch[1]:get_attribute("property") end)
+  if (err ~= false) then
+  -- we need to parse this
+    for i,t in ipairs(docsearch) do 
+      if (docsearch[i]:get_attribute("property"):gsub("og:","") == "title") then
+        result_content = result_content .. docsearch[i]:get_attribute("content") .. "\n\n"
+      end
+    end
+    print(result_content)
+  end
+
+  -- test for html5 article tags
+  local docsearch = doc:search("//article//p")
+  local err, val = pcall(function() return docsearch[1]:name() end)
+  if (err ~= false) then
+    for i,t in ipairs(docsearch) do    
+      result_content = result_content .. docsearch[i]:content() .. "\n\n"
+    end
+  end
+  
+  -- test for html5 subsection
+  local docsearch = doc:search("//subsection")
+  local err, val = pcall(function() return docsearch[1]:name() end)
+  if (err == false) then
+    if (verbose) then
+       print("subsection:")
+       print(val)
+    end
+  end
+  
+  -- test for aria tags
+  -- TODO: map aria annotations to relevant roles
+  local docsearch = doc:search("//*[@aria-description]")
+  local err, val = pcall(function() return docsearch[1]:name() end)
+  if (err == false) then
+    if (verbose) then
+      print("aria-description:")
+      print(val)
+    end
+  end
+  
+  local docsearch = doc:search("//*[@aria-label]")
+  local err, val = pcall(function() return docsearch[1]:name() end)
+  if (err == false) then
+    if (verbose) then
+      print("aria-label:")
+      print(val)
+    end
+  end
+
+  -- no joy? let's see if we have a query in the database that tells us how to handle this page
   print("Pre-query (sqlite)")
   local query, _, _ = find_query(url,db)
-  if query == nil then
-    content = "Sorry, we don't know how to display this page yet!"
-    return content, ""
-  end
+  --if (query == nil and result_content == "") then
+  --  content = "Sorry, we don't know how to display this page yet!"
+  --  return content, ""
+  --end
   print("QUERY:" .. query)
   print("Post-query (sqlite)")
   print("Pre-query (xmlua)")
   local content = doc:root():search(query)
   print("Post-query (xmlua)")
-  local result_content = ""
-  local result_xml = ""
-  local buttons = {}
   
   local length = 0
   print("pre-split")
@@ -106,16 +163,16 @@ function urlbar_callback(val, buf)
   buf:text(content)
 end
 --
-
-textbuf = fl.text_buffer()
+headerbuf = fl.text_buffer()
+contentbuf = fl.text_buffer()
 
 input = fl.input(1, 1, 400, 20, "address bar")
-input:callback(urlbar_callback, textbuf)
+input:callback(urlbar_callback, contentbuf)
 
-text = fl.text_display(1, 20, 400, 800)
+text = fl.text_display(1, 20, 400, 780)
 text:wrap_mode('at bounds', 0)
-textbuf:text("Welcome to freeflow - this is a web browser which tries to tame the web by only displaying content.")
-text:buffer(textbuf)
+contentbuf:text("Welcome to freeflow - this is a web browser which tries to tame the web by only displaying content.")
+text:buffer(contentbuf)
 
 win:done() -- 'end' is a keyword in Lua
 win:show(arg[0], arg)
