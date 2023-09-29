@@ -1,6 +1,6 @@
 # Freeflow
 
-Freeflow is like reader mode, but for the entire web. Its aim is to present all content on the internet using desktop widgets, with no layout or interactivity.
+Freeflow is like reader mode, but for the entire web. Its aim is to present all content on the internet using desktop widgets, with standardised layouts and interactivity.
 
 # Approach
 
