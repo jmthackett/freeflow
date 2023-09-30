@@ -16,9 +16,14 @@ local sqlite = require("lsqlite3complete")
 
 fl = require("moonfltk")
 fl.scheme("gtk+")
---
 
-win = fl.window(400, 800, arg[0])
+win = fl.window(800, 800, arg[0])
+
+local site = {}
+site['title'] = ""
+site['images'] = ""
+site['author'] = ""
+site['content'] = ""
 
 local db = "sites.db" 
 
@@ -44,7 +49,7 @@ function fetch_and_build(url)
         result_content = result_content .. docsearch[i]:get_attribute("content") .. "\n\n"
       end
     end
-    print(result_content)
+    --print(result_content)
   end
 
   -- test for html5 article tags
@@ -86,6 +91,7 @@ function fetch_and_build(url)
     end
   end
 
+
   -- no joy? let's see if we have a query in the database that tells us how to handle this page
   print("Pre-query (sqlite)")
   local query, _, _ = find_query(url,db)
@@ -118,12 +124,43 @@ function fetch_and_build(url)
   
   for i, t in ipairs(content) do
     if content[i].to_html == nil then
-      print("Skipped converting to html due to error")
+      --print("Skipped converting to html due to error")
     else
       result_xml = result_xml .. content[i]:path() .. "\n\n" .. content[i]:to_html() .. "\n\n"
     end
   end
-  
+
+  print("--------- RSS TIME ---------")
+
+  -- if we don't find anything that looks like any of the above tags, let's assume we need to generate an index
+  local docsearch = doc:search("//link[contains(@type,'application/rss+xml')]")
+  local err, val = pcall(function() return docsearch[1]:get_attribute("href") end)
+  if (err ~= false) then
+    print(val)
+    local page, code, headers, status = https.request(val)
+    print("http return code is " .. code .. "\n")
+    if (code == 200) then
+      print("RSS found at " .. val .. "")
+      --print(page)
+      local rss = xmlua.XML.parse(page)
+      local rss_items = rss:search("//item")
+      for index, rss_item in ipairs(rss_items) do
+        print("finding title")
+        title = rss_items:search("//title")[index]
+        print(title:content())
+        print("finding link")
+        link = rss_items:search("//link")[index]
+        print(link:content())
+        print("finding description")
+        description = rss_items:search("//description")[index]
+        print(description:content())
+        print("rss item " .. index .. " finished")
+      end
+      print("finished printing rss items")
+      result_content = page
+    end
+  end  
+
   return result_content, result_xml
 end
 
@@ -159,20 +196,47 @@ function urlbar_callback(val, buf)
     content = "Sorry, we don't know how to display this page yet"
   end
   print("post-fetch")
-  print(content)
+  
+  links[1] = fl.button(1, 80, 800, 60, "A hoity toity grauniad article!")
+  link[1]:callback(link_callback, {buffer = contentbuf, url = "https://www.theguardian.com/games/2023/aug/09/star-trek-without-the-manifest-destiny-saltsea-chronicles-a-gently-radical-vision-of-the-future"})
+  
+  links[2] = fl.button(1, 140, 800, 60, "A tooty frooty grauniad article!")
+  link[2]:callback(link_callback, {buffer = contentbuf, url = "https://www.theguardian.com/games/2023/aug/09/star-trek-without-the-manifest-destiny-saltsea-chronicles-a-gently-radical-vision-of-the-future"})
+  
+  --print(content)
   buf:text(content)
+end
+--
+function link_callback(val, inputs)
+  print(val)
+  print(inputs['buffer'])
+  print(inputs['url'])
+  print("checking url parses")
+  u, err = url_parser.parse(inputs['url'])
+  print(u.scheme)
+  print(err)
+  print("parsed url")
+  content, xml = fetch_and_build(inputs['url'])
+  print("post-fetch")
+  --print(content)
+  inputs['buffer']:text(content)
 end
 --
 headerbuf = fl.text_buffer()
 contentbuf = fl.text_buffer()
 
-input = fl.input(1, 1, 400, 20, "address bar")
+links = {}
+
+input = fl.input(1, 1, 800, 20, "address bar")
 input:callback(urlbar_callback, contentbuf)
 
-text = fl.text_display(1, 20, 400, 780)
-text:wrap_mode('at bounds', 0)
+links[1] = fl.button(1, 20, 800, 60, "A hoity toity grauniad article!")
+links[1]:callback(link_callback, {buffer = contentbuf, url = "https://www.theguardian.com/games/2023/aug/09/star-trek-without-the-manifest-destiny-saltsea-chronicles-a-gently-radical-vision-of-the-future"})
+
+links[2] = fl.text_display(1, 80, 800, 780)
+links[2]:wrap_mode('at bounds', 0)
 contentbuf:text("Welcome to freeflow - this is a web browser which tries to tame the web by only displaying content.")
-text:buffer(contentbuf)
+links[2]:buffer(contentbuf)
 
 win:done() -- 'end' is a keyword in Lua
 win:show(arg[0], arg)
