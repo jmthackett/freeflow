@@ -1,4782 +1,2393 @@
-| ooh.directory | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| investorschronicle.co.uk | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| financialpost.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fortune.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| cen.acs.org | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| firstthings.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| fd.nl | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| hbr.org | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| foreignpolicy.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| speld.nl | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| elpais.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| fnlondon.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| demorgen.be | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tijd.be | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| grubstreet.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| glassdoor.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| denverpost.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ilmessaggero.it | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| volkskrant.nl | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| centralwesterndaily.com.au | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| elmundo.es | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| editorialedomani.it | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| humo.be | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lastampa.it | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| groene.nl | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| globes.co.il | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| historyextra.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| medium.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| dynamed.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lavoixdunord.fr | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| lecho.be | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| caixinglobal.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bostonglobe.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| harpers.org | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| haaretz.com | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| barrons.com | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| repubblica.it | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| interest.co.nz | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| genomeweb.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| hbrchina.org | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| adweek.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| examiner.com.au | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ambito.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| technologyreview.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ft.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| haaretz.co.il | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| americanbanker.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| inc.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ilmanifesto.it | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| expansion.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| labusinessjournal.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| corriere.it | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bloomberg.com | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| britannica.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| nationalpost.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| latercera.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| elu24.ee | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ledevoir.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| estadao.com.br | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| businessinsider.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lesechos.fr | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| seekingalpha.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| leparisien.fr | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| nymag.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| quora.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| loebclassics.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| medscape.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| qz.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lanacion.com.ar | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| nzz.ch | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| chicagotribune.com | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| ocregister.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| df.cl | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| nrc.nl | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| parool.nl | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bloombergquint.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| time.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| telegraaf.nl | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| nationalgeographic.com | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mv-voice.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| sloanreview.mit.edu | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| slate.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| lrb.co.uk | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mexiconewsdaily.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| heraldsun.com.au | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| sofrep.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thediplomat.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| stuff.co.nz | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| scientificamerican.com | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| sfchronicle.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| paloaltoonline.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| latimes.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| nzherald.co.nz | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| thecut.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bizjournals.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| postimees.ee | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mercurynews.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| the-american-interest.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| reuters.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| theathletic.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thehindu.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thecourier.com.au | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| canberratimes.com.au | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theherald.com.au | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| newstatesman.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theadvocate.com.au | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| irishtimes.com | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| economist.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ntnews.com.au | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theathletic.co.uk | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thestar.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theglobeandmail.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| themarker.com | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| the-tls.co.uk | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cartype.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| couriermail.com.au | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| statista.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| spectator.us | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| sandiegouniontribune.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thenation.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| vintagehomeplans.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| news-gazette.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mcmansionhell.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| japantimes.co.jp | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.bitsaboutmoney.com/archive/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.annashipman.co.uk/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| nytimes.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| cabinporn.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hotvvheels.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| telegraph.co.uk | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| trouw.nl | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| inquirer.com | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| spectator.co.uk | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| spectator.com.au | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| adelaidenow.com.au | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dailytelegraph.com.au | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theaustralian.com.au | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thewrap.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mckerlie.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| techinasia.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| almad.blog | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.wowhaus.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| journalnow.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| vulture.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| erikbern.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wsj.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| oilpressure.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thesaturdaypaper.com.au | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| therealadam.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| not2grand.co.uk/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kansascity.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| towardsdatascience.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lethain.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| noidea.dog/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| themercury.com.au | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| kellanem.com/notes/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| johnquiggin.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| startribune.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.rubick.com/posts/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.tatianamac.com/writing | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.conscienceround.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| newyorker.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mappiman.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| severedheadsopenminds.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| josephbarulho.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| simeyeveritt.wixsite.com/brapa/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| benrmatthews.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| merseypub.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blackhandinn2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| greek-metal-area.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wired.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| critter.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| vanityfair.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| arsoncafe.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| realpubsuk.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| filmandfurniture.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| zeit.de | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| edithsstreets.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jessitron.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| hatemeditations.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.oldhousedreams.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| closedpubs.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.whoatowow.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thedeathchamber.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| carolineld.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| diamondgeezer.blogspot.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.willhawkes.net/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.londonremembers.com/memorials | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| pubcurmudgeon.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| seattletimes.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| micropubadventures.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| londonist.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| orgdesignfordesignorgs.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| flickeringlamps.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thelondondead.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| metalsucks.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| reldn.co.uk/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thelostbyway.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.boakandbailey.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| livinglondonhistory.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| greatwen.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mappinglondon.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.iainsinclair.org.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| vn.nl | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.geepawhill.org/weekly/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| retiredmartin.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dantheclamman.blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| janestuart.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.davidrevoy.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.lazaruscorporation.co.uk/blogs/artists-notebook | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.peterberthoud.co.uk/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| solarpunks.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cemeteryclub.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| deserter.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cloudappreciationsociety.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| wasmoke.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| alondoninheritance.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brendandawes.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| booktwo.org/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| pickyglutton.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lookup.london/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.sightunseen.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| melbourneblogger.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| londonhistorians.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dulltooldimbulb.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.amygoodchild.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| jamesrussellontheweb.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| creativeramblings.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ianvisits.co.uk/articles/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| footprintsoflondon.com/live/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.thisiscolossal.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.londonology.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| wansteadmeteo.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| gurneyjourney.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.cabbieblog.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| drawingmatter.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| reviewdonkey.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.londonreconnections.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thewhitepube.co.uk/blog/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| toshareproject.it/artmakerblog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| some-landscapes.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| publicdomainreview.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.agu.org/wildwildscience/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.contemporaryartdaily.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| v21.io/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| peternencini.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.schliefkevision.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.realclimate.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.fromthemurkydepths.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jonathangriffin.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| we-make-money-not-art.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| frompyrgos.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| socks-studio.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bitterteaandmystery.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thewhitepube.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| boisdejasmin.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| log.kradeelav.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| houseofmysticum.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.andreagrandi.it | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| biketype.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| hynek.me/articles/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.cassandrapages.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| moonlight-detective.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| new.pythonforengineers.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| kafkaesqueblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| snarky.ca/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| palletsprojects.com/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.johncoulthart.com/feuilleton/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| prettysinister.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.petermerholz.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| nstperfume.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.freewheelingfrance.com/blog/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| dougmccune.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| alliamaredhead.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| yasoob.me/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.aaronland.info/weblog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| theblacknarcissus.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.rockandnull.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kurtmckee.org/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| simonwillison.net/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| themanfromicon.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| coastkid.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.doodlersanonymous.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| undina.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| anderegg.ca | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| annoying.technology | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| donherron.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thescentedhound.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| reinout.vanrees.org/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.autodidacts.io/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| linesandcolors.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mathspp.com/blog | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.mrripleysenchantedbooks.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| spywrite.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.tomayac.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bikepacking.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.b-list.org/weblog/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| greg.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| interconnected.org/home/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.danielsroka.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| gunther.link | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cennydd.com/writing | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blog.kevmo314.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| algopop.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| gru.gq/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| tomsbiketrip.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| multoghost.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| davidmytton.blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| emilygorcenski.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.ben-evans.com/benedictevans/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| bicycledutch.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| crossexaminingcrime.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| conway.scot | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.eff.org/deeplinks | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kryogenix.org/days | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| chriscoyier.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| asadrahman.io/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| open-innovations.org/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| blog.seanbonner.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| marcolabarile.me/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| matthewbischoff.com | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| nadia.xyz/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| kevincox.ca/posts/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| takeonethingoff.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| booktwo.org/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| clivethompson.medium.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| writing.kemitchell.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.holovaty.com/writing/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.dcrainmaker.com/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.criminalelement.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cadence.moe/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| djangoandy.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.chrbutler.com/essays | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.masswerk.at/nowgobang/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| headey.net/writing | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.jpaul.me | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| scholz.ruhr/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mcall.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| v21.io/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.oliverpalmer.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| biketoeverything.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| rjlipton.wpcomstaging.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mariusmasalar.me/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.jonudell.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ploum.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.jameswarrick.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| sun-sentinel.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| new-aesthetic.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| sallylait.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| hackaday.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.zsec.uk | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.xythobuz.de | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| jcs.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| meyerweb.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.researchbuzz.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.oreilly.com/radar/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thewavingcat.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.gwern.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| olu.online/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| opensourcemusings.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| morrick.me | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| adventuresinparn.blogspot.com/?zx=fdc7c75491a9a92e | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.zephoria.org/thoughts/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| kelvingreen.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.spookyrusty.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.cringely.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| shkspr.mobi/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| profesnpc.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| direbane.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| we-make-money-not-art.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| eldri.tech/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jakearchibald.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| numbered.works/notes | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| pxlnv.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| save.vs.totalpartykill.ca | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| retrofun.pl | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dev.37signals.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| tenfootpole.org/ironspike/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.codingwithjesse.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.failuretolerated.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thealexandrian.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.globalnerdy.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.nextbigfuture.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theoverspill.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dreamsinthelichhouse.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| aestheticsforbirds.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| simonwillison.net/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| heydonworks.com/latest/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| stratechery.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.lloydatkinson.net/articles/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| kinduff.com/blog | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| slyflourish.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.lambrospetrou.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| kurtmckee.org/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.schneier.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dndwithpornstars.blogspot.com/?zx=4719c95a41276b9e | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| nyanpasu64.gitlab.io/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| scastiel.dev | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| 2ality.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| rolltop-indigo.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hedgehogreview.com/web-features/thr | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| jordemort.dev/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| rachsmith.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| swizec.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.tatianamac.com/writing | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| robbowen.digital/writing | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| seldo.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| haikushane.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.robinrendle.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| localghost.dev/blog | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| zettelkasten.de | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.content-technologist.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| levellers.blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.aldrovanda.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| pandasthumb.org/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| theolivepress.es | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.amitmerchant.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jessitron.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| goblinshenchman.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| rolandtanglao.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| throneofsalt.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.southernrockiesnatureblog.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| pluralistic.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fossilhuntress.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| natural-history-journal.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thehazeltree.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| livingwithmachines.ac.uk/latest/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| clintmcmahon.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| foragerchef.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| aphascience.blog.gov.uk/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ramblingsofanaturalist.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| perfumeshrine.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| misswondersmith.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| arsludi.lamemage.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.sciencebase.com/science-blog | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| quoteinvestigator.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.homesicktexan.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tetzoo.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| julian-hoffman.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| foodinjars.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| podnews.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| minimalistbaker.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/blogs/natureuk | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| honest-food.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thepassingtramp.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bubbaone.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.the-pasta-project.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.indiegamereadingclub.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| medium.learningbyshipping.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thenordickitchen.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| algopop.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| fastestslowguy.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cupofjo.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.theartofdoingstuff.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| susannahbreslin.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| brr.fyi/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.peterberthoud.co.uk/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| anthrodendum.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| neural.it/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| wearethemutants.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| svpow.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.3ammagazine.com/3am/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.spectrecollie.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| stephenbodio.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.mexicanplease.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.goatorama.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hiewandboardgames.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| urbanflyfisher.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| stationery.pizza/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| projectswordtoys.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| petharmonytraining.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| mass.streetsblog.org | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| btrussell-fishingthroughlife.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theriverbeat.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.hipstersofthecoast.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ordinaryangler.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| handeaux.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| digicult.it/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kidsbricks.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| balkin.blogspot.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.indybay.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| calamitymn.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.justonecookbook.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| imagesofoldhawaii.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brooksandbecks.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bureboyblog.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| s-usih.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| adventureite.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| storeboughtisfineblog.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| wasmoke.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wormwoodiana.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ikkaro.com/en/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mossandfog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fastestslowguy.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| strollerparking.ca/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| magicaltrash.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tolkienandfantasy.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tomcritchlow.com/writing/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ephemeralnewyork.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kk.org/cooltools/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.nomadicnotes.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| alabamayesterdays.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| jamesthespecimenhunter.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.breakfastandtravelupdates.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| caltrain-hsr.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.freewheelingfrance.com/blog/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.gnufmuffin.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| markgelbart.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| baileysbeerblog.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.theuntourists.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ggwash.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mellovestravels.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.noise.pictures/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| sinclairtrails.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| disoriented.net/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| aeon.co/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.ramenramenramen.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.scoutingmagazine.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.flowjournal.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bangkokglutton.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tomblomfield.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| apilgriminnarnia.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| riowang.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.cakewrecks.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| adamapples.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| rethinkingathletics.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.datadeluge.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.sandwichtribunal.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.packing-up-the-pieces.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.everydaycommentary.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| oldstructures.nyc/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.atlasobscura.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| robm.me.uk/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| driftingclouds.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| streets.mn/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| stratechery.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ourincrediblejourney.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| goodstuff.simonpanrucker.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| randomwire.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| rottenmenu.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.thingsmagazine.net/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| sippey.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.travelwritingworld.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| solar.lowtechmagazine.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tomsbiketrip.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.scotusblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.theimpulsivebuy.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thecommontable.eu/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| 1000awesomethings.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| meately.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| corvusfugit.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.neatorama.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| onepointzero.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| defiantsloth.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| followmehere.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kottke.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.onfocus.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.grubbits.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thekidshouldseethis.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| pudding.cool/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| laughingsquid.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.seat31b.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tywkiwdbi.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.adventurouskate.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| web3isgoinggreat.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| webcurios.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| disneyparks.disney.go.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.typewolf.com/blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| cartype.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.somebits.com/linkblog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| vitalik.ca | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| crookedtimber.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.foodpolitics.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| biketype.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thewoksoflife.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| randsinrepose.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| desertcanyonfarm.wpcomstaging.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| serhack.me | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pmags.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| electricflapjack.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| ultimatemaitai.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mototype.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.dignityusa.org/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| fretscience.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fontsinuse.com/blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| onefoottsunami.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hazeguitars.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| guitar-maker.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| lincolnmullen.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| lblutherie.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.mollywhite.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.retailinsider.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.hellbox.co.uk | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.tomsandsguitars.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| billfortney.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| woodwithstrings.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| jayhulme.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| wavesofdevotion.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| isthatinthebible.wordpress.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bythom.com/newsviews/index.html | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| iestynedwards.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theblockchainsocialist.com/category/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| typographica.org | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.newsfromme.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thewanderinglensman.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.borninspace.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| craigmod.com/essays/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.stephenknightphotography.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fogblog-hermansheephouse.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| onlinedarkroom.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.guitarpedalx.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.messynessychic.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| davidgerard.co.uk/blockchain/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| peterwebster.me/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.thisiscolossal.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.newwaysministry.org/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| waitbutwhy.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tantek.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.outsidetheworld.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.loc.gov/loc/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| iconicphotos.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thesimplecatholic.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| chitareconcert.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.abiggercamera.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| matt.pictures/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mysteryfile.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| glasgowtheatreblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| breaking-the-fourth-wall.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.eastlondonlines.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| alifeinphotography.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.austinmann.com/trek | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| partially-obstructed-view.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theatrecat.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| krishallett.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theonlinephotographer.typepad.com/the_online_photographer/blog_index.html | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.timemachinego.com/linkmachinego/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| peckhampeculiar.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.rewritethisstory.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theplaysthethinguk.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.mrussellphotography.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.sierz.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| visualsciencelab.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theblogoftheatrethings.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thefamilymuseum.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| deptforddame.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cphmag.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| loureviews.blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.alledinburghtheatre.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| brixtonblog.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| longdelayspossible.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| wildcornerz.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.foblc.org.uk/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| charltonchampion.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| aphotoeditor.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.siennaeggler.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| 2ndfrombottom.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.sierz.co.uk/reviews/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.alex-kunz.com/weblog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| oughttobeclowns.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| enchantedprose.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| transpont.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| furrowedmiddlebrow.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| viewfromthecheapseat.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| spitalfieldslife.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| fiftyfootshadows.net/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| pleasemindtheblog.wordpress.com/blog-posts/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.olddeptfordhistory.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| lizoksbooks.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| shentonstage.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| maryamphilpottblog.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| isleofdogslife.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| russiandinosaur.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wutheringexpectations.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| disassociated.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| musicaltheatrereview.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| this-space.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wansteadmeteo.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thelithole.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| 853.london/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| feelinglistless.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| handprinted.co.uk/blogs/blog | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| shereadsnovels.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/blogs/doctorwho | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/acrosstheline | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/bbcmediaaction | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/introducing | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/writersroom | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/natureuk | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| hiewandboardgames.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| greatwarfiction.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.openculture.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| iheartsapphfic.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| simonparrismaninchair.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/blogs/mediaactioninsight | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/internet | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| katemacdonald.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thepulp.net/pulpsuperfan/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| akapastorguy.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/blogs/eurovision | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/strictlycomedancing | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.truefitt-baker.co.uk/blog-1 | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| runner500.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| heavenali.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| northernreader.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theatre.revstan.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mikkosgameblog.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/blogs/bbchistoryresearch | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.sparklytrainers.com/reading/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| opinionatedgamers.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| talkingshelfspace.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| taogaming.wordpress.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.inthecheapseats.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| xixvek.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| nosuchthingasbadweather.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.freerangekids.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.resourceaholic.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bergman-udl.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| abakcus.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.stuckinabook.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.cbs.dk/inframethodology/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| dieworkwear.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.eduwonk.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| learningfrommymistakesenglish.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| spacebiff.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| learningspy.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| idstuff.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| notawfulandboring.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kaggsysbookishramblings.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.trueelena.org/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.frockflicks.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.stitchesontherun.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cherrylkd.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.agu.org/geoedtrek/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.runestone.academy | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.ethanhein.com/wp/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cavmaths.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/rd/blog | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| joemoran.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| atailormadeit.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| teachingmadevisible.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| researchwhisperer.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lauramcinerney.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| bethsbobbins.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brightlightsfilm.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| clothesinbooks.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.houstonforesight.org/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thesewinggoatherd.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| annaworden.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tokyo-fashion.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.howwemontessori.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.teachertoolkit.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| larrycuban.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mainelymenswear.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.teachthefuture.org/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| teachingbattleground.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.artofthetitle.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thesiswhisperer.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.cartoonbrew.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| punkeinfilm.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.specialneedsjungle.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| binocularshot.tumblr.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.frockflicks.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| punyamishra.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| voxsartoria.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.taylortailor.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| crazywalls.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| anthonybalducci.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| rootsandwingskindergarten.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.zenofdesign.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dreamsbuiltbyhand.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| filmandfurniture.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.europebyrail.eu/european-rail-news-notes/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cine-vue.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| derrickbang.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cinemasparagus.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| xplane.com/x-blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| thestopbutton.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| quellemovies.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.coffeecoffeeandmorecoffee.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| breakfastintheruins.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| monsterzone.org/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| separatedbyacommonlanguage.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| witness2fashion.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lughat.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| garethrees.org/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| theartsofslowcinema.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fxrant.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.irenebrination.com/irenebrination_notes_on_a/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| grammaticus.blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fromsqualortoballer.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.inkyfool.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| prolost.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| filmruminations.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| laurasmiscmusings.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.permanentstyle.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| adarkhighway.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.theviviennefiles.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| colinmorris.github.io | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| wristwatchreview.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| allthingslinguistic.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| twentyfourframes.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| atthepictures.photo.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.menswearmusings.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.acelinguist.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.balashon.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| putthison.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| aelarsen.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thetimebum.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.worldofreel.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cinebeats.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| moviecrashcourse.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| psychotronicpaul.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| deeperintomovies.net/journal/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| shadycharacters.co.uk | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blast-o-rama.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| the-rosenrot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| somecamerunning.typepad.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| languagelog.ldc.upenn.edu/nll/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| scifiinterfaces.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| language-and-innovation.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thousandmovieproject.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| coffeesnobblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ideophone.org/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| nutfieldgenealogy.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.matthewbogart.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.jordanmechner.com/en/latest-news/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| ukgenealogylinks.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| leonardmaltin.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.conniewonnie.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dcairns.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| arnoldzwicky.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.ourbow.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.thenewestrant.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| stronglang.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tomarmitage.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.badspacecomics.com/home | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mcqn.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| kitchen-sink.kwakk.info/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.epsilonsworld.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| nancyfriedman.typepad.com/away_with_words/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| notoneoffbritishisms.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bearalley.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| artofmemory.com/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| pcgazer.com | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.davidbordwell.net/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.righto.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| makoism.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thewaytocoffee.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| goingbacktoelectronic.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tv-vcr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| wearecult.rocks/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jpawlik.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| russiandinosaur.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.tho.ms | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.kindertrauma.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.penaddict.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| blog.trekcore.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| stevedoescomics.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| skookworks.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| liliputing.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.beanground.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.wellappointeddesk.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pipelinecomics.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| salman.io/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| fleen.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thepatronsaintofsuperheroes.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| speedforce.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| fossilhuntress.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| atomicjunkshop.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| namerology.com/category/articles/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| epod.usra.edu/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| stancarey.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.attic24.typepad.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| planb.nicecupoftea.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| vincennes.medium.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| softrobotcritics.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thisisindexed.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.chapatimystery.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| joshreads.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| reading19001950.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.cpushack.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| orsoncartatlarge.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| geotripper.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.beanpoet.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.agu.org/geoedtrek/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.agu.org/fromaglaciersperspective/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.progressiveruin.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cheapskatesguide.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| anaulin.org/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| rooniecomics.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| craigmod.com/essays/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| blogs.agu.org/mountainbeltway/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| rmukeshgupta.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| eos.org/ed-vox | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bibliophilicblogger.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.agu.org/georneys/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| booksandpictures.wordpress.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| evidenceanecdotal.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.roboticgizmos.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bibliopolitan.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.agu.org/landslideblog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| aaugh.com/wordpress/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| spookygeology.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bunniestudios.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| languagehat.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| clothesinbooks.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| johnclare.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.agu.org/sciencecommunication/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| laudatortemporisacti.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| goethetc.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| educationechochamber.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| perfectretort.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bloomsite.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bdralyuk.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| joemoran.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.davidsbookworld.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| neglectedbooks.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| publicdomainreview.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.solearabiantree.net/reedinglessons/index.php | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| agardenkeptinapocket.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| aworkinglibrary.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.complete-review.com/saloon/index.htm | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thecaptivereader.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| roseannechambers.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| brianbusby.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| desturmobed.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bluelabyrinths.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| awfullibrarybooks.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| booktrek.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| themillions.com/category/features/essays | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| acommonreader.st/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| largeheartedboy.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bookjotter.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theindiebobspot.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| smashpages.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| newcritique.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.librarian.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.volcanocafe.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tedunderwood.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cheesenbiscuits.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ericidle.com/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thepulp.net/yellowedperils/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.blackplastic.co.uk | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| literarybritain.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| theuntranslated.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.mcsweeneys.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| melbourneblogger.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| abandoned.photos/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.travelbetweenthepages.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blackdownsoundboy.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| archeyes.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.architecturelab.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.archpaper.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| englishbuildings.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| soundstudiesblog.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| archinect.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| electricliterature.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mnmt.no/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pickyglutton.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| sebald.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| shinynewbooks.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| drawingmatter.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| meatandoneveg.blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pluralistic.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tonysreadinglist.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bl.ag/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| wranglingintheantipodes.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.tryanphotos.com/tasmanian-modernism-blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| buildingourpast.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tristanlouthrobins.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| andershusa.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thehippiesnowwearblack.org.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| russelldavies.typepad.com/eggbaconchipsandbeans/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bookhaven.stanford.edu/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| architecturalcomment.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.readingsheffield.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| thomasguignard.photo/libraries | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ambientblog.net/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| socks-studio.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| buildingsofnewengland.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| disquiet.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.timboucher.ca/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| sarahwerner.net/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| municipaldreams.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.archiobjects.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ragpickinghistory.co.uk/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| archidose.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.popjustice.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.peterharrington.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.design-is-fine.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.designersandbooks.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| garagehangover.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.pablolarah.cl/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| matthewstrom.com/writing | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| josenaranja.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.casualoptimist.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| dru-withoutamap.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.presentandcorrect.com/blogs/blog | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| scientificillustration.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| kbbblog.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| jarango.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| veerle.duoh.com/design | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| placesjournal.org/?cn-reloaded=1 | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| scottboms.com/documenting/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.irenebrination.com/irenebrination_notes_on_a/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.pablolarah.cl/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thisiscolossal.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.spellingmistakescostlives.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.architectsjournal.co.uk/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.its-her-factory.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| skookworks.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| sb129.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.slicingupeyeballs.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| imjustcreative.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| journal.buzzusborne.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| oldstructures.nyc/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| juliabausenhardt.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| austinkleon.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thettablog.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.spongefile.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bldgblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| f0und0bjects.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| letterformarchive.org/news/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.core77.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.johncoulthart.com/feuilleton/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thespaces.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.architectural-review.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| noisydecentgraphics.typepad.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cmhb.de | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| postsecret.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| janeaudas.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| jennytrout.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.swiss-miss.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| longnow.org/ideas/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| hedgehogreview.com/web-features/thr | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.design-is-fine.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hermitary.com/around/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bethefuture.space | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| orgdesignfordesignorgs.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| smithery.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| captainawkward.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| graveyarddetective.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.spoon-tamago.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| shapersofthe80s.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| grandmawilliams.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mikedempsey.typepad.com/graphic_journey_blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.yankodesign.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| haptalaon.dreamwidth.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.underconsideration.com/brandnew/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| mototype.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thettablog.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| crazywalls.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mossandfog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| rootsofprogress.org/posts | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ayearinthecountry.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.classicfilmtvcafe.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thelondondead.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| smallworkshop.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jimcarroll.com/blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.overcomingbias.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.freerangekids.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.wemadethis.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| soif.org.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| paleofuture.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.cartoonbrew.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| sboots.ca/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| anthrodendum.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cwickham.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| futureprobe.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.artofthetitle.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/doctorwho | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/writersroom | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.wehuntedthemammoth.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.frockflicks.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.screenactionjazz.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| kk.org/thetechnium/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| freepartypeople.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thenextwavefutures.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.teachthefuture.org/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.andyhinesight.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jfsdigital.org/category/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| sohannabarberaesque.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cemeteryclub.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blast-o-rama.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.spoon-tamago.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| meaninglessinsights.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thiswayupzine.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| timworthington.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thewertzone.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bronhebog.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| kapowskireads.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| practical.engineering/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| minorliteratures.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| timesflowstemmed.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/strictlycomedancing | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.newshounds.us/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.hermitary.com/thatch/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| galacticjourney.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| gralefrit.weebly.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| steelonsand.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| isleofstoner.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| forgottentelevisiondrama.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| psychotronicpaul.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| 8pawsrailline.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.houstonforesight.org/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ocalicreek.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thestopbutton.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| wearecult.rocks/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| magpieandoldlead.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| scifiinterfaces.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| 30squaresofontario.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.antipope.org/charlie/blog-static/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| africasacountry.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| unnycoombelala.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.its-her-factory.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.dirtyfeed.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| carmensminiaturepainting.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| timworthington.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mrrminutiae.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| nevardmedia.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| paxton-road.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| emilygorcenski.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| philsworkbench.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| esngblog.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| timhalesblog.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| popularhistorybooks.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| averypublicsociologist.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.realityblurred.com/realitytv/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.petermerholz.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| site-of-curiosities.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.trekcore.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| analogue.gg | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| historyunfolding.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cdrom.ca/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.designersandbooks.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| observationalepidemiology.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.spellingmistakescostlives.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| gameboyessentials.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| tv-vcr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| conservativehome.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| iainplays.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| williamdavies.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| smallscaleworld.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| princestreet.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lilura1.blogspot.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| constitution-unit.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| hutnyk.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| arcadeblogger.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| easternmind.tumblr.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.lrb.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| southern-railway.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.middleagedfatkids.xyz | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| westhalton.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thebrushpainter.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| crpgaddict.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.minetest.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| advgamer.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| johnquiggin.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| freethoughtblogs.com/pharyngula/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.gamerdad.com/blog/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| gearsrealm.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hypertexthero.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bluerenga.blog/all-the-adventures/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| lunaticobscurity.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.blog.radiator.debacle.us/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.jordanmechner.com/en/latest-news/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.triple-aye.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.ikkaro.com/en/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| buried-treasure.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.aaiiintt.xyz/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mattgemmell.com/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| jrients.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.monbiot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| togelius.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.yellhole.com/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| situationnisteblog.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| coreyrobin.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| johnmenadue.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| noescapevg.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kimimithegameeatingshemonster.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.filfre.net/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| natgeofound.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| vaporwave-van-gogh.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| 70sscifiart.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| aegir.org | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| aaronland.info/orthis/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| migurski.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.rotational.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thisisnthappiness.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| strangeattractor.co.uk/news/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| jimmeruk.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| philebersole.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ephemeralenigmascom.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| wormwoodiana.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.onlineracedriver.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| hotvvheels.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.interfluidity.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| bluerenga.blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| voxsartoria.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.irisheconomy.ie/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| world.hey.com/tratt | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| monsterbrains.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brucesterling.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| alexwilson.tech/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| toomuchhorrorfiction.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bartlett.pro | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| arun.is/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.badgamehalloffame.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| genesistemple.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.gamesthatwerent.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| werd.io/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.otherstrangeness.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| birchtree.me/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| alongtheray.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| notes.annagoss.co/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| andrewdoran.uk/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.wurb.com/stack/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| critical-distance.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| epod.usra.edu/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bert.org | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bethefuture.space | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.maxfrequency.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kryogenix.org/days | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| benovermyer.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| distantarcade.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.benkuhn.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.bfoliver.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.nathalielawhead.com/candybox/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brajeshwar.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.rousette.org.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.sluggerotoole.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.lmorchard.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.raphkoster.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.blue-witch.co.uk/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| busterbenson.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| antharris.co/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| charlesharri.es | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| piszek.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dammit.nl/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bencrowder.net/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| clagnut.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| cdevroe.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.blckdgrd.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| chrisjones.io | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| atlasminor.com/journal | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.pentadact.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| davidsimon.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| speedbird.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dansinker.com/blog/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| qmacro.org/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.kindertrauma.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| babakfakhamzadeh.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| boston.conman.org/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| notebook.drmaciver.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| decafbad.net | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| de-online.co.uk | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| caterina.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| comicsworthreading.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| emilygorcenski.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| zachbarocas.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pulpcovers.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| alisonwilder.net/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| new.anti-mega.com/again/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.oblomovka.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ewen.io | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cabel.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.christopherfowler.co.uk/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ellie.wtf | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ethanmarcotte.com/wrote/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| declanbyrd.co.uk | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| daverupert.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| betweenthebars.org/blogs/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| digitalbydefault.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bowblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bookmaniac.org | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| danq.me/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thedysfunctionalworldof.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| gemmacope.land/writing/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| benjaminreinhardt.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| coxy.co | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| hans.gerwitz.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lbj20.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| evencleveland.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.conscienceround.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fberriman.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.chriscorrigan.com/parkinglot/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.dummies-for-destruction.co.uk/random/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hacdias.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.flutterby.net/Main_Page | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.cassandrapages.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| gilest.org/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| firstknownwhenlost.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| freshmud.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.grizzlebit.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| doubleloop.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dancullum.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| digyourfins.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| chriswiegman.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| powazek.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| docpop.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| emmas.site/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| chrisglass.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.blackphoebe.com/msjen | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fortlaufen.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dancohen.org/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.jeremiahlee.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blog.tobiasrevell.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fleeblewidget.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| irongeek.net | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| idiolect.org.uk/notes/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| holdfastprojects.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| abscond.org/posts/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| shepelavy.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| javier.computer | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| inessential.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| satyrs.eu/garden/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| someonesmumsays.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| jennifermillsnews.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.iamcal.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.joelotter.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.jimmybramlett.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| jason.nabein.me/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| laughingmeme.org/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| artlung.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| autisticjane.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thegirlinthechair.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.joehxblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| fiftyfootshadows.net/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.designswarm.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| i.never.nu/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.kickscondor.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| blog.ktamas.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| keningzhu.com/journal | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| infovore.org/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| jimmeruk.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bofh.org.uk/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.iainsinclair.org.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| podviaznikov.com/writings | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mariovillalobos.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lostfocus.de | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| lahosken.san-francisco.ca.us/new/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.jayeless.net | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mhurrell.co.uk/prospects/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| nielsenhayden.com/makinglight/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.netwert.com/ideapad | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| maya.land/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.mcqn.net/mcfilter/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| george08.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.jwz.org/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| write.as/matt/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| neuromantics.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thecontrarian.xyz | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.jemjabella.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.manton.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| marcel.io/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.lapsedordinary.net/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| lewisdale.dev/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.invisiblethemepark.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| sippey.medium.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| links.net/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.jeansnow.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.cassey.dev/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| natbuckley.co.uk/blog/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| kevinspencer.org/posts | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.somebits.com/weblog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| susan-stepney.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| archidose.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kimberlyhirsh.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| littlecottonrabbits.typepad.co.uk | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| manuelmoreale.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| swingleydev.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| styledeficit.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| lucybellwood.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.kaa.bz | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| memex.naughtons.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.ncase.me/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.hexkey.co.uk/lee/log/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| paulcapewell.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| nigeness.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mikelynch.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mygranddadiskeepingbusy.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| kelake.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.ohheybrian.com | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| nadreck.me | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mudge.name/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| maxbarry.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| odonnellweb.com/pelican | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.zenbaglady.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.extua.pw/blog/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ohhelloana.blog/posts/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| metagrrrl.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| p1k3.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.hyperorg.com/blogger/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| ma.tt/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pivic.blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| newsfromnorfolk.uk/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| alis.me | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.vanderwal.net/random/index.php | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| microkhan.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| vincode.io/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| paulrobertlloyd.com/articles/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| jeremybaker.nz | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.ldodds.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| multoghost.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ftrain.medium.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.pnarp.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| po-ru.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.hotelblues.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| eli.li/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| polytechnic.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.jonathancrowe.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| matthewsheret.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pig-monkey.com/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| sanguineroyal.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blog.mattedgar.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| noisydecentgraphics.typepad.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.tbray.org/ongoing/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| pixelesque.net/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mssv.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.nicolasnova.net/pasta-and-vinegar/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| v6.robweychert.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| scraplab.net/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ruk.ca/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| sheep.horse/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| notes.husk.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bluelander.bearblog.dev/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.orbific.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.riffraff.info | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| colly.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| starbreaker.org/blog | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.robinsloan.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| snarkmarket.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| scottnesbitt.online | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ilike.org.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| idlewords.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| robhinchcliffe.co.uk/blog.html | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| roytang.net/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| seandietrich.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| simply.joejenett.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| simone.computer/#/blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| postbureaucrat.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.splitbrain.org | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| petafloptimism.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.peterme.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dougbelshaw.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.minor9th.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| peteashton.com/writing/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| snook.ca/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| nicksweeney.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| stml.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.skrasser.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| richlyevocative.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| paulmiller.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| subpixel.space/entries/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.ratcatcher.org/page/1 | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| sidewalken.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| questionsconsidered.blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thejaymo.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| patintheworld.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thoughts.hnr.fyi/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wayne.conniptions.org/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| houseofkyle.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tomstu.art | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| russelldavies.typepad.com/planning/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.trueelena.org/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| shitty.blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thewhitepube.co.uk/blog/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| astickadogandaboxwithsomethinginit.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| notebook.wesleyac.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.symbolicforest.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| alicebartlett.co.uk/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| steamthing.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| timapple.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| veronique.ink/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.richardherring.com/warmingup/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ameyama.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| tomhume.org | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| suspendedreason.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.ribbonfarm.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ianbetteridge.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dracos.co.uk/wrote/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.thejaymo.net/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.gyford.com/phil/writing/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| blog.will-ellwood.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| thetwoterriers.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| asundayofliberty.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| rado.bg | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.sindark.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| vonexplaino.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| waituntilnextyear.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| warrenellis.ltd/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thewhitepube.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.zmh.org | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.aiweirdness.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| f0und0bjects.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| musicpresspantheon.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| futureheritage.wordpress.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.web-goddess.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| write.as/zampano/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| whygodwhy.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| reynoldsretro.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.bobbie.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lukesalamone.github.io/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.velcro-city.co.uk/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| simonreynoldsfavesunfaves.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hardlybaked2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thinkigekru2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blissout.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| shockandawesimonreynolds2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tristanlouthrobins.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ultracrepidarian.phfactor.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.retirementinvestingtoday.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.sparklytrainers.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| replicate.com/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| energyflashbysimonreynolds.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tracydurnell.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.evidenceinvestor.com/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| fabfourblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.beautifulpublicdata.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| latlong.blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| ckochis.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| zompist.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| retromaniabysimonreynolds.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.davidrumsey.com/blog | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mediajunkie.com/author/xian/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| togelius.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.windsortowncrier.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| a.wholelottanothing.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| leapfrog.nl/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.statsmapsnpix.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| winnielim.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| tedunderwood.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.zenaassaad.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| sexhealthmoneydeath.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| flowingdata.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| firevlondon.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| baileysbeerblog.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| monevator.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| googlemapsmania.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.trailspotting.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tandlemanbeerblog.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brewinabedsit.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brilliantmaps.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| writing.kemitchell.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mappinglondon.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bigthink.com/strange-maps/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| transitmap.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| balkin.blogspot.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dougmccune.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| armsandthelaw.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| keet.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.willhawkes.net/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.mrmoneymustache.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| millsfield.sfomuseum.org/blog | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| junkcharts.typepad.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| imagico.de/blog/en/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bankeronwheels.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| beerinsider.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| alhfam.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.maproomblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| financialmechanic.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.europebyrail.eu/european-rail-news-notes/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| kieranhealy.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| gshakan.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| abetterbeerblog427.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.pogowasright.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| aphilosopherwalks.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| stephanieevergreen.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| webdevlaw.uk/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| zythophile.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.timboucher.ca/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| lawandthemultiverse.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.loweringthebar.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| africasacountry.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| knowwhereconsulting.co.uk/giscussions/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| johnquiggin.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| melbourneontransit.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.niche-museums.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| timmcmahon.com.au/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.zeldman.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.stephenknightphotography.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thebeernut.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.freewheelingfrance.com/blog/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.caribbeansignal.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.penaddict.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.boakandbailey.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.taiwanquest.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| zakreviews.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| daringfireball.net/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| britishcoast.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pivic.blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| scrivenerserror.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| patentlyo.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.wellappointeddesk.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| piperhaywood.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| propertyintangible.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ridiculouslyinteresting.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tgreviews.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.scotusblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| taoofmac.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.belgiansmaak.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| verfassungsblog.de/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| victorianparis.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| constitutionallyspeaking.co.za/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.macrumors.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| initialcharge.net | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| scholars-stage.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.carryology.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.timac.org/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| flintlockandtomahawk.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| 512pixels.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| hypercritical.co | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mtlcityweblog.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| shapeof.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.david-smith.org/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| markstoneman.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| brooksreview.net | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| particulations.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| laststandonzombieisland.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| marco.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blogs.bl.uk/european/index.html | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| everydaycarry.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| balloonstodrones.com/articles/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| wristwatchreview.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| osxdaily.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blobthescientist.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| constitutionallyspeaking.co.za/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| knifesteelnerds.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.loc.gov/law/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| improvesomething.today | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| richardswsmith.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.patentlyapple.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| quomodocumque.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| greatwarfiction.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thetimebum.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| futuresoutheastasia.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.macstories.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| taylorjessen.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| zeroair.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| openobjects.org.uk | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.dreamweapons.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| davidallengreen.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theinvasionnetwork.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mjtsai.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.fluxblog.org/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| oldwax.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| archaicinventions.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| greek-metal-area.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| electronicorgy.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hushkit.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| left-and-to-the-back.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theperfumedgarden.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| airminded.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| josephbarulho.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| situationnisteblog.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| caiustheory.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| lucumr.pocoo.org/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.askamanager.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| corporalfrisk.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| austinmorlan.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.applemust.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| akselmo.dev | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| sixcolors.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| colinmorris.github.io | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blackhandinn2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| slab.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| brettterpstra.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.thelrm.org/blog | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| danielmangum.com/posts/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| matt.sh/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.windytan.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dieordiy2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bonfirenetworks.org/blog/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| therealadam.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ectobit.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.nuclearsecrecy.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.djmannion.net | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.jlcarveth.dev | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.saidthegramophone.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| warandsecurity.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| offby1.website/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| evertpot.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ianbicking.org/blog/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.harihareswara.net | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| psychogeographicreview.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| edds.me/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| qmacro.org/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| bylr.info/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| worldsworstrecords.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bower.sh | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.adamchalmers.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.malgregator.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mondaynote.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fasterthanli.me | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| soul-sides.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.computationalcomplexity.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| inessential.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| jerrynsh.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| erikbern.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| leancrew.com/all-this/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| incoherency.co.uk/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| drewdevault.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.calnewport.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.devever.net/~hl/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.david-smith.org/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| coastalwalker.co.uk/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| iliana.fyi/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| cabeda.dev | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.hillelwayne.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.linusakesson.net/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| jvns.ca/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| learnbyexample.github.io/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.lkhrs.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cheeaun.com/blog/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| pachulski.me | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ktheory.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| justinnoel.dev | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| suhas.org/posts/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| ljvmiranda921.github.io | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lewisdale.dev/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| paul.totterman.name | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mudge.name/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brooker.co.za/blog/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.hughrundle.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.mattkeeter.com/blog/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blog.mocoso.co.uk/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thejavaguy.org | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.ploeh.dk/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| vickiboykis.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.swiftjectivec.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| joy.recurse.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| soup.agnescameron.info/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| kevquirk.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| journal.paoloamoroso.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| soatok.blog/b/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| martinheinz.dev/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tomarmitage.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blog.wesleyac.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.swiftbysundell.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.triple-aye.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| yasha.solutions | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| chriswiegman.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| beyermatthias.de | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| xeiaso.net/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| macwright.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| procedural-generation.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| seirdy.one/posts/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| t-ravis.com/room/post/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| andypiper.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| austintownhall.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| laurelsplutoblog.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dreamsofspace.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.scottericpetersen.com/writing/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| serhack.me | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| zignar.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.suffix.be/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| zserge.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| projects.kevinandersen.dk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| phoenixtrap.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| wcedmisten.fyi | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.yieldcode.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| manyworlds.space/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theheatwarps.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| stratus3d.com/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| whoo.ps/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| samestuffdifferentday.net | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ronjeffries.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| lambdacreate.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.skrasser.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.writefreely.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| til.simonwillison.net/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| optional.is/required/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wediscover.space/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| reckart.blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mjtsai.com/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| movieos.org/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| apod.nasa.gov/apod/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| astroblogger.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| youssefbouzekri.vercel.app/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| moviecrashcourse.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.centauri-dreams.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| nonhumanagency.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| publictransitanalytics.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| lightfrom.space/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| uncle-rods.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| remanzacco.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.thespacereview.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.duluthnewstribune.com/lifestyle/astro-bob | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| thejeshgn.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| spaceflighthistory.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| flyingsinger.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| antimatter.ie/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thousandmovieproject.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.universetoday.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.shogan.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| caltrain-hsr.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| pnaerc.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| simeyeveritt.wixsite.com/brapa/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| capntransit.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| beachburg.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| crpgaddict.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| ecmreviews.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| storeboughtisfineblog.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| projectswordtoys.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| melbourneontransit.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| transitmap.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| accidentalwoodworker.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.geocities.institute/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| smallworkshop.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| transitsleuth.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cheapskatesguide.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| waxy.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| erinkissane.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.cjcid.com | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.wanderingspace.info/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| nnw.ranchero.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bluerenga.blog/all-the-adventures/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| thetrolleydodger.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| advgamer.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thespacewriter.com/wp/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thevalleywoodworker.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| starinastar.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| boat.karlnelson.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| crowlspace.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| nintil.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theunconventionalgardener.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.londonreconnections.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thebeautyoftransport.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| 4gravitons.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| abakcus.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| journeymansjournel.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ciechanow.ski | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wpatrickedwards.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| toolsforworkingwood.com/store/blog/joel/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.newthingsunderthesun.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| paulsellers.com/woodworking-blog/paul-sellers-blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| princestreet.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| literaryworkshop.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| workingbyhand.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| reprog.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| lukebennett13.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theapartmentwoodworker.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| busandtrainuser.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.lostartpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| watered-down-physics.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| scytheassociation.org/#latestnews | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| joeswoodworkingjourney.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.drewexmachina.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mindhacks.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.airlinereporter.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.quantamagazine.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| humantransit.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| pedestrianobservations.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| offgrid-woodbutcher.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.sandwichtribunal.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| asymptotia.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| greenshadediary.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.math.columbia.edu/~woit/wordpress/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| backreaction.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| fagerjord.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| davidffisher.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| slimemoldtimemold.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.theenglishwoodworker.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.traingeek.ca/wp/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| adamapples.blogspot.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| ibuildit.ca/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.danielbowen.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.geepawhill.org/weekly/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| magculture.com/blogs/journal | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.leonarddavid.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thinking-about-science.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| greenbriarpictureshows.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| scottaaronson.blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| johncarlosbaez.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pegsandtails.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.montydon.com/tips-and-advice | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| rachel-the-gardener.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.antipope.org/charlie/blog-static/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.classicfilmtvcafe.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| laurasmiscmusings.blogspot.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ladyevesreellife.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| singularityhub.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thonyc.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| gregalder.com/yardposts/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.realmensow.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| statmodeling.stat.columbia.edu/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.screenactionjazz.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| nzpetesmatteshot.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.newspaperclub.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.woodlifestudio.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| datacolada.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| clamba.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| theunconventionalgardener.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| nwn.blogs.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.outofthepastblog.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| kenmacleod.blogspot.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| jimpurbrick.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| amechanicalart.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hugoclub.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wirehaiku.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thewertzone.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| 70sscifiart.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hollywoodrevue.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.byhandandeye.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| magforum.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| classicsofsciencefiction.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.archive.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| apod.nasa.gov/apod/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| p1k3.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| silverscreenings.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/blogs/writersroom | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| techknitting.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| sfss.space | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.stackmagazines.com/editorial/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| eliotpeper.com/blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| mporcius.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www3.bostonglobe.com/news/bigpicture/?arc404=true | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| galacticjourney.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.aldrovanda.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| nodighome.com/blog-posts/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| seekingstars.tumblr.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| christopherlbennett.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.adamynyrardd.cymru/en/blog-en/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| voyagesextraordinaires.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thelastdrivein.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| retractionwatch.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| radiojayallen.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.timetestedtools.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.theguardian.com/artanddesign/series/mybestshot | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| sciencefictionruminations.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| abandoned.photos/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.allencompassingtrip.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| aphascience.blog.gov.uk/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| gwynethllewelyn.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mynameismwd.org/posts/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| littlecottonrabbits.typepad.co.uk | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.eff.org/deeplinks | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| disoriented.net/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| shadowsandsatin.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| joshwithers.blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| lightfrom.space/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| leancrew.com/all-this/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| jessieathome.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| notstatschat.rbind.io/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thehistoryofparliament.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| reldn.co.uk/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| deaneyang.github.io/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| pluralistic.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dansblog.netlify.app/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| beautyofmathematics.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| accessibility.blog.gov.uk/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| leoniewise.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| photos.raygrasso.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.maurits.ch | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| 11011110.github.io/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.greencaltrain.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mathspp.com/blog | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.simongriffee.com/notebook/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| skeetmotis.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| frishmanphoto.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ace.blog.gov.uk/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.tryanphotos.com/tasmanian-modernism-blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.kevuhnn.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thomasguignard.photo/libraries | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.computationalcomplexity.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.raphkoster.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.yulingyao.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.jimgrey.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| livefreeordichotomize.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| landreville.blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| abakcus.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.tor.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| pbelmans.ncag.info/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| anuragbishnoi.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.sharonlohr.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| Duncan.co | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| notawfulandboring.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| m-phi.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| golem.ph.utexas.edu/category/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| rjlipton.wpcomstaging.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| silentfilmlivemusic.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| silverscenesblog.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| gilkalai.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cavmaths.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| girlsangle.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| junkcharts.typepad.com/numbersruleyourworld/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| errorstatistics.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| silverscenesblog.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hometownstohollywood.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| rarehistoricalphotos.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.shorpy.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brianevansphoto.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| silentlondon.co.uk | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bethsbobbins.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| alabamayesterdays.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| melbourneblogger.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| quomodocumque.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| igorpak.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| moviessilently.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cinematica.ourpatioparty.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| peoplevsarbuckle.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| grandoldmovies.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.blackphoebe.com/msjen | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.strangehistory.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| xenaproject.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| xianblog.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| silentlocations.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| gshakan.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| airminded.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fastestslowguy.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| flintlockandtomahawk.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lincolnmullen.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| graveyarddetective.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.johndcook.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| terrytao.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jdh.hamkins.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| saesferd.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.statschat.org.nz/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| imagesofoldhawaii.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mikedashhistory.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| analog-antiquarian.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| markstoneman.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| silentology.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.inthemedievalmiddle.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| popularhistorybooks.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.galoisrepresentations.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| brian-sandberg.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.traingeek.ca/wp/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| historyunfolding.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| distillatio.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.science.org/blogs/pipeline | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| atthepictures.photo.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blogs.bl.uk/digitisedmanuscripts/index.html?_ga=2.256902159.588237997.1495240971-1073214118.1495240940 | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| paleofuture.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.bookandsword.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| historyofknowledge.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| historicalragbag.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| s-usih.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| acoup.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| billpetro.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| earlymodernnotes.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thehistoryofparliament.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.olddeptfordhistory.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dralun.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.leidenmedievalistsblog.nl/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mssprovenance.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| publicdomainreview.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lookup.london/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| markgelbart.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.weirduniverse.net | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| annaworden.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.vintag.es/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| scholars-stage.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| hatfulofhistory.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| riowang.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| retroist.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| strangeflowers.wordpress.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| secondglancehistory.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| aelarsen.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| londonhistorians.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lancashirepast.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theinvasionnetwork.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.england.nhs.uk/blogs/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.edwardianpromenade.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.teesche.com/blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| wearethemutants.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| livinglondonhistory.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| voyagesextraordinaires.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| run161.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thonyc.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.auditorymusings.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| victorianparis.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.labrujulaverde.com/en/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mariocarrion.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| petefrost.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| dralun.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.janetgyford.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bestpartday.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/blogs/acrosstheline | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.evidentlycochrane.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| vassifer.blogs.com/alexinnyc/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.bbc.co.uk/blogs/introducing | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.specialneedsjungle.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| slab.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| go-feet.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cardrossmaniac2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.breakfastandtravelupdates.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| blog.chrisrowbury.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.lazygirlrunning.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.synthtopia.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| talesoftimesforgotten.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| fogsongs.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dangerousminds.net/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| onceuponatimeinthevest.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.scottericpetersen.com/writing/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| doomandgloomfromthetomb.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| breakingmorewaves.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| hardlybaked2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| thequietus.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.secretdesihistory.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| whatsheonaboutnow.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| banbantonton.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mccookerybook.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dgmlive.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| minutestomidnight.co.uk/blog/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| history-is-made-at-night.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.bbc.co.uk/blogs/eurovision | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.thehistoryblog.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| eqmusicblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.spongefile.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| meaninglessinsights.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| listenofthe.day | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| itstartswithabirthstone.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| 8sided.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| likepunkneverhappened.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| rarehistoricalphotos.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| globalvariables.net/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| runswiththedug.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| darrensmusicblog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| freakytrigger.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.synthanatomy.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jasonpreu.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.plengegen.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| oneman1001albums2.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.stevehuffphoto.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.nationalelfservice.net/mental-health/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| 333sound.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.simonpanrucker.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| onetwoxu.de/language/en/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| trailrunningforlife.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| greilmarcus.net/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.ravensingstheblues.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.edwardseckerson.biz/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| streamsofexpression.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.shindig-magazine.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| largeheartedboy.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.dcrainmaker.com/blog | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cdm.link/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| timworthington.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| livesrunning.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| adamj.eu/tech/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.virology.ws/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| railsnotes.xyz | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| sweepingthenation.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.laravel.com | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| stlenox.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| psychotronicpaul.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| brandur.org/articles | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| thiswayupzine.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.gorillavsbear.net/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| zmacx.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| gloriousnoise.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| sarahwerner.net/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| james.brooks.page/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| dusted.codes | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.rockandnull.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.patrickdap.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| yrheartout.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| palletsprojects.com/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| bryce.vc/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| php.watch/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| yuanchuan.dev | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| spapas.github.io/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| avc.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thesavvydiabetic.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| thenumb.at | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| momentsingraphics.de/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| mattsegal.dev/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| plainlyandpainfully.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| librearts.org | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| spinemagazine.co/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| causticcovercritic.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| amyhupe.co.uk/articles/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| disquiet.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| grillopress.github.io/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| wearecult.rocks/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.theoinglis.co.uk/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.b-list.org/weblog/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| thebluemoment.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.tonmeister.ca/wordpress/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| conservativehome.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| robinthefog.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| airbagindustries.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.hoverstat.es/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| bartwronski.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pixelesque.net/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| johnsonsrambler.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| blog.writefreely.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| iwilldare.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.kooslooijesteijn.net | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| tomcritchlow.com/writing/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.thesquirepresents.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| flophousemagazine.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| merseypub.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.jarretthousenorth.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.amygoodchild.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| lancashirepast.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| brendandawes.com/blog | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| clamba.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.thevpme.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thehazeltree.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.screenactionjazz.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| log.kradeelav.com | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| wyrdbritain.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| simonschreibt.de/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| busandtrainuser.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| stamen.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| coastalwalker.co.uk/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ayearinthecountry.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ecmreviews.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| scarfolk.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.fwrarejazzvinylcollector.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| literarybritain.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| devonzuegel.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| sampleface.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| williamdavies.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| impressionsofvince.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| jetreidliterary.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| literaticat.tumblr.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| publishedtodeath.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bryan.medium.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| webdevlaw.uk/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.sluggerotoole.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theheatwarps.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| stopdesign.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| postabdn.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| optional.is/required/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| cornersideyard.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.sagoodnews.co.za/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| britishcoast.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| shapersofthe80s.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jerryjazzmusician.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| thenewenglishlandscape.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| tenminutespastdeadline.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.janetgyford.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| barthsnotes.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| pulpcovers.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| raggywaltz.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bothsidesofthetable.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| londonjazzcollector.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| freepartypeople.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.publishersweekly.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.giventotri.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| eastofelveden.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.windsortowncrier.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| jazzcollector.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| swoleateveryheight.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.strongtowns.org/journal/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| writerbeware.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bicycledutch.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| loudpoet.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| publishingperspectives.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| v21.io/blog/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.granolashotgun.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.publishingtrends.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.jazzwax.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| worldsinminiature.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| cityofsound.medium.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| andy-bell.co.uk/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| cwickham.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| dgmono.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| blog.zarfhome.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| annualbeta.com/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| brucefnesmith.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.aaron-gustafson.com/notebook/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| adactio.com/links | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| jonsmalldon.wordpress.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| ggwash.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| bitsofco.de/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| futuresoutheastasia.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| arseblog.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| meangreennation.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| adactio.com/journal/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.playthepast.org/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.janefriedman.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.rjohnthebad.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| blognomic.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| lukebennett13.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| davidallengreen.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| bryanlrobinson.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.cassie.codes/writing/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ericwbailey.design/published/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| emshort.blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| uxknowledgebase.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| janestuart.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| justmarkup.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.bram.us/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| streets.mn/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| sarajoy.dev/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| remysharp.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| bwtas.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.ethanhein.com/wp/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| citymonitor.ai/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| placesjournal.org/?cn-reloaded=1 | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| clagnut.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ryanmulligan.dev/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| nerdy.dev/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| impossiblehq.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| saneef.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| profootballtalk.nbcsports.com/fmia | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| css-irl.info/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| nolanlawson.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| lisilinhart.info/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| laurakalbag.com/posts/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| cathydutton.co.uk/posts/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| darn.es/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| ctproduced.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.sarasoueidan.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| adrianroselli.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.fraknoi.com/my-blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.joshwcomeau.com/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| hidde.blog/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| helloyes.dev/blog/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.roads.org.uk/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| yuanchuan.dev | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| gomakethings.com/articles/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.matuzo.at/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| lynnandtonic.com/thoughts/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| accessibility.blog.gov.uk/ | rss ❌ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| oilpressure.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| chenhuijing.com/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blog.jim-nielsen.com/ | rss ✅ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| cloudfour.com/thinks/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.stefanjudis.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| una.im/blog/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| keithjgrant.com | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.matuzo.at/blog/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| css-tricks.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| chrisburnell.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| playrface.co.uk/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| overreacted.io/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| meowni.ca/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.miriamsuzanne.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| sia.codes/posts/ | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.zachleat.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.smashingmagazine.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| matthiasott.com/articles | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| piccalil.li/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| fantasticanachronism.com/ | rss ❌ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bradfrost.com/blog/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| blog.logrocket.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| taleofpainters.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.cold-takes.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| amyhupe.co.uk/articles/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| ohhelloana.blog/posts/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| daily-philosophy.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| m-phi.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.pylonofthemonth.org/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.davidralphlewis.co.uk | rss ❌ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| petefrost.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.inthecheapseats.co.uk/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.coppolacomment.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| iangmcdowell.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| edwardfeser.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| mainlymacro.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| schwitzsplinters.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| marginalrevolution.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| conversableeconomist.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| mindos.in | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.irisheconomy.ie/ | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| steelonsand.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.theurbanist.org | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jrients.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.swyx.io/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| magpieandoldlead.blogspot.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| eliotpeper.com/blog | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ❌ | 
-
-| www.josephamccullough.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| theotherside.timsbrannan.com | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| bluelabyrinths.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| jlwagner.net/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| errorstatistics.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| leiterreports.typepad.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| stumblingandmumbling.typepad.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| timharford.com/article/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| www.travelwritingworld.com | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| uneasymoney.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.themarginalian.org/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| aphilosopherwalks.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| econbrowser.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.econlib.org/econlog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| austinkleon.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| electricliterature.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| preterite.net/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.chicagoskirmishwargames.com/blog/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ✅ | 
-
-| www.cobblerandbard.com/blog/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.notebookstories.com/ | rss ✅ | opengraph ❌ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| asuffolklane.wordpress.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| aestheticsforbirds.com/ | rss ✅ | opengraph ✅ | html5_article ✅ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
-| www.tabletenniscoaching.com/blog | rss ❌ | opengraph ❌ | html5_article ❌ | html_subsection ❌ | aria ❌ | aria_label ❌ | aria_description ❌ | sitemap ❌ | 
-
-| uni-watch.com/ | rss ✅ | opengraph ✅ | html5_article ❌ | html_subsection ❌ | aria ✅ | aria_label ✅ | aria_description ❌ | sitemap ✅ | 
-
+| site | rss | opengraph | html5_article | html_subsection | aria | aria_label | aria_description | sitemap | 
+|--|--|--|---------------|-----------------|------|------------|------------------|---------|
+| ooh.directory |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| investorschronicle.co.uk |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| financialpost.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fortune.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| cen.acs.org |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| firstthings.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| fd.nl |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| hbr.org |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| foreignpolicy.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| speld.nl |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| elpais.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| fnlondon.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| demorgen.be |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tijd.be |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| grubstreet.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| glassdoor.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| denverpost.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ilmessaggero.it |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| volkskrant.nl |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| centralwesterndaily.com.au |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| elmundo.es |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| editorialedomani.it |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| humo.be |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lastampa.it |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| groene.nl |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| globes.co.il |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| historyextra.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| medium.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| dynamed.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lavoixdunord.fr |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| lecho.be |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| caixinglobal.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bostonglobe.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| harpers.org |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| haaretz.com |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| barrons.com |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| repubblica.it |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| interest.co.nz |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| genomeweb.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| hbrchina.org |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| adweek.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| examiner.com.au |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ambito.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| technologyreview.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ft.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| haaretz.co.il |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| americanbanker.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| inc.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ilmanifesto.it |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| expansion.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| labusinessjournal.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| corriere.it |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bloomberg.com |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| britannica.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| nationalpost.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| latercera.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| elu24.ee |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ledevoir.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| estadao.com.br |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| businessinsider.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lesechos.fr |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| seekingalpha.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| leparisien.fr |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| nymag.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| quora.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| loebclassics.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| medscape.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| qz.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lanacion.com.ar |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| nzz.ch |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| chicagotribune.com |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| ocregister.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| df.cl |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| nrc.nl |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| parool.nl |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bloombergquint.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| time.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| telegraaf.nl |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| nationalgeographic.com |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mv-voice.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| sloanreview.mit.edu |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| slate.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| lrb.co.uk |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mexiconewsdaily.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| heraldsun.com.au |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| sofrep.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thediplomat.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| stuff.co.nz |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| scientificamerican.com |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| sfchronicle.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| paloaltoonline.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| latimes.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| nzherald.co.nz |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| thecut.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bizjournals.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| postimees.ee |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mercurynews.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| the-american-interest.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| reuters.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| theathletic.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thehindu.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thecourier.com.au |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| canberratimes.com.au |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theherald.com.au |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| newstatesman.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theadvocate.com.au |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| irishtimes.com |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| economist.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ntnews.com.au |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theathletic.co.uk |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thestar.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theglobeandmail.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| themarker.com |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| the-tls.co.uk |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cartype.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| couriermail.com.au |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| statista.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| spectator.us |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| sandiegouniontribune.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thenation.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| vintagehomeplans.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| news-gazette.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mcmansionhell.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| japantimes.co.jp |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.bitsaboutmoney.com/archive/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.annashipman.co.uk/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| nytimes.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| cabinporn.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hotvvheels.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| telegraph.co.uk |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| trouw.nl |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| inquirer.com |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| spectator.co.uk |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| spectator.com.au |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| adelaidenow.com.au |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dailytelegraph.com.au |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theaustralian.com.au |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thewrap.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mckerlie.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| techinasia.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| almad.blog |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.wowhaus.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| journalnow.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| vulture.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| erikbern.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wsj.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| oilpressure.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thesaturdaypaper.com.au |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| therealadam.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| not2grand.co.uk/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kansascity.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| towardsdatascience.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lethain.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| noidea.dog/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| themercury.com.au |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| kellanem.com/notes/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| johnquiggin.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| startribune.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.rubick.com/posts/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.tatianamac.com/writing |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.conscienceround.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| newyorker.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mappiman.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| severedheadsopenminds.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| josephbarulho.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| simeyeveritt.wixsite.com/brapa/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| benrmatthews.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| merseypub.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blackhandinn2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| greek-metal-area.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wired.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| critter.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| vanityfair.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| arsoncafe.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| realpubsuk.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| filmandfurniture.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| zeit.de |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| edithsstreets.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jessitron.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| hatemeditations.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.oldhousedreams.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| closedpubs.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.whoatowow.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thedeathchamber.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| carolineld.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| diamondgeezer.blogspot.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.willhawkes.net/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.londonremembers.com/memorials |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| pubcurmudgeon.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| seattletimes.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| micropubadventures.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| londonist.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| orgdesignfordesignorgs.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| flickeringlamps.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thelondondead.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| metalsucks.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| reldn.co.uk/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thelostbyway.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.boakandbailey.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| livinglondonhistory.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| greatwen.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mappinglondon.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.iainsinclair.org.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| vn.nl |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.geepawhill.org/weekly/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| retiredmartin.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dantheclamman.blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| janestuart.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.davidrevoy.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.lazaruscorporation.co.uk/blogs/artists-notebook |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.peterberthoud.co.uk/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| solarpunks.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cemeteryclub.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| deserter.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cloudappreciationsociety.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| wasmoke.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| alondoninheritance.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brendandawes.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| booktwo.org/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| pickyglutton.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lookup.london/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.sightunseen.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| melbourneblogger.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| londonhistorians.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dulltooldimbulb.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.amygoodchild.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| jamesrussellontheweb.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| creativeramblings.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ianvisits.co.uk/articles/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| footprintsoflondon.com/live/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.thisiscolossal.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.londonology.co.uk/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| wansteadmeteo.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| gurneyjourney.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.cabbieblog.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| drawingmatter.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| reviewdonkey.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.londonreconnections.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thewhitepube.co.uk/blog/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| toshareproject.it/artmakerblog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| some-landscapes.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| publicdomainreview.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blogs.agu.org/wildwildscience/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.contemporaryartdaily.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| v21.io/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| peternencini.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.schliefkevision.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.realclimate.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.fromthemurkydepths.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jonathangriffin.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| we-make-money-not-art.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| frompyrgos.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| socks-studio.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bitterteaandmystery.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thewhitepube.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| boisdejasmin.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| log.kradeelav.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| houseofmysticum.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.andreagrandi.it |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| biketype.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| hynek.me/articles/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.cassandrapages.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| moonlight-detective.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| new.pythonforengineers.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| kafkaesqueblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| snarky.ca/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| palletsprojects.com/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.johncoulthart.com/feuilleton/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| prettysinister.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.petermerholz.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| nstperfume.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.freewheelingfrance.com/blog/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| dougmccune.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| alliamaredhead.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| yasoob.me/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.aaronland.info/weblog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| theblacknarcissus.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.rockandnull.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kurtmckee.org/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| simonwillison.net/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| themanfromicon.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| coastkid.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.doodlersanonymous.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| undina.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| anderegg.ca |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| annoying.technology |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| donherron.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thescentedhound.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| reinout.vanrees.org/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.autodidacts.io/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| linesandcolors.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mathspp.com/blog |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.mrripleysenchantedbooks.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| spywrite.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.tomayac.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bikepacking.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.b-list.org/weblog/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| greg.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| interconnected.org/home/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.danielsroka.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| gunther.link |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cennydd.com/writing |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blog.kevmo314.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| algopop.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| gru.gq/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| tomsbiketrip.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| multoghost.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| davidmytton.blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| emilygorcenski.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.ben-evans.com/benedictevans/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| bicycledutch.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| crossexaminingcrime.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| conway.scot |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.eff.org/deeplinks |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kryogenix.org/days |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| chriscoyier.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| asadrahman.io/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| open-innovations.org/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| blog.seanbonner.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| marcolabarile.me/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| matthewbischoff.com |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| nadia.xyz/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| kevincox.ca/posts/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| takeonethingoff.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| booktwo.org/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| clivethompson.medium.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| writing.kemitchell.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.holovaty.com/writing/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.dcrainmaker.com/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.criminalelement.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cadence.moe/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| djangoandy.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.chrbutler.com/essays |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.masswerk.at/nowgobang/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| headey.net/writing |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.jpaul.me |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| scholz.ruhr/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mcall.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| v21.io/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.oliverpalmer.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| biketoeverything.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| rjlipton.wpcomstaging.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mariusmasalar.me/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.jonudell.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ploum.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.jameswarrick.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| sun-sentinel.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| new-aesthetic.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| sallylait.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| hackaday.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.zsec.uk |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.xythobuz.de |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| jcs.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| meyerweb.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.researchbuzz.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.oreilly.com/radar/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thewavingcat.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.gwern.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| olu.online/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| opensourcemusings.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| morrick.me |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| adventuresinparn.blogspot.com/?zx=fdc7c75491a9a92e |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.zephoria.org/thoughts/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| kelvingreen.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.spookyrusty.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.cringely.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| shkspr.mobi/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| profesnpc.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| direbane.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| we-make-money-not-art.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| eldri.tech/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jakearchibald.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| numbered.works/notes |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| pxlnv.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| save.vs.totalpartykill.ca |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| retrofun.pl |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dev.37signals.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| tenfootpole.org/ironspike/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.codingwithjesse.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.failuretolerated.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thealexandrian.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.globalnerdy.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.nextbigfuture.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theoverspill.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dreamsinthelichhouse.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| aestheticsforbirds.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| simonwillison.net/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| heydonworks.com/latest/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| stratechery.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.lloydatkinson.net/articles/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| kinduff.com/blog |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| slyflourish.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.lambrospetrou.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| kurtmckee.org/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.schneier.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dndwithpornstars.blogspot.com/?zx=4719c95a41276b9e |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| nyanpasu64.gitlab.io/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| scastiel.dev |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| 2ality.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| rolltop-indigo.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hedgehogreview.com/web-features/thr |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| jordemort.dev/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| rachsmith.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| swizec.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.tatianamac.com/writing |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| robbowen.digital/writing |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| seldo.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| haikushane.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.robinrendle.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| localghost.dev/blog |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| zettelkasten.de |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.content-technologist.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| levellers.blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.aldrovanda.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| pandasthumb.org/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| theolivepress.es |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.amitmerchant.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jessitron.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| goblinshenchman.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| rolandtanglao.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| throneofsalt.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.southernrockiesnatureblog.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| pluralistic.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fossilhuntress.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| natural-history-journal.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thehazeltree.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| livingwithmachines.ac.uk/latest/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| clintmcmahon.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| foragerchef.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| aphascience.blog.gov.uk/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ramblingsofanaturalist.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| perfumeshrine.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| misswondersmith.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| arsludi.lamemage.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.sciencebase.com/science-blog |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| quoteinvestigator.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.homesicktexan.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tetzoo.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| julian-hoffman.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| foodinjars.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| podnews.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| minimalistbaker.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bbc.co.uk/blogs/natureuk |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| honest-food.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thepassingtramp.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bubbaone.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.the-pasta-project.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.indiegamereadingclub.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| medium.learningbyshipping.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thenordickitchen.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| algopop.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| fastestslowguy.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cupofjo.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.theartofdoingstuff.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| susannahbreslin.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| brr.fyi/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.peterberthoud.co.uk/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| anthrodendum.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| neural.it/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| wearethemutants.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| svpow.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.3ammagazine.com/3am/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.spectrecollie.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| stephenbodio.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.mexicanplease.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.goatorama.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hiewandboardgames.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| urbanflyfisher.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| stationery.pizza/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| projectswordtoys.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| petharmonytraining.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| mass.streetsblog.org |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| btrussell-fishingthroughlife.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theriverbeat.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.hipstersofthecoast.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ordinaryangler.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| handeaux.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| digicult.it/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kidsbricks.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| balkin.blogspot.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.indybay.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| calamitymn.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.justonecookbook.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| imagesofoldhawaii.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brooksandbecks.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bureboyblog.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| s-usih.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| adventureite.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| storeboughtisfineblog.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| wasmoke.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wormwoodiana.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ikkaro.com/en/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mossandfog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fastestslowguy.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| strollerparking.ca/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| magicaltrash.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tolkienandfantasy.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tomcritchlow.com/writing/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ephemeralnewyork.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kk.org/cooltools/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.nomadicnotes.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| alabamayesterdays.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| jamesthespecimenhunter.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.breakfastandtravelupdates.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| caltrain-hsr.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.freewheelingfrance.com/blog/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.gnufmuffin.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| markgelbart.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| baileysbeerblog.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.theuntourists.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ggwash.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mellovestravels.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.noise.pictures/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| sinclairtrails.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| disoriented.net/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| aeon.co/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.ramenramenramen.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.scoutingmagazine.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.flowjournal.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bangkokglutton.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tomblomfield.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| apilgriminnarnia.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| riowang.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.cakewrecks.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| adamapples.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| rethinkingathletics.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.datadeluge.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.sandwichtribunal.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.packing-up-the-pieces.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.everydaycommentary.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| oldstructures.nyc/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.atlasobscura.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| robm.me.uk/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| driftingclouds.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| streets.mn/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| stratechery.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ourincrediblejourney.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| goodstuff.simonpanrucker.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| randomwire.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| rottenmenu.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.thingsmagazine.net/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| sippey.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.travelwritingworld.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| solar.lowtechmagazine.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tomsbiketrip.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.scotusblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.theimpulsivebuy.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thecommontable.eu/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| 1000awesomethings.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| meately.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| corvusfugit.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.neatorama.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| onepointzero.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| defiantsloth.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| followmehere.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kottke.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.onfocus.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.grubbits.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thekidshouldseethis.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| pudding.cool/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| laughingsquid.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.seat31b.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tywkiwdbi.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.adventurouskate.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| web3isgoinggreat.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| webcurios.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| disneyparks.disney.go.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.typewolf.com/blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| cartype.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.somebits.com/linkblog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| vitalik.ca |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| crookedtimber.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.foodpolitics.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| biketype.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thewoksoflife.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| randsinrepose.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| desertcanyonfarm.wpcomstaging.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| serhack.me |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pmags.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| electricflapjack.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| ultimatemaitai.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mototype.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.dignityusa.org/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| fretscience.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fontsinuse.com/blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| onefoottsunami.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hazeguitars.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| guitar-maker.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| lincolnmullen.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| lblutherie.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.mollywhite.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.retailinsider.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.hellbox.co.uk |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.tomsandsguitars.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| billfortney.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| woodwithstrings.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| jayhulme.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| wavesofdevotion.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| isthatinthebible.wordpress.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bythom.com/newsviews/index.html |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| iestynedwards.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theblockchainsocialist.com/category/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| typographica.org |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.newsfromme.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thewanderinglensman.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.borninspace.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| craigmod.com/essays/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.stephenknightphotography.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fogblog-hermansheephouse.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| onlinedarkroom.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.guitarpedalx.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.messynessychic.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| davidgerard.co.uk/blockchain/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| peterwebster.me/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.thisiscolossal.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.newwaysministry.org/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| waitbutwhy.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tantek.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.outsidetheworld.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blogs.loc.gov/loc/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| iconicphotos.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thesimplecatholic.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| chitareconcert.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.abiggercamera.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| matt.pictures/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mysteryfile.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| glasgowtheatreblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| breaking-the-fourth-wall.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.eastlondonlines.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| alifeinphotography.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.austinmann.com/trek |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| partially-obstructed-view.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theatrecat.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| krishallett.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theonlinephotographer.typepad.com/the_online_photographer/blog_index.html |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.timemachinego.com/linkmachinego/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| peckhampeculiar.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.rewritethisstory.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theplaysthethinguk.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.mrussellphotography.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.sierz.co.uk/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| visualsciencelab.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theblogoftheatrethings.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thefamilymuseum.co.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| deptforddame.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cphmag.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| loureviews.blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.alledinburghtheatre.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| brixtonblog.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| longdelayspossible.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| wildcornerz.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.foblc.org.uk/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| charltonchampion.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| aphotoeditor.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.siennaeggler.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| 2ndfrombottom.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.sierz.co.uk/reviews/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.alex-kunz.com/weblog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| oughttobeclowns.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| enchantedprose.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| transpont.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| furrowedmiddlebrow.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| viewfromthecheapseat.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| spitalfieldslife.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| fiftyfootshadows.net/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| pleasemindtheblog.wordpress.com/blog-posts/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.olddeptfordhistory.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| lizoksbooks.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| shentonstage.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| maryamphilpottblog.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| isleofdogslife.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| russiandinosaur.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wutheringexpectations.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| disassociated.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| musicaltheatrereview.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| this-space.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wansteadmeteo.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thelithole.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| 853.london/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| feelinglistless.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| handprinted.co.uk/blogs/blog |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| shereadsnovels.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bbc.co.uk/blogs/doctorwho |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/acrosstheline |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/bbcmediaaction |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/introducing |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/writersroom |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/natureuk |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| hiewandboardgames.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| greatwarfiction.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.openculture.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| iheartsapphfic.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| simonparrismaninchair.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bbc.co.uk/blogs/mediaactioninsight |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/internet |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| katemacdonald.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thepulp.net/pulpsuperfan/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| akapastorguy.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.bbc.co.uk/blogs/eurovision |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/strictlycomedancing |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.truefitt-baker.co.uk/blog-1 |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| runner500.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| heavenali.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| northernreader.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theatre.revstan.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mikkosgameblog.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bbc.co.uk/blogs/bbchistoryresearch |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.sparklytrainers.com/reading/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| opinionatedgamers.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| talkingshelfspace.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| taogaming.wordpress.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.inthecheapseats.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| xixvek.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| nosuchthingasbadweather.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.freerangekids.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.resourceaholic.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bergman-udl.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| abakcus.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.stuckinabook.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.cbs.dk/inframethodology/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| dieworkwear.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.eduwonk.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| learningfrommymistakesenglish.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| spacebiff.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| learningspy.co.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| idstuff.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| notawfulandboring.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kaggsysbookishramblings.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.trueelena.org/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.frockflicks.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.stitchesontherun.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cherrylkd.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blogs.agu.org/geoedtrek/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.runestone.academy |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.ethanhein.com/wp/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cavmaths.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bbc.co.uk/rd/blog |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| joemoran.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| atailormadeit.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| teachingmadevisible.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| researchwhisperer.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lauramcinerney.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| bethsbobbins.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brightlightsfilm.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| clothesinbooks.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.houstonforesight.org/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thesewinggoatherd.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| annaworden.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tokyo-fashion.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.howwemontessori.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.teachertoolkit.co.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| larrycuban.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mainelymenswear.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.teachthefuture.org/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| teachingbattleground.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.artofthetitle.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thesiswhisperer.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.cartoonbrew.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| punkeinfilm.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.specialneedsjungle.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| binocularshot.tumblr.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.frockflicks.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| punyamishra.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| voxsartoria.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.taylortailor.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| crazywalls.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| anthonybalducci.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| rootsandwingskindergarten.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.zenofdesign.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dreamsbuiltbyhand.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| filmandfurniture.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.europebyrail.eu/european-rail-news-notes/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cine-vue.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| derrickbang.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cinemasparagus.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| xplane.com/x-blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| thestopbutton.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| quellemovies.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.coffeecoffeeandmorecoffee.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| breakfastintheruins.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| monsterzone.org/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| separatedbyacommonlanguage.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| witness2fashion.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lughat.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| garethrees.org/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| theartsofslowcinema.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fxrant.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.irenebrination.com/irenebrination_notes_on_a/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| grammaticus.blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fromsqualortoballer.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.inkyfool.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| prolost.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| filmruminations.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| laurasmiscmusings.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.permanentstyle.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| adarkhighway.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.theviviennefiles.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| colinmorris.github.io |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| wristwatchreview.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| allthingslinguistic.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| twentyfourframes.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| atthepictures.photo.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.menswearmusings.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.acelinguist.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.balashon.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| putthison.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| aelarsen.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thetimebum.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.worldofreel.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cinebeats.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| moviecrashcourse.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| psychotronicpaul.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| deeperintomovies.net/journal/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| shadycharacters.co.uk |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blast-o-rama.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| the-rosenrot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| somecamerunning.typepad.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| languagelog.ldc.upenn.edu/nll/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| scifiinterfaces.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| language-and-innovation.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thousandmovieproject.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| coffeesnobblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ideophone.org/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| nutfieldgenealogy.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.matthewbogart.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.jordanmechner.com/en/latest-news/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| ukgenealogylinks.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| leonardmaltin.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.conniewonnie.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dcairns.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| arnoldzwicky.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.ourbow.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.thenewestrant.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| stronglang.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tomarmitage.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.badspacecomics.com/home |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mcqn.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| kitchen-sink.kwakk.info/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.epsilonsworld.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| nancyfriedman.typepad.com/away_with_words/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| notoneoffbritishisms.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bearalley.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| artofmemory.com/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| pcgazer.com |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.davidbordwell.net/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.righto.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| makoism.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thewaytocoffee.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| goingbacktoelectronic.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tv-vcr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| wearecult.rocks/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jpawlik.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| russiandinosaur.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.tho.ms |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.kindertrauma.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.penaddict.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| blog.trekcore.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| stevedoescomics.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| skookworks.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| liliputing.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.beanground.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.wellappointeddesk.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pipelinecomics.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| salman.io/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| fleen.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thepatronsaintofsuperheroes.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| speedforce.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| fossilhuntress.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| atomicjunkshop.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| namerology.com/category/articles/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| epod.usra.edu/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| stancarey.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.attic24.typepad.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| planb.nicecupoftea.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| vincennes.medium.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| softrobotcritics.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thisisindexed.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.chapatimystery.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| joshreads.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| reading19001950.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.cpushack.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| orsoncartatlarge.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| geotripper.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.beanpoet.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blogs.agu.org/geoedtrek/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blogs.agu.org/fromaglaciersperspective/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.progressiveruin.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cheapskatesguide.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| anaulin.org/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| rooniecomics.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| craigmod.com/essays/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| blogs.agu.org/mountainbeltway/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| rmukeshgupta.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| eos.org/ed-vox |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bibliophilicblogger.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blogs.agu.org/georneys/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| booksandpictures.wordpress.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| evidenceanecdotal.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.roboticgizmos.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bibliopolitan.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blogs.agu.org/landslideblog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| aaugh.com/wordpress/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| spookygeology.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bunniestudios.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| languagehat.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| clothesinbooks.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| johnclare.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blogs.agu.org/sciencecommunication/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| laudatortemporisacti.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| goethetc.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| educationechochamber.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| perfectretort.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bloomsite.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bdralyuk.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| joemoran.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.davidsbookworld.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| neglectedbooks.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| publicdomainreview.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.solearabiantree.net/reedinglessons/index.php |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| agardenkeptinapocket.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| aworkinglibrary.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.complete-review.com/saloon/index.htm |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thecaptivereader.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| roseannechambers.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| brianbusby.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| desturmobed.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bluelabyrinths.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| awfullibrarybooks.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| booktrek.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| themillions.com/category/features/essays |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| acommonreader.st/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| largeheartedboy.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bookjotter.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theindiebobspot.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| smashpages.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| newcritique.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.librn.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.volcanocafe.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tedunderwood.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cheesenbiscuits.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ericidle.com/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thepulp.net/yellowedperils/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.blackplastic.co.uk |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| literarybritain.co.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| theuntranslated.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.mcsweeneys.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| melbourneblogger.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| abandoned.photos/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.travelbetweenthepages.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blackdownsoundboy.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| archeyes.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.architecturelab.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.archpaper.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| englishbuildings.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| soundstudiesblog.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| archinect.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| electricliterature.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mnmt.no/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pickyglutton.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| sebald.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| shinynewbooks.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| drawingmatter.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| meatandoneveg.blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pluralistic.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tonysreadinglist.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bl.ag/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| wranglingintheantipodes.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.tryanphotos.com/tasmanian-modernism-blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| buildingourpast.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tristanlouthrobins.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| andershusa.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thehippiesnowwearblack.org.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| russelldavies.typepad.com/eggbaconchipsandbeans/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bookhaven.stanford.edu/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| architecturalcomment.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.readingsheffield.co.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| thomasguignard.photo/libraries |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ambientblog.net/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| socks-studio.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| buildingsofnewengland.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| disquiet.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.timboucher.ca/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| sarahwerner.net/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| municipaldreams.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.archiobjects.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ragpickinghistory.co.uk/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| archidose.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.popjustice.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.peterharrington.co.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.design-is-fine.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.designersandbooks.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| garagehangover.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.pablolarah.cl/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| matthewstrom.com/writing |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| josenaranja.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.casualoptimist.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| dru-withoutamap.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.presentandcorrect.com/blogs/blog |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| scientificillustration.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| kbbblog.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| jarango.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| veerle.duoh.com/design |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| placesjournal.org/?cn-reloaded=1 |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| scottboms.com/documenting/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.irenebrination.com/irenebrination_notes_on_a/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.pablolarah.cl/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thisiscolossal.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.spellingmistakescostlives.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.architectsjournal.co.uk/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.its-her-factory.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| skookworks.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| sb129.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.slicingupeyeballs.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| imjustcreative.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| journal.buzzusborne.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| oldstructures.nyc/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| juliabausenhardt.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| austinkleon.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thettablog.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.spongefile.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bldgblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| f0und0bjects.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| letterformarchive.org/news/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.core77.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.johncoulthart.com/feuilleton/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thespaces.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.architectural-review.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| noisydecentgraphics.typepad.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cmhb.de |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| postsecret.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| janeaudas.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| jennytrout.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.swiss-miss.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| longnow.org/ideas/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| hedgehogreview.com/web-features/thr |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.design-is-fine.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hermitary.com/around/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bethefuture.space |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| orgdesignfordesignorgs.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| smithery.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| captainawkward.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| graveyarddetective.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.spoon-tamago.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| shapersofthe80s.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| grandmawilliams.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mikedempsey.typepad.com/graphic_journey_blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.yankodesign.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| haptalaon.dreamwidth.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.underconsideration.com/brandnew/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| mototype.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thettablog.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| crazywalls.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mossandfog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| rootsofprogress.org/posts |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ayearinthecountry.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.classicfilmtvcafe.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thelondondead.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| smallworkshop.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jimcarroll.com/blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.overcomingbias.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.freerangekids.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.wemadethis.co.uk/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| soif.org.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| paleofuture.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.cartoonbrew.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| sboots.ca/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| anthrodendum.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cwickham.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| futureprobe.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.artofthetitle.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/doctorwho |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/writersroom |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.wehuntedthemammoth.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.frockflicks.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.screenactionjazz.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| kk.org/thetechnium/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| freepartypeople.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thenextwavefutures.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.teachthefuture.org/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.andyhinesight.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jfsdigital.org/category/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| sohannabarberaesque.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cemeteryclub.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blast-o-rama.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.spoon-tamago.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| meaninglessinsights.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thiswayupzine.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| timworthington.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thewertzone.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bronhebog.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| kapowskireads.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| practical.engineering/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| minorliteratures.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| timesflowstemmed.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/strictlycomedancing |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.newshounds.us/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.hermitary.com/thatch/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| galacticjourney.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| gralefrit.weebly.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| steelonsand.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| isleofstoner.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| forgottentelevisiondrama.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| psychotronicpaul.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| 8pawsrailline.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.houstonforesight.org/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ocalicreek.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thestopbutton.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| wearecult.rocks/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| magpieandoldlead.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| scifiinterfaces.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| 30squaresofontario.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.antipope.org/charlie/blog-static/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| africasacountry.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| unnycoombelala.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.its-her-factory.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.dirtyfeed.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| carmensminiaturepainting.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| timworthington.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mrrminutiae.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| nevardmedia.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| paxton-road.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| emilygorcenski.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| philsworkbench.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| esngblog.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| timhalesblog.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| popularhistorybooks.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| averypublicsociologist.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.realityblurred.com/realitytv/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.petermerholz.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| site-of-curiosities.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.trekcore.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| analogue.gg |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| historyunfolding.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cdrom.ca/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.designersandbooks.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| observationalepidemiology.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.spellingmistakescostlives.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| gameboyessentials.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| tv-vcr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| conservativehome.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| iainplays.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| williamdavies.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| smallscaleworld.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| princestreet.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lilura1.blogspot.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| constitution-unit.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| hutnyk.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| arcadeblogger.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| easternmind.tumblr.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.lrb.co.uk/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| southern-railway.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.middleagedfatkids.xyz |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| westhalton.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thebrushpainter.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| crpgaddict.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.minetest.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| advgamer.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| johnquiggin.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| freethoughtblogs.com/pharyngula/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.gamerdad.com/blog/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| gearsrealm.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hypertexthero.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bluerenga.blog/all-the-adventures/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| lunaticobscurity.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.blog.radiator.debacle.us/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.jordanmechner.com/en/latest-news/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.triple-aye.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.ikkaro.com/en/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| buried-treasure.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.aaiiintt.xyz/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mattgemmell.com/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| jrients.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.monbiot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| togelius.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.yellhole.com/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| situationnisteblog.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| coreyrobin.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| johnmenadue.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| noescapevg.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kimimithegameeatingshemonster.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.filfre.net/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| natgeofound.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| vaporwave-van-gogh.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| 70sscifiart.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| aegir.org |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| aaronland.info/orthis/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| migurski.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.rotational.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thisisnthappiness.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| strangeattractor.co.uk/news/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| jimmeruk.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| philebersole.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ephemeralenigmascom.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| wormwoodiana.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.onlineracedriver.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| hotvvheels.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.interfluidity.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| bluerenga.blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| voxsartoria.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.irisheconomy.ie/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| world.hey.com/tratt |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| monsterbrains.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brucesterling.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| alexwilson.tech/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| toomuchhorrorfiction.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bartlett.pro |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| arun.is/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.badgamehalloffame.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| genesistemple.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.gamesthatwerent.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| werd.io/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.otherstrangeness.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| birchtree.me/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| alongtheray.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| notes.annagoss.co/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| andrewdoran.uk/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.wurb.com/stack/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| critical-distance.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| epod.usra.edu/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bert.org |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bethefuture.space |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.maxfrequency.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kryogenix.org/days |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| benovermyer.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| distantarcade.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.benkuhn.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.bfoliver.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.nathalielawhead.com/candybox/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brajeshwar.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.rousette.org.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.sluggerotoole.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.lmorchard.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.raphkoster.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.blue-witch.co.uk/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| busterbenson.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| antharris.co/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| charlesharri.es |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| piszek.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dammit.nl/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bencrowder.net/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| clagnut.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| cdevroe.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.blckdgrd.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| chrisjones.io |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| atlasminor.com/journal |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.pentadact.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| davidsimon.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| speedbird.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dansinker.com/blog/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| qmacro.org/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.kindertrauma.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| babakfakhamzadeh.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| boston.conman.org/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| notebook.drmaciver.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| decafbad.net |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| de-online.co.uk |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| caterina.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| comicsworthreading.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| emilygorcenski.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| zachbarocas.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pulpcovers.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| alisonwilder.net/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| new.anti-mega.com/again/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.oblomovka.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ewen.io |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cabel.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.christopherfowler.co.uk/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ellie.wtf |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ethanmarcotte.com/wrote/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| declanbyrd.co.uk |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| daverupert.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| betweenthebars.org/blogs/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| digitalbydefault.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bowblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bookmaniac.org |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| danq.me/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thedysfunctionalworldof.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| gemmacope.land/writing/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| benjaminreinhardt.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| coxy.co |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| hans.gerwitz.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lbj20.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| evencleveland.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.conscienceround.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fberriman.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.chriscorrigan.com/parkinglot/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.dummies-for-destruction.co.uk/random/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hacdias.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.flutterby.net/Main_Page |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.cassandrapages.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| gilest.org/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| firstknownwhenlost.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| freshmud.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.grizzlebit.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| doubleloop.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dancullum.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| digyourfins.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| chriswiegman.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| powazek.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| docpop.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| emmas.site/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| chrisglass.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.blackphoebe.com/msjen |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fortlaufen.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dancohen.org/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.jeremiahlee.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blog.tobiasrevell.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fleeblewidget.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| irongeek.net |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| idiolect.org.uk/notes/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| holdfastprojects.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| abscond.org/posts/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| shepelavy.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| javier.computer |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| inessential.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| satyrs.eu/garden/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| someonesmumsays.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| jennifermillsnews.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.iamcal.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.joelotter.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.jimmybramlett.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| jason.nabein.me/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| laughingmeme.org/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| artlung.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| autisticjane.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thegirlinthechair.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.joehxblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| fiftyfootshadows.net/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.designswarm.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| i.never.nu/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.kickscondor.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| blog.ktamas.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| keningzhu.com/journal |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| infovore.org/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| jimmeruk.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bofh.org.uk/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.iainsinclair.org.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| podviaznikov.com/writings |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mariovillalobos.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lostfocus.de |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| lahosken.san-francisco.ca.us/new/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.jayeless.net |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mhurrell.co.uk/prospects/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| nielsenhayden.com/makinglight/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.netwert.com/ideapad |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| maya.land/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.mcqn.net/mcfilter/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| george08.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.jwz.org/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| write.as/matt/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| neuromantics.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thecontrn.xyz |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.jemjabella.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.manton.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| marcel.io/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.lapsedordinary.net/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| lewisdale.dev/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.invisiblethemepark.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| sippey.medium.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| links.net/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.jeansnow.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.cassey.dev/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| natbuckley.co.uk/blog/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| kevinspencer.org/posts |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.somebits.com/weblog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| susan-stepney.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| archidose.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kimberlyhirsh.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| littlecottonrabbits.typepad.co.uk |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| manuelmoreale.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| swingleydev.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| styledeficit.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| lucybellwood.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.kaa.bz |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| memex.naughtons.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.ncase.me/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.hexkey.co.uk/lee/log/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| paulcapewell.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| nigeness.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mikelynch.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mygranddadiskeepingbusy.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| kelake.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.ohheybrian.com |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| nadreck.me |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mudge.name/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| maxbarry.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| odonnellweb.com/pelican |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.zenbaglady.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.extua.pw/blog/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ohhelloana.blog/posts/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| metagrrrl.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| p1k3.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.hyperorg.com/blogger/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| ma.tt/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pivic.blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| newsfromnorfolk.uk/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| alis.me |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.vanderwal.net/random/index.php |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| microkhan.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| vincode.io/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| paulrobertlloyd.com/articles/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| jeremybaker.nz |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.ldodds.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| multoghost.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ftrain.medium.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.pnarp.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| po-ru.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.hotelblues.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| eli.li/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| polytechnic.co.uk/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.jonathancrowe.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| matthewsheret.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pig-monkey.com/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| sanguineroyal.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blog.mattedgar.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| noisydecentgraphics.typepad.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.tbray.org/ongoing/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| pixelesque.net/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mssv.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.nicolasnova.net/pasta-and-vinegar/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| v6.robweychert.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| scraplab.net/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ruk.ca/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| sheep.horse/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| notes.husk.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bluelander.bearblog.dev/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.orbific.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.riffraff.info |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| colly.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| starbreaker.org/blog |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.robinsloan.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| snarkmarket.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| scottnesbitt.online |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ilike.org.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| idlewords.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| robhinchcliffe.co.uk/blog.html |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| roytang.net/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| seandietrich.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| simply.joejenett.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| simone.computer/#/blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| postbureaucrat.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.splitbrain.org |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| petafloptimism.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.peterme.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dougbelshaw.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.minor9th.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| peteashton.com/writing/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| snook.ca/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| nicksweeney.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| stml.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.skrasser.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| richlyevocative.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| paulmiller.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| subpixel.space/entries/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.ratcatcher.org/page/1 |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| sidewalken.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| questionsconsidered.blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thejaymo.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| patintheworld.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thoughts.hnr.fyi/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wayne.conniptions.org/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| houseofkyle.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tomstu.art |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| russelldavies.typepad.com/planning/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.trueelena.org/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| shitty.blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thewhitepube.co.uk/blog/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| astickadogandaboxwithsomethinginit.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| notebook.wesleyac.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.symbolicforest.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| alicebartlett.co.uk/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| steamthing.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| timapple.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| veronique.ink/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.richardherring.com/warmingup/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ameyama.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| tomhume.org |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| suspendedreason.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.ribbonfarm.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ianbetteridge.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dracos.co.uk/wrote/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.thejaymo.net/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.gyford.com/phil/writing/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| blog.will-ellwood.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| thetwoterriers.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| asundayofliberty.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| rado.bg |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.sindark.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| vonexplaino.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| waituntilnextyear.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| warrenellis.ltd/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thewhitepube.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.zmh.org |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.aiweirdness.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| f0und0bjects.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| musicpresspantheon.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| futureheritage.wordpress.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.web-goddess.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| write.as/zampano/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| whygodwhy.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| reynoldsretro.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.bobbie.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lukesalamone.github.io/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.velcro-city.co.uk/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| simonreynoldsfavesunfaves.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hardlybaked2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thinkigekru2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blissout.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| shockandawesimonreynolds2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tristanlouthrobins.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ultracrepidn.phfactor.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.retirementinvestingtoday.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.sparklytrainers.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| replicate.com/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| energyflashbysimonreynolds.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tracydurnell.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.evidenceinvestor.com/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| fabfourblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.beautifulpublicdata.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| latlong.blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| ckochis.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| zompist.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| retromaniabysimonreynolds.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.davidrumsey.com/blog |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mediajunkie.com/author/xian/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| togelius.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.windsortowncrier.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| a.wholelottanothing.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| leapfrog.nl/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.statsmapsnpix.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| winnielim.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| tedunderwood.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.zenaassaad.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| sexhealthmoneydeath.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| flowingdata.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| firevlondon.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| baileysbeerblog.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| monevator.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| googlemapsmania.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.trailspotting.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tandlemanbeerblog.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brewinabedsit.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brilliantmaps.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| writing.kemitchell.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mappinglondon.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bigthink.com/strange-maps/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| transitmap.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| balkin.blogspot.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dougmccune.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| armsandthelaw.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| keet.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.willhawkes.net/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.mrmoneymustache.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| millsfield.sfomuseum.org/blog |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| junkcharts.typepad.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| imagico.de/blog/en/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bankeronwheels.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| beerinsider.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| alhfam.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.maproomblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| financialmechanic.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.europebyrail.eu/european-rail-news-notes/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| kieranhealy.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| gshakan.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| abetterbeerblog427.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.pogowasright.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| aphilosopherwalks.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| stephanieevergreen.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| webdevlaw.uk/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| zythophile.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.timboucher.ca/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| lawandthemultiverse.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.loweringthebar.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| africasacountry.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| knowwhereconsulting.co.uk/giscussions/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| johnquiggin.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| melbourneontransit.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.niche-museums.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| timmcmahon.com.au/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.zeldman.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.stephenknightphotography.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thebeernut.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.freewheelingfrance.com/blog/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.caribbeansignal.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.penaddict.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.boakandbailey.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.taiwanquest.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| zakreviews.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| daringfireball.net/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| britishcoast.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pivic.blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| scrivenerserror.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| patentlyo.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.wellappointeddesk.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| piperhaywood.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| propertyintangible.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ridiculouslyinteresting.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tgreviews.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.scotusblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| taoofmac.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.belgiansmaak.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| verfassungsblog.de/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| victorianparis.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| constitutionallyspeaking.co.za/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.macrumors.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| initialcharge.net |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| scholars-stage.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.carryology.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.timac.org/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| flintlockandtomahawk.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| 512pixels.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| hypercritical.co |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mtlcityweblog.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| shapeof.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.david-smith.org/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| markstoneman.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| brooksreview.net |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| particulations.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| laststandonzombieisland.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| marco.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blogs.bl.uk/european/index.html |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| everydaycarry.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| balloonstodrones.com/articles/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| wristwatchreview.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| osxdaily.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blobthescientist.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| constitutionallyspeaking.co.za/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| knifesteelnerds.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blogs.loc.gov/law/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| improvesomething.today |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| richardswsmith.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.patentlyapple.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| quomodocumque.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| greatwarfiction.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thetimebum.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| futuresoutheastasia.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.macstories.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| taylorjessen.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| zeroair.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| openobjects.org.uk |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.dreamweapons.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| davidallengreen.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theinvasionnetwork.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mjtsai.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.fluxblog.org/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| oldwax.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| archaicinventions.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| greek-metal-area.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| electronicorgy.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hushkit.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| left-and-to-the-back.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theperfumedgarden.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| airminded.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| josephbarulho.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| situationnisteblog.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| caiustheory.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| lucumr.pocoo.org/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.askamanager.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| corporalfrisk.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| austinmorlan.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.applemust.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| akselmo.dev |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| sixcolors.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| colinmorris.github.io |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blackhandinn2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| slab.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| brettterpstra.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.thelrm.org/blog |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| danielmangum.com/posts/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| matt.sh/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.windytan.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dieordiy2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bonfirenetworks.org/blog/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| therealadam.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ectobit.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.nuclearsecrecy.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.djmannion.net |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.jlcarveth.dev |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.saidthegramophone.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| warandsecurity.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| offby1.website/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| evertpot.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ianbicking.org/blog/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.harihareswara.net |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| psychogeographicreview.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| edds.me/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| qmacro.org/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| bylr.info/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| worldsworstrecords.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bower.sh |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.adamchalmers.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.malgregator.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mondaynote.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fasterthanli.me |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| soul-sides.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.computationalcomplexity.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| inessential.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| jerrynsh.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| erikbern.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| leancrew.com/all-this/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| incoherency.co.uk/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| drewdevault.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.calnewport.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.devever.net/~hl/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.david-smith.org/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| coastalwalker.co.uk/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| iliana.fyi/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| cabeda.dev |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.hillelwayne.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.linusakesson.net/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| jvns.ca/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| learnbyexample.github.io/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.lkhrs.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cheeaun.com/blog/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| pachulski.me |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ktheory.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| justinnoel.dev |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| suhas.org/posts/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| ljvmiranda921.github.io |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lewisdale.dev/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| paul.totterman.name |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mudge.name/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brooker.co.za/blog/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.hughrundle.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.mattkeeter.com/blog/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blog.mocoso.co.uk/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thejavaguy.org |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.ploeh.dk/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| vickiboykis.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.swiftjectivec.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| joy.recurse.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| soup.agnescameron.info/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| kevquirk.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| journal.paoloamoroso.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| soatok.blog/b/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| martinheinz.dev/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tomarmitage.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blog.wesleyac.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.swiftbysundell.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.triple-aye.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| yasha.solutions |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| chriswiegman.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| beyermatthias.de |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| xeiaso.net/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| macwright.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| procedural-generation.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| seirdy.one/posts/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| t-ravis.com/room/post/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| andypiper.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| austintownhall.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| laurelsplutoblog.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dreamsofspace.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.scottericpetersen.com/writing/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| serhack.me |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| zignar.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.suffix.be/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| zserge.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| projects.kevinandersen.dk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| phoenixtrap.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| wcedmisten.fyi |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.yieldcode.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| manyworlds.space/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theheatwarps.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| stratus3d.com/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| whoo.ps/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| samestuffdifferentday.net |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ronjeffries.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| lambdacreate.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.skrasser.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.writefreely.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| til.simonwillison.net/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| optional.is/required/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wediscover.space/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| reckart.blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mjtsai.com/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| movieos.org/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| apod.nasa.gov/apod/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| astroblogger.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| youssefbouzekri.vercel.app/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| moviecrashcourse.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.centauri-dreams.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| nonhumanagency.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| publictransitanalytics.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| lightfrom.space/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| uncle-rods.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| remanzacco.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.thespacereview.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.duluthnewstribune.com/lifestyle/astro-bob |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| thejeshgn.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| spaceflighthistory.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| flyingsinger.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| antimatter.ie/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thousandmovieproject.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.universetoday.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.shogan.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| caltrain-hsr.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| pnaerc.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| simeyeveritt.wixsite.com/brapa/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| capntransit.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| beachburg.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| crpgaddict.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| ecmreviews.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| storeboughtisfineblog.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| projectswordtoys.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| melbourneontransit.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| transitmap.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| accidentalwoodworker.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.geocities.institute/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| smallworkshop.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| transitsleuth.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cheapskatesguide.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| waxy.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| erinkissane.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.cjcid.com |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.wanderingspace.info/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| nnw.ranchero.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bluerenga.blog/all-the-adventures/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| thetrolleydodger.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| advgamer.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thespacewriter.com/wp/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thevalleywoodworker.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| starinastar.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| boat.karlnelson.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| crowlspace.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| nintil.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theunconventionalgardener.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.londonreconnections.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thebeautyoftransport.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| 4gravitons.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| abakcus.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| journeymansjournel.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ciechanow.ski |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wpatrickedwards.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| toolsforworkingwood.com/store/blog/joel/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.newthingsunderthesun.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| paulsellers.com/woodworking-blog/paul-sellers-blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| princestreet.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| literaryworkshop.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| workingbyhand.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| reprog.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| lukebennett13.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theapartmentwoodworker.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| busandtrainuser.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.lostartpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| watered-down-physics.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| scytheassociation.org/#latestnews |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| joeswoodworkingjourney.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.drewexmachina.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mindhacks.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.airlinereporter.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.quantamagazine.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| humantransit.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| pedestrianobservations.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| offgrid-woodbutcher.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.sandwichtribunal.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| asymptotia.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| greenshadediary.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.math.columbia.edu/~woit/wordpress/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| backreaction.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| fagerjord.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| davidffisher.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| slimemoldtimemold.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.theenglishwoodworker.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.traingeek.ca/wp/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| adamapples.blogspot.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| ibuildit.ca/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.danielbowen.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.geepawhill.org/weekly/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| magculture.com/blogs/journal |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.leonarddavid.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thinking-about-science.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| greenbriarpictureshows.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| scottaaronson.blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| johncarlosbaez.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pegsandtails.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.montydon.com/tips-and-advice |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| rachel-the-gardener.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.antipope.org/charlie/blog-static/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.classicfilmtvcafe.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| laurasmiscmusings.blogspot.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ladyevesreellife.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| singularityhub.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thonyc.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| gregalder.com/yardposts/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.realmensow.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| statmodeling.stat.columbia.edu/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.screenactionjazz.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| nzpetesmatteshot.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.newspaperclub.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.woodlifestudio.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| datacolada.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| clamba.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| theunconventionalgardener.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| nwn.blogs.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.outofthepastblog.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| kenmacleod.blogspot.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| jimpurbrick.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| amechanicalart.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hugoclub.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wirehaiku.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thewertzone.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| 70sscifiart.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hollywoodrevue.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.byhandandeye.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| magforum.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| classicsofsciencefiction.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.archive.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| apod.nasa.gov/apod/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| p1k3.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| silverscreenings.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.bbc.co.uk/blogs/writersroom |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| techknitting.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| sfss.space |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.stackmagazines.com/editorial/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| eliotpeper.com/blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| mporcius.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www3.bostonglobe.com/news/bigpicture/?arc404=true |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| galacticjourney.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.aldrovanda.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| nodighome.com/blog-posts/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| seekingstars.tumblr.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| christopherlbennett.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.adamynyrardd.cymru/en/blog-en/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| voyagesextraordinaires.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thelastdrivein.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| retractionwatch.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| radiojayallen.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.timetestedtools.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.theguardian.com/artanddesign/series/mybestshot |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| sciencefictionruminations.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| abandoned.photos/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.allencompassingtrip.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| aphascience.blog.gov.uk/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| gwynethllewelyn.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mynameismwd.org/posts/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| littlecottonrabbits.typepad.co.uk |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.eff.org/deeplinks |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| disoriented.net/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| shadowsandsatin.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| joshwithers.blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| lightfrom.space/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| leancrew.com/all-this/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| jessieathome.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| notstatschat.rbind.io/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thehistoryofparliament.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| reldn.co.uk/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| deaneyang.github.io/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| pluralistic.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dansblog.netlify.app/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| beautyofmathematics.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| accessibility.blog.gov.uk/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| leoniewise.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| photos.raygrasso.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.maurits.ch |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| 11011110.github.io/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.greencaltrain.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mathspp.com/blog |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.simongriffee.com/notebook/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| skeetmotis.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| frishmanphoto.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ace.blog.gov.uk/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.tryanphotos.com/tasmanian-modernism-blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.kevuhnn.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thomasguignard.photo/libraries |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.computationalcomplexity.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.raphkoster.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.yulingyao.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.jimgrey.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| livefreeordichotomize.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| landreville.blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| abakcus.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.tor.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| pbelmans.ncag.info/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| anuragbishnoi.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.sharonlohr.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| Duncan.co |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| notawfulandboring.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| m-phi.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| golem.ph.utexas.edu/category/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| rjlipton.wpcomstaging.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| silentfilmlivemusic.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| silverscenesblog.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| gilkalai.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cavmaths.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| girlsangle.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| junkcharts.typepad.com/numbersruleyourworld/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| errorstatistics.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| silverscenesblog.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hometownstohollywood.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| rarehistoricalphotos.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.shorpy.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brianevansphoto.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| silentlondon.co.uk |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bethsbobbins.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| alabamayesterdays.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| melbourneblogger.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| quomodocumque.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| igorpak.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| moviessilently.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cinematica.ourpatioparty.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| peoplevsarbuckle.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| grandoldmovies.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.blackphoebe.com/msjen |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.strangehistory.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| xenaproject.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| xianblog.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| silentlocations.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| gshakan.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| airminded.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fastestslowguy.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| flintlockandtomahawk.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lincolnmullen.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| graveyarddetective.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.johndcook.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| terrytao.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jdh.hamkins.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| saesferd.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.statschat.org.nz/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| imagesofoldhawaii.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mikedashhistory.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| analog-antiqun.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| markstoneman.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| silentology.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.inthemedievalmiddle.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| popularhistorybooks.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.galoisrepresentations.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| brian-sandberg.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.traingeek.ca/wp/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| historyunfolding.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| distillatio.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.science.org/blogs/pipeline |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| atthepictures.photo.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blogs.bl.uk/digitisedmanuscripts/index.html?_ga=2.256902159.588237997.1495240971-1073214118.1495240940 |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| paleofuture.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.bookandsword.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| historyofknowledge.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| historicalragbag.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| s-usih.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| acoup.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| billpetro.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| earlymodernnotes.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thehistoryofparliament.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.olddeptfordhistory.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dralun.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.leidenmedievalistsblog.nl/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mssprovenance.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| publicdomainreview.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lookup.london/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| markgelbart.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.weirduniverse.net |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| annaworden.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.vintag.es/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| scholars-stage.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| hatfulofhistory.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| riowang.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| retroist.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| strangeflowers.wordpress.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| secondglancehistory.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| aelarsen.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| londonhistorians.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lancashirepast.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theinvasionnetwork.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.england.nhs.uk/blogs/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.edwardianpromenade.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.teesche.com/blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| wearethemutants.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| livinglondonhistory.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| voyagesextraordinaires.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| run161.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thonyc.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.auditorymusings.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| victorianparis.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.labrujulaverde.com/en/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mariocarrion.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| petefrost.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| dralun.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.janetgyford.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bestpartday.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.bbc.co.uk/blogs/acrosstheline |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.evidentlycochrane.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| vassifer.blogs.com/alexinnyc/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.bbc.co.uk/blogs/introducing |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.specialneedsjungle.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| slab.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| go-feet.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cardrossmaniac2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.breakfastandtravelupdates.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| blog.chrisrowbury.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.lazygirlrunning.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.synthtopia.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| talesoftimesforgotten.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| fogsongs.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dangerousminds.net/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| onceuponatimeinthevest.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.scottericpetersen.com/writing/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| doomandgloomfromthetomb.tumblr.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| breakingmorewaves.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| hardlybaked2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| thequietus.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.secretdesihistory.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| whatsheonaboutnow.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| banbantonton.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mccookerybook.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dgmlive.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| minutestomidnight.co.uk/blog/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| history-is-made-at-night.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.bbc.co.uk/blogs/eurovision |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.thehistoryblog.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| eqmusicblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.spongefile.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| meaninglessinsights.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| listenofthe.day |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| itstartswithabirthstone.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| 8sided.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| likepunkneverhappened.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| rarehistoricalphotos.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| globalvbles.net/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| runswiththedug.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| darrensmusicblog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| freakytrigger.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.synthanatomy.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jasonpreu.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.plengegen.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| oneman1001albums2.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.stevehuffphoto.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.nationalelfservice.net/mental-health/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| 333sound.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.simonpanrucker.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| onetwoxu.de/language/en/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| trailrunningforlife.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| greilmarcus.net/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.ravensingstheblues.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.edwardseckerson.biz/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| streamsofexpression.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.shindig-magazine.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| largeheartedboy.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.dcrainmaker.com/blog |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cdm.link/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| timworthington.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| livesrunning.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| adamj.eu/tech/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.virology.ws/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| railsnotes.xyz |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| sweepingthenation.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.laravel.com |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| stlenox.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| psychotronicpaul.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| brandur.org/articles |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| thiswayupzine.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.gorillavsbear.net/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| zmacx.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| gloriousnoise.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| sarahwerner.net/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| james.brooks.page/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| dusted.codes |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.rockandnull.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.patrickdap.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| yrheartout.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| palletsprojects.com/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| bryce.vc/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| php.watch/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| yuanchuan.dev |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| spapas.github.io/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| avc.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thesavvydiabetic.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| thenumb.at |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| momentsingraphics.de/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| mattsegal.dev/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| plainlyandpainfully.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| librearts.org |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| spinemagazine.co/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| causticcovercritic.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| amyhupe.co.uk/articles/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| disquiet.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| grillopress.github.io/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| wearecult.rocks/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.theoinglis.co.uk/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.b-list.org/weblog/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| thebluemoment.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.tonmeister.ca/wordpress/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| conservativehome.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| robinthefog.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| airbagindustries.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.hoverstat.es/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| bartwronski.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pixelesque.net/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| johnsonsrambler.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| blog.writefreely.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| iwilldare.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.kooslooijesteijn.net |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| tomcritchlow.com/writing/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.thesquirepresents.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| flophousemagazine.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| merseypub.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.jarretthousenorth.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.amygoodchild.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| lancashirepast.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| brendandawes.com/blog |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| clamba.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.thevpme.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thehazeltree.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.screenactionjazz.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| log.kradeelav.com |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| wyrdbritain.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| simonschreibt.de/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| busandtrainuser.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| stamen.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| coastalwalker.co.uk/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ayearinthecountry.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ecmreviews.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| scarfolk.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.fwrarejazzvinylcollector.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| literarybritain.co.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| devonzuegel.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| sampleface.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| williamdavies.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| impressionsofvince.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| jetreidliterary.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| literaticat.tumblr.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| publishedtodeath.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bryan.medium.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| webdevlaw.uk/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.sluggerotoole.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theheatwarps.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| stopdesign.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| postabdn.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| optional.is/required/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| cornersideyard.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.sagoodnews.co.za/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| britishcoast.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| shapersofthe80s.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jerryjazzmusician.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| thenewenglishlandscape.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| tenminutespastdeadline.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.janetgyford.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| barthsnotes.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| pulpcovers.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| raggywaltz.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bothsidesofthetable.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| londonjazzcollector.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| freepartypeople.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.publishersweekly.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.giventotri.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| eastofelveden.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.windsortowncrier.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| jazzcollector.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| swoleateveryheight.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.strongtowns.org/journal/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| writerbeware.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bicycledutch.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| loudpoet.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| publishingperspectives.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| v21.io/blog/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.granolashotgun.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.publishingtrends.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.jazzwax.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| worldsinminiature.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| cityofsound.medium.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| andy-bell.co.uk/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| cwickham.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| dgmono.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| blog.zarfhome.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| annualbeta.com/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| brucefnesmith.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.aaron-gustafson.com/notebook/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| adactio.com/links |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| jonsmalldon.wordpress.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| ggwash.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| bitsofco.de/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| futuresoutheastasia.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| arseblog.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| meangreennation.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| adactio.com/journal/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.playthepast.org/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.janefriedman.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.rjohnthebad.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| blognomic.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| lukebennett13.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| davidallengreen.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| bryanlrobinson.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.cassie.codes/writing/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ericwbailey.design/published/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| emshort.blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| uxknowledgebase.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| janestuart.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| justmarkup.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.bram.us/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| streets.mn/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| sarajoy.dev/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| remysharp.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| bwtas.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.ethanhein.com/wp/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| citymonitor.ai/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| placesjournal.org/?cn-reloaded=1 |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| clagnut.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ryanmulligan.dev/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| nerdy.dev/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| impossiblehq.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| saneef.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| profootballtalk.nbcsports.com/fmia |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| css-irl.info/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| nolanlawson.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| lisilinhart.info/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| laurakalbag.com/posts/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| cathydutton.co.uk/posts/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| darn.es/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| ctproduced.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.sarasoueidan.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| adrianroselli.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.fraknoi.com/my-blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.joshwcomeau.com/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| hidde.blog/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| helloyes.dev/blog/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.roads.org.uk/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| yuanchuan.dev |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| gomakethings.com/articles/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.matuzo.at/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| lynnandtonic.com/thoughts/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| accessibility.blog.gov.uk/ |  ❌ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| oilpressure.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| chenhuijing.com/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blog.jim-nielsen.com/ |  ✅ |  ❌ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| cloudfour.com/thinks/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.stefanjudis.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| una.im/blog/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| keithjgrant.com |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.matuzo.at/blog/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| css-tricks.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| chrisburnell.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| playrface.co.uk/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| overreacted.io/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| meowni.ca/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.miriamsuzanne.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| sia.codes/posts/ |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.zachleat.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.smashingmagazine.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| matthiasott.com/articles |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| piccalil.li/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| fantasticanachronism.com/ |  ❌ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bradfrost.com/blog/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| blog.logrocket.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| taleofpainters.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.cold-takes.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| amyhupe.co.uk/articles/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| ohhelloana.blog/posts/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| daily-philosophy.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| m-phi.blogspot.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.pylonofthemonth.org/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.davidralphlewis.co.uk |  ❌ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| petefrost.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.inthecheapseats.co.uk/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.coppolacomment.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| iangmcdowell.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| edwardfeser.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| mainlymacro.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| schwitzsplinters.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| marginalrevolution.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| conversableeconomist.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| mindos.in |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.irisheconomy.ie/ |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| steelonsand.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.theurbanist.org |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jrients.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.swyx.io/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| magpieandoldlead.blogspot.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| eliotpeper.com/blog |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ❌ | 
+| www.josephamccullough.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| theotherside.timsbrannan.com |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| bluelabyrinths.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| jlwagner.net/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| errorstatistics.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| leiterreports.typepad.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| stumblingandmumbling.typepad.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| timharford.com/article/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| www.travelwritingworld.com |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| uneasymoney.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.themarginalian.org/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| aphilosopherwalks.wordpress.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| econbrowser.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.econlib.org/econlog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| austinkleon.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| electricliterature.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| preterite.net/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.chicagoskirmishwargames.com/blog/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ✅ | 
+| www.cobblerandbard.com/blog/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.notebookstories.com/ |  ✅ |  ❌ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| asuffolklane.wordpress.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| aestheticsforbirds.com/ |  ✅ |  ✅ |  ✅ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
+| www.tabletenniscoaching.com/blog |  ❌ |  ❌ |  ❌ | html_subsection ❌ |  ❌ |  ❌ |  ❌ |  ❌ | 
+| uni-watch.com/ |  ✅ |  ✅ |  ❌ | html_subsection ❌ |  ✅ |  ✅ |  ❌ |  ✅ | 
