@@ -1,0 +1,7 @@
+#!/usr/bin/env luajit
+
+require("libfreeflow")
+
+content, xml = fetch_and_build(arg[1])
+
+print(content)
