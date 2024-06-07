@@ -13,8 +13,12 @@ local math = require("math")
 local url_parser = require("net.url")
 local sqlite = require("lsqlite3complete")
 local Logging = require("logging.console")
+local rex = require("rex_pcre")
 
 local db = "sites.db" 
+
+local logger = Logging.new()
+logger:setLevel(logger.INFO)
 
 function check_uri(uri)
   return uri
@@ -29,8 +33,6 @@ function is_index(uri)
 end
 
 function fetch_and_build(url) 
-  local logger = Logging.new()
-  logger:setLevel(logger.OFF)
   local result_content = ""
   local result_xml = ""
   local buttons = {}
@@ -41,11 +43,30 @@ function fetch_and_build(url)
   local page, code, headers, status = https.request(url)
   local doc = xmlua.HTML.parse(page)
 
+  logger:info("Checking for a site specific query")
+  local status, type = pcall(function()
+      return find_page_type(url, db)
+  end)
+
+  print(type)
+
   -- try common approaches
   -- sitemap.xml: 
-  -- if (is_index(uri)) then
+  if (type == "site_index") then
+    logger:info("Searching for sitemap")
   --  sitemap / rss / opengraph
-  -- end
+    local u = url_parser.parse(url)
+    logger:info("Searching for sitemap.xml for "..u.host)
+    local robots = https.request("https://"..u.host.."/robots.txt")
+
+    local match = lpeg.match
+    local sitemap_uri = rex.match(robots,'Sitemap: (.*)')
+    local sitemap = https.request(sitemap_uri)
+    local doc = xmlua.XML.parse(sitemap)
+    -- steps here:
+    -- is the sitemap a list of urls (articles) or a list of sitemaps? 
+    -- https://www.ft.com/sitemaps/index.xml has the latter: sort by date and take latest
+  end
 
   -- rss: if we find rss, let's assume we're on an index page and skip everything else
   logger:info("Searching for RSS")
@@ -200,14 +221,32 @@ function fetch_and_build(url)
   return result_content, result_xml
 end
 
+function find_page_type(url, db)
+  handle = sqlite3.open(db)
+  u = url_parser.parse(url)
+  for path,query,map,layout in handle:urows("SELECT path,query,map,layout FROM uri WHERE host='"..u.host.."' AND path = '"..u.path.."';") do
+    logger:info("Page layout type: "..layout.." for "..u.path.."")
+    if (layout) then
+      return layout
+    end
+  end
+
+  for path,query,map,layout in handle:urows("SELECT path,query,map,layout FROM uri WHERE host='"..u.host.."';") do
+    logger:info("Page layout type: "..layout)
+    if (layout) then
+      return layout
+    end
+  end
+  return nil
+end
+
 function find_query(url, db)
   local logger = Logging.new()
   handle = sqlite3.open(db)
   u = url_parser.parse(url)
   for path,query,map,layout in handle:urows("SELECT path,query,map,layout FROM uri WHERE host='"..u.host.."';") do
-  logger:info(u.path)
     if u.path:match(path) then
-      logger:info("PATH MATCHES")
+--      logger:info("PATH MATCHES")
 --      logger:info(path,query,map,layout)
       return query
     end
