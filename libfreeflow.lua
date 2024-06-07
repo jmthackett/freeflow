@@ -24,6 +24,10 @@ function absolute_uri(fqdn, path)
   return fqdn.."/"..path
 end
 
+function is_index(uri)
+  return true
+end
+
 function fetch_and_build(url) 
   local logger = Logging.new()
   logger:setLevel(logger.OFF)
@@ -38,7 +42,11 @@ function fetch_and_build(url)
   local doc = xmlua.HTML.parse(page)
 
   -- try common approaches
-  
+  -- sitemap.xml: 
+  -- if (is_index(uri)) then
+  --  sitemap / rss / opengraph
+  -- end
+
   -- rss: if we find rss, let's assume we're on an index page and skip everything else
   logger:info("Searching for RSS")
   local docsearch = doc:search("//link[contains(@type, 'application/rss+xml')]")
